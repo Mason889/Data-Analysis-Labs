@@ -5,8 +5,8 @@
 		<link>https://3dnews.ru/</link>
 		<description>3DNews - все новости сайта</description>
 		<language>ru</language>
-		<pubDate>Thu, 11 Feb 2021 00:58:25 +0300</pubDate>
-		<lastBuildDate>Thu, 11 Feb 2021 00:58:25 +0300</lastBuildDate>
+		<pubDate>Thu, 11 Feb 2021 12:24:25 +0300</pubDate>
+		<lastBuildDate>Thu, 11 Feb 2021 12:24:25 +0300</lastBuildDate>
 		<docs>https://3dnews.ru/news/rss</docs>
 		<generator>3DNews</generator>
 		<managingEditor>nivnikov@3dnews.ru (Денис Нивников)</managingEditor>
@@ -15,6 +15,296 @@
 		<url>https://3dnews.ru/assets/images/logo.png</url>
 		</image>
 		<atom:link href="https://3dnews.ru/news/rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Motorola представила недорогой 6,1-дюймовый смартфон на базе Unisoc Tiger SC9863A</title>
+			<link>https://3dnews.ru/1032419</link>
+			<guid>https://3dnews.ru/1032419/#6024f26fb4182e2964245cd9</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032419/moto1.jpg" length="87024" type="image/jpeg" />
+			<description><![CDATA[
+								Компания Motorola представила новый доступный смартфон Moto E6i. Новинка предлагает 6,1-дюймовый дисплей Max Vision с разрешением HD+ и построена на базе восьмиядерного чипсета Unisoc Tiger SC9863A с частотой работы 1,6 ГГц. На фронтальной стороне аппарата расположена 5-мегапиксельная селфи-камера. На тыльной &mdash; блок основной камеры из двух модулей, а также светодиодная вспышка и сканер отпечатков пальцев. Разрешение основного сенсора камеры составляет 13 мегапикселей. Он оснащён оптикой с диафрагмой f/2.2. Разрешение дополнительного модуля, служащего датчиком глубины, составляет 2 Мп (диафрагма f/2.4).			]]></description>
+			<pubDate>Thu, 11 Feb 2021 12:20:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, КПК</category>
+		</item>
+		<item>
+			<title>Новые власти США не намерены смягчать санкции против Китая в технологической сфере</title>
+			<link>https://3dnews.ru/1032418</link>
+			<guid>https://3dnews.ru/1032418/#6024f203b4182e386d245cd4</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032418/flags_01.jpg" length="148528" type="image/jpeg" />
+			<description><![CDATA[
+								Первая телефонная беседа избранного президента США Джозефа Байдена (Joseph Biden) с момента его инаугурации с китайским лидером Си Цзиньпином (Xi Jinping) состоялась только на этой неделе. Знакомые с содержанием разговора источники выяснили, что США собираются расширить санкции против КНР в технологической сфере, согласовав их с союзниками. Источник изображения: Reuters			]]></description>
+			<pubDate>Thu, 11 Feb 2021 12:18:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - комментарии последних событий</category>
+		</item>
+		<item>
+			<title>Новый босс, побочные миссии и карточки Хранилища: дополнение Director’s Cut к Borderlands 3 выйдет 18 марта</title>
+			<link>https://3dnews.ru/1032415</link>
+			<guid>https://3dnews.ru/1032415/#6024e8f9b4182e2964245cd0</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032415/01.jpg" length="1701581" type="image/jpeg" />
+			<description><![CDATA[
+								Издательство 2K и студия-разработчик Gearbox Software на официальном сайте серии Borderlands объявили дату выхода Director&rsquo;s Cut &mdash; нового дополнения к шутеру Borderlands 3.   Напомним, аддон Director&rsquo;s Cut был анонсирован осенью 2020 года в качестве одной из двух частей второго сезонного абонемента. Первая составляющая набора &mdash; DLC под названием Designer&rsquo;s Cut &mdash; стала доступна ещё в ноябре.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 11:52:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
+		</item>
+		<item>
+			<title>ФАС обвинила Tele2 в незаконном повышении стоимости услуг связи</title>
+			<link>https://3dnews.ru/1032414</link>
+			<guid>https://3dnews.ru/1032414/#6024e726b4182eda7c245ccf</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032414/t1.jpg" length="297124" type="image/jpeg" />
+			<description><![CDATA[
+								Сегодня, 11 февраля 2021, Федеральная антимонопольная служба России (ФАС) сообщила о возбуждении дела в отношении ООО &laquo;Т2 Мобайл&raquo; &mdash; компании, предоставляющей услуги сотовой связи под брендом Tele2. Один из крупнейших в России мобильных операторов подозревается в незаконном повышении тарифов на свои услуги. Увеличение стоимости произошло 1 января 2021 года: рост составил в среднем 13&nbsp;%.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 11:43:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - сети и коммуникации</category>
+		</item>
+		<item>
+			<title>Расписание конференции BlizzConline обещает много интересного 20–21 февраля</title>
+			<link>https://3dnews.ru/1032413</link>
+			<guid>https://3dnews.ru/1032413/#6024e478b4182e9477245ce7</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032413/10.jpg" length="405545" type="image/jpeg" />
+			<description><![CDATA[
+								Компания Blizzard Entertainment представила полное расписание мероприятий грядущей конференции BlizzConline, которая, как понятно из названия, пройдёт в цифровом формате. Программа по ссылке отображается по вашему местному времени. Шоу продлится два дня, а церемония открытия начнётся в 01:00 20 февраля (суббота) по московскому времени. Все трансляции будут бесплатными. Расписание позволяет зрителям выстроить собственный режим просмотра событий BlizzConline по шести различным каналам.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 11:40:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - Новости сети</category>
+		</item>
+		<item>
+			<title>Грядущий флагманский планшет Galaxy Tab S8 с поддержкой 5G отметился на сайте Samsung</title>
+			<link>https://3dnews.ru/1032411</link>
+			<guid>https://3dnews.ru/1032411/#6024e24ab4182e3440245ce2</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032411/tab1.jpg" length="301629" type="image/jpeg" />
+			<description><![CDATA[
+								Интернет-источники сообщают о том, что на ирландском сайте Samsung появилось упоминание будущего флагманского планшета &mdash; одного из устройств семейства Galaxy Tab S8. Новинки придут на смену компьютерам Galaxy Tab S7, которые показаны на изображениях. Ожидается, что новая серия вберёт в себя базовую модель Galaxy Tab S8 и более производительный вариант Galaxy Tab S8+.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 11:24:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - планшетные компьютеры и смартбуки</category>
+		</item>
+		<item>
+			<title>В 2021 году Mastercard начнёт приём платежей в криптовалюте</title>
+			<link>https://3dnews.ru/1032412</link>
+			<guid>https://3dnews.ru/1032412/#6024e396b4182e9003245cf2</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032412/c1f00a8b77ae7136522e806d266b6aab.jpg" length="272628" type="image/jpeg" />
+			<description><![CDATA[
+								Международная платёжная система Mastercard объявила о планах реализовать в этом году поддержку ряда криптовалют в своей сети. О каких именно криптовалютах идёт речь, компания не уточнила. REUTERS/Thomas White			]]></description>
+			<pubDate>Thu, 11 Feb 2021 11:20:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - Новости сети</category>
+		</item>
+		<item>
+			<title>«Хочу, чтобы она гонялась за мной»: разработчик Resident Evil Village рассказал о создании леди Димитреску и реакции фанатов</title>
+			<link>https://3dnews.ru/1032408</link>
+			<guid>https://3dnews.ru/1032408/#6024d9bab4182e6831245ced</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032408/01.jpg" length="674508" type="image/jpeg" />
+			<description><![CDATA[
+								Художественный руководитель Resident Evil Village Томонори Такано (Tomonori Takano) в интервью IGN рассказал об истории создания леди Димитреску, приковавшей к себе внимание фанатского сообщества.   По словам Такано, источниками вдохновения для &laquo;обескураживающей вампирши&raquo; послужили:			]]></description>
+			<pubDate>Thu, 11 Feb 2021 11:08:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
+		</item>
+		<item>
+			<title>Смартфон Moto E7 Power за 150 евро получит мощную батарею и большой дисплей</title>
+			<link>https://3dnews.ru/1032409</link>
+			<guid>https://3dnews.ru/1032409/#6024dcfbb4182e545e245cee</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032409/mot1.jpg" length="215972" type="image/jpeg" />
+			<description><![CDATA[
+								Ресурс WinFuture опубликовал качественные пресс-рендеры и подробную информацию о технических характеристиках смартфона Moto E7 Power, который в скором времени появится в ассортименте Motorola. Новинка пополнит семейство относительно недорогих аппаратов. Сообщается, что приобрести устройство можно будет по ориентировочной цене 150 евро.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 11:07:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, КПК</category>
+		</item>
+		<item>
+			<title>PlayStation Network не работала по всему миру около двух часов</title>
+			<link>https://3dnews.ru/1032410</link>
+			<guid>https://3dnews.ru/1032410/#6024e156b4182e1828245ce7</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032410/00.jpg" length="310543" type="image/jpeg" />
+			<description><![CDATA[
+								Сегодня ночью, примерно с 4:00 по московскому времени, в работе службы Sony PlayStation Network произошёл глобальный сбой, который длился почти два часа. На странице состояния PlayStation Network все сервисы, кроме PlayStation Video, были отмечены как испытывающие проблемы. Vjeran Pavic / The Verge			]]></description>
+			<pubDate>Thu, 11 Feb 2021 10:55:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - Новости сети</category>
+		</item>
+		<item>
+			<title>Acer выпустила 24-дюймовый монитор VisionCare с соотношением сторон 16:10 и продвинутой защитой зрения</title>
+			<link>https://3dnews.ru/1032407</link>
+			<guid>https://3dnews.ru/1032407/#6024d6fcb4182e6831245ceb</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032407/acer1.jpg" length="406100" type="image/jpeg" />
+			<description><![CDATA[
+								Компания Acer расширила ассортимент мониторов, анонсировав модель B247Wbmiprfx, предназначенную прежде всего для офисного использования. Новинка выполнена на матрице IPS размером 24 дюйма по диагонали. Устройство обладает разрешением 1920&nbsp;&times;&nbsp;1200 пикселей и соотношением сторон 16:10. Яркость составляет 300 кд/м2, контрастность &mdash; 1000:1, динамическая контрастность &mdash; 100&nbsp;000&nbsp;000:1.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 10:41:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - мониторы, проекторы, ТВ-тюнеры, телевизоры</category>
+		</item>
+		<item>
+			<title>Флагманскому смартфону Xiaomi Mi MIX 4 приписали наличие подэкранной камеры</title>
+			<link>https://3dnews.ru/1032406</link>
+			<guid>https://3dnews.ru/1032406/#6024d0c3b4182e7050245cd9</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032406/mix1.jpg" length="339883" type="image/jpeg" />
+			<description><![CDATA[
+								Интернет-источники обнародовали новую порцию информации о мощном смартфоне Mi MIX 4, который в текущем году, как ожидается, анонсирует китайская компания Xiaomi. Сообщается, что устройство получит передовой дисплей с полностью безрамочным исполнением. Для этой панели не предусмотрено наличие ни отверстия, ни выреза для фронтальной камеры.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 10:18:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, КПК</category>
+		</item>
+		<item>
+			<title>В этом году Tesla запустит в Китае исследовательский центр, который разработает электромобиль за $25 000</title>
+			<link>https://3dnews.ru/1032405</link>
+			<guid>https://3dnews.ru/1032405/#6024cf52b4182e933c245ce2</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032405/tesla_01.jpg" length="80529" type="image/jpeg" />
+			<description><![CDATA[
+								Компания Tesla уже снабжает электромобилями китайской сборки потребителей в Европе, пока в Германии не начнёт работать новое предприятие, покрывающее потребности местного рынка. В Шанхае также должен появиться исследовательский центр, который собственными силами разработает новую модель электромобиля, предлагаемую и за пределами Китая. Источник изображения: Electrek			]]></description>
+			<pubDate>Thu, 11 Feb 2021 10:03:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
+		</item>
+		<item>
+			<title>Минцифры хочет включить в реестр отечественного ПО переработанный зарубежный софт</title>
+			<link>https://3dnews.ru/1032404</link>
+			<guid>https://3dnews.ru/1032404/#6024c8d4b4182e1828245cdc</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032404/1.jpg" length="1122610" type="image/jpeg" />
+			<description><![CDATA[
+								Минцифры предложило включить в реестр отечественного программного обеспечения иностранные продукты с открытым кодом, доработанные отечественными разработчиками. Подтверждать серьёзность доработки не придётся. Об этом пишут &laquo;Ведомости&raquo; со ссылкой на подготовленный проект поправок. Его достоверность подтвердили представители четырёх профильных организаций. Максут Шадаев, РИА &laquo;Новости&raquo;			]]></description>
+			<pubDate>Thu, 11 Feb 2021 10:01:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - программное обеспечение</category>
+		</item>
+		<item>
+			<title>Российский прибор обнаружил хлороводород в атмосфере Марса. Но присутствует он там не постоянно</title>
+			<link>https://3dnews.ru/1032403</link>
+			<guid>https://3dnews.ru/1032403/#6024c78db4182e1828245cda</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032403/mars1.jpg" length="253970" type="image/jpeg" />
+			<description><![CDATA[
+								Институт космических исследований Российской академии наук (ИКИ РАН) сообщает о том, что в атмосфере Марса впервые прямыми измерениями зафиксировано содержание хлороводорода. Было установлено, что хлороводород (HCl) присутствует в атмосферах как минимум двух планет Солнечной системы &mdash; Земли и Венеры. Так, на Земле он попадает в воздух из крупных водоёмов, когда частицы морских солей превращаются в аэрозоль. После взаимодействия с водой высвобождается хлор, который затем реагирует с водородсодержащими соединениями и образует хлороводород.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 09:56:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - на острие науки</category>
+		</item>
+		<item>
+			<title>Процесс включения продуктов в реестр российского ПО ускорится</title>
+			<link>https://3dnews.ru/1032400</link>
+			<guid>https://3dnews.ru/1032400/#6024c15ab4182e6831245cd9</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032400/soft1.jpg" length="349658" type="image/jpeg" />
+			<description><![CDATA[
+								Министерство цифрового развития, связи и массовых коммуникаций Российской Федерации (Минцифры России) намерено оптимизировать порядок включения продуктов в реестр отечественного программного обеспечения (ПО). Названный реестр, напомним, сформирован в соответствии со статьей 12.1 Федерального закона &laquo;Об информации, информационных технологиях и о защите информации&raquo;. В эту базу вносятся сведения обо всём программном обеспечении, которое официально признано происходящим из Российской Федерации.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 09:54:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - Новости сети</category>
+		</item>
+		<item>
+			<title>Видео: вокзал и новые ноты в тизере игрового процесса музыкального приключения Deemo II</title>
+			<link>https://3dnews.ru/1032401</link>
+			<guid>https://3dnews.ru/1032401/#6024c247b4182edb59245cd8</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032401/01.jpg" length="790585" type="image/jpeg" />
+			<description><![CDATA[
+								Издательство Rayark Inc. и студия-разработчик JetGen в связи с приближением китайского Нового года опубликовали непродолжительный тизер игрового процесса своего музыкального приключения Deemo II.   Видео длится чуть больше минуты и демонстрирует нарезку сцен разной геймплейной загруженности: от неинтерактивных роликов и пейзажей до перемещения по локациям и ритм-секций.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 09:40:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
+		</item>
+		<item>
+			<title>Разработчики MLB The Show 21 показали первый геймплей и анонсировали техническое тестирование</title>
+			<link>https://3dnews.ru/1032399</link>
+			<guid>https://3dnews.ru/1032399/#6024bba2b4182e9477245cd6</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032399/02.jpg" length="656163" type="image/jpeg" />
+			<description><![CDATA[
+								Издательство Sony Interactive Entertainment и студия-разработчик SIE San Diego на сайте официального блога PlayStation представили первое видео из цикла &laquo;Тренер и Фернандо&raquo; и анонсировали техническое тестирование MLB The Show 21.   В рамках &laquo;Тренера и Фернандо&raquo; разработчики на протяжении текущего месяца собираются рассказывать о различных аспектах MLB The Show 21. Первый выпуск посвящён &laquo;адаптированному геймплею&raquo;.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 09:09:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
+		</item>
+		<item>
+			<title>Создатели сериала по мотивам The Last of Us определились с актёрами на роли Джоэла и Элли</title>
+			<link>https://3dnews.ru/1032397</link>
+			<guid>https://3dnews.ru/1032397/#6024b3cab4182eb439245cd3</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032397/01.jpg" length="1263155" type="image/jpeg" />
+			<description><![CDATA[
+								Порталы The Hollywood Reporter и Deadline со ссылкой на свои источники раскрыли актёров на главные роли в сериале HBO по мотивам The Last of Us. Нил Дракманн (Neil Druckmann) уже подтвердил оба назначения.   Как было объявлено, контрабандиста Джоэла в грядущей экранизации сыграет чилийско-американский актёр Педро Паскаль (Pedro Pascal), известный по шоу &laquo;Мандалорец&raquo;.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 09:04:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - Новости сети</category>
+		</item>
+		<item>
+			<title>Режиссёр It Takes Two прокомментировал вероятность выхода игры на Switch</title>
+			<link>https://3dnews.ru/1032393</link>
+			<guid>https://3dnews.ru/1032393/#6024ad8fb4182e3440245cd4</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032393/01.jpg" length="1154895" type="image/jpeg" />
+			<description><![CDATA[
+								Основатель Hazelight Studios Юсеф Фарес (Josef Fares) в недавнем интервью порталу GamingBolt прокомментировал вероятность выхода своего кооперативного платформера It Takes Two на Nintendo Switch.   По словам Фареса, выпуск It Takes Two на гибридной консоли Nintendo в планы студии не входит. Более того, устройство японского платформодержателя может даже не справиться с игрой.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 09:00:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
+		</item>
+		<item>
+			<title>EVGA выпустила блок питания SuperNova 1300 M1 для майнинговых систем</title>
+			<link>https://3dnews.ru/1032398</link>
+			<guid>https://3dnews.ru/1032398/#6024b803b4182e933c245cd4</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032398/min1.jpg" length="420455" type="image/jpeg" />
+			<description><![CDATA[
+								Компания EVGA анонсировала блок питания SuperNova 1300 M1, специально разработанный для применения в компьютерах, использующихся для добычи криптовалют. Решение имеет сертификацию 80 PLUS Gold. Мощность, как отражено в названии, составляет 1300 Вт, что позволяет использовать устройство в системах с очень высокой производительностью.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 08:53:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - блоки питания, адаптеры, источники питания</category>
+		</item>
+		<item>
+			<title>Tales from the Borderlands вернётся на цифровые прилавки уже 17 февраля</title>
+			<link>https://3dnews.ru/1032390</link>
+			<guid>https://3dnews.ru/1032390/#6024a7feb4182e307c245cce</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032390/01.jpg" length="1397639" type="image/jpeg" />
+			<description><![CDATA[
+								Издательство 2K на своём официальном сайте объявило о возвращении в продажу сериального приключения Tales from the Borderlands от разработчиков из студии Telltale Games.   Напомним, Tales from the Borderlands пропала из ассортимента цифровых магазинов в мае 2019 года. С тех пор 2K не оставляла попыток вернуть игру на прилавки &mdash; до недавнего времени безрезультатно.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 08:51:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
+		</item>
+		<item>
+			<title>Renesas не откажется от услуг TSMC в условиях дефицита компонентов</title>
+			<link>https://3dnews.ru/1032402</link>
+			<guid>https://3dnews.ru/1032402/#6024c520b4182edb59245cde</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032402/renesas_01.jpg" length="200364" type="image/jpeg" />
+			<description><![CDATA[
+								Японская компания Renesas Electronics является одним из крупнейших поставщиков полупроводниковых компонентов для авторынка. Она пока ещё сохраняет собственные производственные мощности, но в сфере передовой литографии зависит от сторонних исполнителей. Текущий производственный кризис не заставил руководство Renesas сменить приоритеты. Источник изображения: Nikkei Asian Review			]]></description>
+			<pubDate>Thu, 11 Feb 2021 08:51:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
+		</item>
+		<item>
+			<title>На МКС доставят аппаратуру «Мутагенез» для разведения мух</title>
+			<link>https://3dnews.ru/1032395</link>
+			<guid>https://3dnews.ru/1032395/#6024afffb4182e3935245cd5</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032395/mks1.jpg" length="389856" type="image/jpeg" />
+			<description><![CDATA[
+								Российские исследователи намерены провести на Международной космической станции (МКС) эксперимент по наблюдению эволюционного развития дрозофил &mdash; плодовых мух. Фотографии Роскосмоса			]]></description>
+			<pubDate>Thu, 11 Feb 2021 07:59:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - на острие науки</category>
+		</item>
+		<item>
+			<title>Компании Toyota пока удаётся избежать влияния дефицита чипов на производство автомобилей</title>
+			<link>https://3dnews.ru/1032396</link>
+			<guid>https://3dnews.ru/1032396/#6024b089b4182e307c245cd1</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032396/toyota_01.jpg" length="237560" type="image/jpeg" />
+			<description><![CDATA[
+								Крупнейшие автопроизводители США и Европы жалуются на нехватку полупроводниковых компонентов, им вторят многие японские компании, но лидер национальной отрасли Toyota Motor утверждает, что пока избегает существенного влияния дефицита чипов на объёмы производства транспортных средств. Источник изображения: Toyota Motor			]]></description>
+			<pubDate>Thu, 11 Feb 2021 07:24:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
+		</item>
+		<item>
+			<title>Поисковик Google получит тёмную тему в настольных браузерах</title>
+			<link>https://3dnews.ru/1032389</link>
+			<guid>https://3dnews.ru/1032389/#60245d9ab4182e9236245ce3</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032389/206.png" length="18061" type="image/png" />
+			<description><![CDATA[
+								По сообщениям сетевых источников, компания Google ведёт активную разработку тёмного режима для своей поисковой системы, при использовании её в настольных браузерах. Возможность активации тёмного режима в поисковике компании недавно стала доступна некоторым пользователям. Это говорит о том, что в настоящее время Google тестирует новую функцию и в скором времени она может стать общедоступной. Источник говорит о том, что при запуске Chrome в режиме инкогнито у некоторых пользователей появляется сообщение, в котором говорится о доступности тёмного режима, для активации которого достаточно выбрать соответствующий параметр. В настройках поиска также присутствует опция, после активации которой тёмный режим будет приведён в соответствие с системной темой оформления.			]]></description>
+			<pubDate>Thu, 11 Feb 2021 02:48:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - Новости сети</category>
+		</item>
+		<item>
+			<title>Slack резко отреагировала на высказывание главы Microsoft о том, что своим успехом мессенджер обязан Windows</title>
+			<link>https://3dnews.ru/1032388</link>
+			<guid>https://3dnews.ru/1032388/#60245a97b4182e9932245cd8</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032388/1.png" length="86113" type="image/png" />
+			<description><![CDATA[
+								Вице-президент по коммуникациям компании Slack Джонатан Принс (Jonathan Prince) раскритиковал высказывание главы Microsoft Сатьи Наделла (Satya Nadella) о связи успеха одноимённого корпоративного мессенджера с платформой Windows. Об этом пишет The Insider. Он также повторно поднял вопрос о возможном неконкурентном поведении Geek Wire			]]></description>
+			<pubDate>Thu, 11 Feb 2021 02:46:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - Новости сети</category>
+		</item>
+		<item>
+			<title>Индийский стартап успешно испытал ракетный двигатель, полностью напечатанный на 3D-принтере</title>
+			<link>https://3dnews.ru/1032387</link>
+			<guid>https://3dnews.ru/1032387/#60245a58b4182e6b13245cdb</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032387/Master_2.jpg" length="244678" type="image/jpeg" />
+			<description><![CDATA[
+								Индийский аэрокосмический стартап Agnikul Cosmos стал первой в мире компанией, успешно испытавшей полностью напечатанный на 3D-принтере ракетный двигатель.&nbsp;Весь процесс печати полукриогенного двигателя Agnilet занял всего четыре дня, и с его помощью можно доставлять на низкую околоземную орбиту, которая находится на высоте около 700 км над поверхностью Земли, полезные нагрузки весом до 100 кг. &laquo;Весь этот двигатель, Agnilet, от начала до конца представляет собой всего единый агрегат и не имеет никаких сборных деталей&raquo;, &mdash; сказал соучредитель и генеральный директор Agnikul Сринат Равичандран (Srinath Ravichandran).			]]></description>
+			<pubDate>Thu, 11 Feb 2021 01:56:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - космос</category>
+		</item>
+		<item>
+			<title>Facebook скопирует ещё одну идею конкурентов — компания разработает аналог аудиочатов Clubhouse</title>
+			<link>https://3dnews.ru/1032386</link>
+			<guid>https://3dnews.ru/1032386/#602453ecb4182e6b13245cd6</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/11/1032386/205.jpg" length="179819" type="image/jpeg" />
+			<description><![CDATA[
+								По сообщениям сетевых источников, компания Facebook занимается разработкой сервиса аудиочатов, аналогичного Clubhouse. Об этом пишет The New York Times со ссылкой на собственные осведомлённые источники. Изображение: Getty Images			]]></description>
+			<pubDate>Thu, 11 Feb 2021 01:51:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - Новости сети</category>
+		</item>
 		<item>
 			<title>Новая статья: Обзор Infinix Note 8: недорогой смартфон с самым большим дисплеем</title>
 			<link>https://3dnews.ru/1031727</link>
@@ -94,6 +384,16 @@
 								Исследование Кембриджского университета показало, что ежегодно на майнинг популярной криптовалюты биткоин тратится больше электроэнергии, чем потребляет вся Аргентина. Добыча криптовалюты требует использования мощного оборудования, потребляющего много энергии. Специалисты считают, что в ближайшее время ситуация не изменится, если курс биткоина не упадёт. Исследователи подсчитали, что ежегодно на добычу биткоинов тратится примерно 121,36 тераватт-часов электроэнергии, что больше, чем потребляется в Аргентине (121 тераватт-часов) или Нидерландах (108,8 тераватт-часов). Уровень потребляемой майнерами энергии постепенно приближается к показателю Норвегии, где за год расходуется примерно 122 тераватт-часов энергии. &nbsp;&nbsp;			]]></description>
 			<pubDate>Wed, 10 Feb 2021 20:42:00 +0300</pubDate>
 			<category>Технологии и рынок IT. Новости - рынок IT</category>
+		</item>
+		<item>
+			<title>Российские хакеры продадут исходные коды Cyberpunk 2077 и The Witcher 3 на аукционе</title>
+			<link>https://3dnews.ru/1032377</link>
+			<guid>https://3dnews.ru/1032377/#602415b8b4182e6663245ce4</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032377/CD-Projekt-Red-leak.jpg" length="188947" type="image/jpeg" />
+			<description><![CDATA[
+								Вчера компания CD Projekt заявила, что исходные коды The Witcher 3: Wild Hunt, Gwent и Cyberpunk 2077 были украдены хакерами. Последние теперь грозятся их публиковать &mdash; в случае с цифровой ККИ злоумышленники уже это сделали и сказали, что следующий релиз стоит ожидать завтра. В связи с этим на соответствующих форумах уже начались торги данных. Данные, содержащие исходные коды Thronebreaker: The Witcher Tales, The Witcher 3: Wild Hunt, улучшенной версии The Witcher 3: Wild Hunt и Cyberpunk 2077, уже выставлены на аукцион. Хакеры требуют в качестве депозита 0,1 биткоина &mdash; в настоящее время эта сумма оценивается в $4500, или более 333 тысяч рублей. Более того, судя по всему, хакеры из России: они заявили, что аукцион начнётся в 13:00 по московскому времени.			]]></description>
+			<pubDate>Wed, 10 Feb 2021 20:41:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
 		</item>
 		<item>
 			<title>Первый коммерческий запуск Virgin Orbit осуществит для польской компании SatRevolution</title>
@@ -704,306 +1004,6 @@
 								Сегодня управляющий директор индийского подразделения Xiaomi вместе с вице-президентом компании анонсировали выход нового семейства бюджетных смартфонов Redmi Note 10 в марте этого года. Об этом передаёт Gizmochina. Источник изображения: ProstoMOB			]]></description>
 			<pubDate>Wed, 10 Feb 2021 11:25:00 +0300</pubDate>
 			<category>Технологии и рынок IT. Новости - нанотехнологии</category>
-		</item>
-		<item>
-			<title>В Китае выпустили операционную систему для квантовых компьютеров, которая повысит эффективность вычислений</title>
-			<link>https://3dnews.ru/1032309</link>
-			<guid>https://3dnews.ru/1032309/#60238d2db4182e4c22245cd9</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032309/china_q.jpg" length="432209" type="image/jpeg" />
-			<description><![CDATA[
-								Как сообщает издание Xinhua, стартап из Хэфэя в лице компании Origin Quantum представил разработанную в стране операционную систему для квантовых компьютеров. Квантовая ОС получила название Origin Pilot и продемонстрировала способность &laquo;в несколько раз&raquo; повысить эффективность квантовых вычислений. Источник изображения: Brian Wang / SCMP			]]></description>
-			<pubDate>Wed, 10 Feb 2021 11:16:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - Новости сети</category>
-		</item>
-		<item>
-			<title>OnePlus предложила поместить фронтальную камеру смартфона в ультратонкую рамку над дисплеем</title>
-			<link>https://3dnews.ru/1032308</link>
-			<guid>https://3dnews.ru/1032308/#602388b1b4182efc13245cdb</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032308/one1.jpg" length="127063" type="image/jpeg" />
-			<description><![CDATA[
-								Компания OnePlus рассматривает возможность создания смартфона с необычным исполнением фронтальной камеры. Описание устройства появилось на сайте Всемирной организации интеллектуальной собственности (World Intellectual Property Organization, WIPO). OnePlus предлагает отказаться от использования отверстия или выреза в дисплее. Вместо этого селфи-блок предлагается установить на очень узкой рамке над дисплеем.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 11:09:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, КПК</category>
-		</item>
-		<item>
-			<title>Слухи: Sony начала переводить анонсирующий трейлер «мягкого» перезапуска Silent Hill на разные языки</title>
-			<link>https://3dnews.ru/1032307</link>
-			<guid>https://3dnews.ru/1032307/#6023860fb4182efc13245cd9</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032307/01.jpg" length="594796" type="image/jpeg" />
-			<description><![CDATA[
-								Проверенный инсайдер Dusk Golem (он же AestheticGamer) на форуме ResetEra поделился имеющейся информацией насчёт закулисных подробностей до сих пор не анонсированного &laquo;мягкого&raquo; перезапуска Silent Hill.   Напомним, слухи о возвращении Silent Hill усилиями якобы Sony Interactive Entertainment настойчиво распространялись на протяжении 2020 года, однако обещанного анонса как не было, так и нет.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 10:48:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - игры</category>
-		</item>
-		<item>
-			<title>Xiaomi представит 25 февраля ноутбук RedmiBook Pro с металлическим корпусом и чипом Tiger Lake-H35</title>
-			<link>https://3dnews.ru/1032305</link>
-			<guid>https://3dnews.ru/1032305/#60238265b4182e9f32245cdb</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032305/redmi1.jpg" length="226266" type="image/jpeg" />
-			<description><![CDATA[
-								Китайская компания Xiaomi опубликовала серию тизер-изображений, предвосхищающих анонс портативного компьютера нового поколения RedmiBook Pro: ноутбук дебютирует до конца текущего месяца &mdash; 25 февраля. Известно, что новинка получит процессор Intel Core одиннадцатого поколения. В частности, говорится об использовании чипа Core i7 семейства Tiger Lake-H35. В состав графической подсистемы войдёт ускоритель GeForce MX450.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 10:27:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - ноутбуки и нетбуки</category>
-		</item>
-		<item>
-			<title>Apple бесплатно заменит аккумулятор в MacBook Pro 2016 и 2017 года, если они перестали заряжаться</title>
-			<link>https://3dnews.ru/1032304</link>
-			<guid>https://3dnews.ru/1032304/#60237c2fb4182edb79245cd5</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032304/genim.jpg" length="308356" type="image/jpeg" />
-			<description><![CDATA[
-								Если вы пользователь MacBook Pro и ваш компьютер отказывается заряжаться выше 1 %, теперь вы можете бесплатно заменить аккумулятор ноутбука. Сегодня Apple объявила о начале программы по замене батарей в ноутбуках MacBook Pro, вышедших в 2016 и 2017 году. Ранее мы уже сообщали об этой ошибке, и, как выясняется, она имеет программно-аппаратный характер. Для её исправления компания Apple выпустила дополнительные обновления macOS Big Sur 11.2.1 и даже macOS Catalina 10.15.7, которые должны исправить эту проблему. Тем не менее, если при подключении ноутбука к блоку питания операционная система всё равно выдаёт сообщение с рекомендацией посетить сервисный центр, можно смело идти в любой авторизованный сервис и починить там MacBook Pro совершенно бесплатно. При возникновении подобных проблем, рекомендуется предварительно позвонить на горячую линию поддержки Apple и сообщить об ошибке, там же подскажут ближайшие адреса авторизованных сервисных центров.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 10:11:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - рынок IT</category>
-		</item>
-		<item>
-			<title>Honda и Nissan надеются, что дефицит чипов закончится к концу этого полугодия</title>
-			<link>https://3dnews.ru/1032303</link>
-			<guid>https://3dnews.ru/1032303/#60237b78b4182e3d38245cd5</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032303/nissan_01.jpg" length="265006" type="image/jpeg" />
-			<description><![CDATA[
-								Японские компании Honda Motor и Nissan Motor отчитались о результатах третьего фискального квартала, пожаловавшись на дефицит чипов, но отметили рост спроса на автомобили, который позволяет улучшить прогноз на весь фискальный год. Победить дефицит чипов отрасли удастся, по их оценкам, уже в мае или июне текущего года. Источник изображения: Getty Images			]]></description>
-			<pubDate>Wed, 10 Feb 2021 10:05:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
-		</item>
-		<item>
-			<title>Подготовка к пускам в феврале корабля «Прогресс МС-16» и аппарата «Арктика-М» перешла в последние стадии</title>
-			<link>https://3dnews.ru/1032301</link>
-			<guid>https://3dnews.ru/1032301/#60237469b4182ec41a245cd0</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032301/00.jpg" length="2320634" type="image/jpeg" />
-			<description><![CDATA[
-								Уже 15 февраля должен состояться запуск грузового транспортного корабля &laquo;Прогресса МС-16&raquo;. Он придёт на смену &laquo;Прогресса МС-15&raquo;, который уже покинул МКС и сгорел в атмосфере. 9 февраля 2021 года корабль прошёл авторский осмотр, после чего был выполнен комплекс технологических операций по накатке головного обтекателя в рамках подготовки к пуску. Фотография разрушения в атмосфере &laquo;Прогресса МС-15&raquo;, сделанная космонавтом JAXA Соити Ногути (Twitter)			]]></description>
-			<pubDate>Wed, 10 Feb 2021 09:58:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - фото, видео, фраза дня</category>
-		</item>
-		<item>
-			<title>Запуск очередного ДЗЗ-спутника «Ресурс-П» отложили на год</title>
-			<link>https://3dnews.ru/1032299</link>
-			<guid>https://3dnews.ru/1032299/#60236fbdb4182ed17c245cce</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032299/rp1.jpg" length="532850" type="image/jpeg" />
-			<description><![CDATA[
-								Вывод на орбиту российского космического аппарата &laquo;Ресурс-П&raquo; в очередной раз откладывается. Об этом сообщает &laquo;РИА Новости&raquo;, ссылаясь на информацию, полученную от осведомлённого источника в ракетно-космической отрасли. Фотографии Роскосмоса			]]></description>
-			<pubDate>Wed, 10 Feb 2021 09:46:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - на острие науки</category>
-		</item>
-		<item>
-			<title>Versus Evil сложила руки: Switch-версия Pillars of Eternity перестанет получать обновления</title>
-			<link>https://3dnews.ru/1032300</link>
-			<guid>https://3dnews.ru/1032300/#6023724eb4182e9f32245cce</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032300/01.jpg" length="1487637" type="image/jpeg" />
-			<description><![CDATA[
-								Издательство Versus Evil в своём официальном микроблоге опубликовало заявление на тему будущих обновлений Switch-версии олдскульной ролевой игры Pillars of Eternity от студии Obsidian Entertainment.   Как стало известно, издание Pillars of Eternity для гибридной консоли Nintendo перестанет получать патчи с исправлениями ошибок, до сих пор присутствующих в проекте на данной платформе.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 09:28:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - игры</category>
-		</item>
-		<item>
-			<title>Демоверсия ретрофутуристического экшена Narita Boy задержится в Steam ещё на неделю</title>
-			<link>https://3dnews.ru/1032298</link>
-			<guid>https://3dnews.ru/1032298/#60236bbdb4182e592b245cde</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032298/01.jpg" length="1133829" type="image/jpeg" />
-			<description><![CDATA[
-								Издательство Team17 и студия-разработчик Koba на официальном сайте сервиса цифровой дистрибуции Steam объявили о продлении срока действия демоверсии своего ретрофутуристического экшена Narita Boy.   Напомним, пробное издание Narita Boy появилось на площадке Valve с началом очередного &laquo;Фестиваля игр Steam&raquo; и должно было пропасть с его завершением, но этого не произошло.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 09:25:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - игры</category>
-		</item>
-		<item>
-			<title>Пошаговая карточная стратегия Fights in Tight Spaces доберётся до раннего доступа Steam к концу месяца</title>
-			<link>https://3dnews.ru/1032295</link>
-			<guid>https://3dnews.ru/1032295/#602364beb4182e9012245ce5</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032295/01.jpg" length="619595" type="image/jpeg" />
-			<description><![CDATA[
-								Издательство Mode 7 и студия-разработчик Ground Shatter анонсировали точную дату поступления своей пошаговой карточной стратегии Fights in Tight Spaces в ранний доступ на ПК.   Напомним, Fights in Tight Spaces дебютировала на консолях семейства Xbox (как прошлого, так и нынешнего поколений) ещё осенью 2020 года в рамках программы Xbox Game Preview.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 09:20:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - игры</category>
-		</item>
-		<item>
-			<title>Симулятор скейтбордиста Skate City лишится статуса эксклюзива Apple Arcade — игра выйдет на ПК и консолях</title>
-			<link>https://3dnews.ru/1032291</link>
-			<guid>https://3dnews.ru/1032291/#60235d54b4182e5447245ce1</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032291/01.jpg" length="729084" type="image/jpeg" />
-			<description><![CDATA[
-								Издательство Snowman в своём официальном микроблоге объявило о расширении платформенной географии симулятора скейтбордиста Skate City от норвежской студии Agens.   Напомним, на запуске Apple Arcade творение Agens было одним из самых заметных эксклюзивов &mdash; спустя почти полтора года после изначальной премьеры Skate City готовится к дебюту на ПК и консолях.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 09:18:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - игры</category>
-		</item>
-		<item>
-			<title>Skybound поможет хоррору The Callisto Protocol выйти за пределы видеоигр</title>
-			<link>https://3dnews.ru/1032288</link>
-			<guid>https://3dnews.ru/1032288/#602355ceb4182e9012245ce0</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032288/01.jpg" length="568645" type="image/jpeg" />
-			<description><![CDATA[
-								Издательство Skybound Games на своём официальном сайте объявило о том, что поможет Krafton и студии Striking Distance с выпуском их амбициозного хоррора The Callisto Protocol.   Согласно обнародованному пресс-релизу, Skybound Games выступит в качестве стратегического партнёра Krafton и Striking Distance Studios: возьмёт на себя международный маркетинг и дистрибуцию.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 09:15:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - игры</category>
-		</item>
-		<item>
-			<title>Трейлер к скорому запуску ироничной отечественной космовыживалки Breathedge 1.0</title>
-			<link>https://3dnews.ru/1032285</link>
-			<guid>https://3dnews.ru/1032285/#6022f575b4182ee86e245ccf</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032285/00.jpg" length="372097" type="image/jpeg" />
-			<description><![CDATA[
-								На канале IGN вышел официальный трейлер ироничной космической выживалки Breathedge 1.0 от небольшой отечественной студии RedRuins Softworks. Игра выйдет из раннего доступа уже 25 февраля и будет доступна на ПК: Steam, Epic Games Store, Origin и GOG. Ролик позволяет оценить графику и юмор. В Breathedge игроку предстоит оказаться в открытом космосе и примерить на себя роль простого парня, который просто вёз дедушкины останки на космические похороны, а оказался в водовороте межгалактического заговора. Гигантский космический катафалк терпит крушение в глубоком космосе, разбрасывая по всей округе свои обломки, гробы, мёртвых пассажиров и главного героя. Теперь придётся выжить в этой космической свалке и заодно раскрыть мировой заговор.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 09:13:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - игры</category>
-		</item>
-		<item>
-			<title>Мышь EVGA X15 с подсветкой RGB адресована любителям MMO-игр</title>
-			<link>https://3dnews.ru/1032296</link>
-			<guid>https://3dnews.ru/1032296/#602364f6b4182ee86e245cd9</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032296/e1.jpg" length="194901" type="image/jpeg" />
-			<description><![CDATA[
-								Компания EVGA анонсировала компьютерную мышь X15, спроектированную специально для геймеров, увлекающихся массовыми многопользовательскими онлайн-играми (ММО). Манипулятор рассчитан на правшей, которые предпочитают ладонный хват. В зоне большого пальца располагается панель с набором программируемых кнопок.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 08:38:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - манипуляторы, устройства ввода графики</category>
-		</item>
-		<item>
-			<title>Планшет Huawei MatePad Pro 2 выйдет в двух вариантах размера</title>
-			<link>https://3dnews.ru/1032289</link>
-			<guid>https://3dnews.ru/1032289/#60235856b4182e9012245ce2</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032289/mate1.jpg" length="321449" type="image/jpeg" />
-			<description><![CDATA[
-								Интернет-источники сообщают о том, что китайская компания Huawei готовит к выпуску планшетный компьютер MatePad Pro 2, официальная презентация которого ожидается в текущем квартале. Новинка уже замечена в базах данных ряда сертификационных организаций. Говорится, что устройство будет доступно в двух вариантах размера &mdash; с диагональю сенсорного дисплея 12,2 и 12,6 дюйма. В обоих случаях будет поддерживаться высокая частота обновления.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 08:03:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - планшетные компьютеры и смартбуки</category>
-		</item>
-		<item>
-			<title>Прототипы автономных автомобилей Apple вдвое увеличили тестовый пробег, но до конкурентов им всё ещё далеко</title>
-			<link>https://3dnews.ru/1032297</link>
-			<guid>https://3dnews.ru/1032297/#6023678cb4182ebb2f245ce2</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032297/apple_car.jpg" length="230969" type="image/jpeg" />
-			<description><![CDATA[
-								Компании, проводящие тестирование своих прототипов на дорогах общего пользования США, должны регулярно сдавать властям статистику о пробеге и количестве инцидентов с вмешательством человека в испытания, поэтому Apple не может скрыть факт проведения подобных тестов. В прошлом году ей удалось достичь прогресса, но конкуренты её сильно опережают. Источник изображения: MacRumors			]]></description>
-			<pubDate>Wed, 10 Feb 2021 08:02:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
-		</item>
-		<item>
-			<title>TSMC выпустит облигаций на сумму $9 млрд для финансирования стройки и исследований</title>
-			<link>https://3dnews.ru/1032293</link>
-			<guid>https://3dnews.ru/1032293/#602360f1b4182efa19245cdb</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032293/tsmc_01.jpg" length="259081" type="image/jpeg" />
-			<description><![CDATA[
-								Тайваньская компания TSMC уже объявила на квартальной отчётной конференции в январе, что увеличит сумму капитальных затрат на 60&nbsp;% по сравнению с прошлым годом, в совокупности потратив на строительство предприятий и освоение новых технологий от 25 до 28 млрд долларов США. Часть этой суммы она получит на рынке долговых обязательств &mdash; почти $9 млрд. Источник изображения: TSMC			]]></description>
-			<pubDate>Wed, 10 Feb 2021 07:32:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - комментарии последних событий</category>
-		</item>
-		<item>
-			<title>Проблемы с поддержкой Intel Rocket Lake могут возникнуть даже у некоторых плат на основе Intel Z490</title>
-			<link>https://3dnews.ru/1032290</link>
-			<guid>https://3dnews.ru/1032290/#60235a98b4182ef102245cdc</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032290/EtyaAy-UYAcjMKJ.png" length="172399" type="image/png" />
-			<description><![CDATA[
-								В начале февраля корпорация Intel опубликовала на своём сайте в разделе технической поддержки информацию о том, что материнские платы на основе чипсетов Z490 и H470 способны поддерживать процессоры Rocket Lake, а вот платам на базе чипсетов B460 и H410 такое право не дано. В действительности многое будет определять устройство подсистемы питания платы. Источник изображения: ChipHell			]]></description>
-			<pubDate>Wed, 10 Feb 2021 07:06:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - процессоры</category>
-		</item>
-		<item>
-			<title>Цена флагманского электрического седана Audi e-tron GT начинается от €100 тыс.</title>
-			<link>https://3dnews.ru/1032287</link>
-			<guid>https://3dnews.ru/1032287/#6023085eb4182e115e245cd6</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032287/195.jpg" length="212950" type="image/jpeg" />
-			<description><![CDATA[
-								Audi анонсировала e-tron GT, премиальный седан на электрической тяге, основой которого стала платформа Porsche Taycan. Концепт e-tron GT был представлен ещё в 2018 году, поэтому внешний облик седана не был загадкой, но теперь автопроизводитель раскрыл технические характеристики и розничную стоимость новинки. На рынке появится две версии авто, вместе со стандартной моделью e-tron GT выйдет более мощный вариант e-tron RS. Базовый вариант развивает мощность в 350 кВт (примерно 470 лошадиных сил), а в режиме Overboost этот показатель возрастает до 522 лошадиных сил. Разгон до 100 км/ч занимает 4,1 с, а максимальная скорость&nbsp;&mdash; 245 км/ч. Более мощная версия e-tron RS развивает до 440 кВт мощности (около 590 лошадиных сил), в режиме Overboost&nbsp;&mdash; 636 лошадиных сил. Разогнаться до 100 км/ч можно за 3,3 с, а максимальная скорость равна 250 км/ч.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 02:45:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
-		</item>
-		<item>
-			<title>О вложениях Tesla в биткоин было известно ещё в январе, и этим можно было воспользоваться</title>
-			<link>https://3dnews.ru/1032286</link>
-			<guid>https://3dnews.ru/1032286/#6022f8b8b4182ebd76245cd4</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/10/1032286/0a5fa993b86838107ae770369ca3930e.jpg" length="318189" type="image/jpeg" />
-			<description><![CDATA[
-								Пользователь форумов Reddit, утверждающий, что является инсайдером Tesla, рассказал о покупке автопроизводителем биткоинов ещё месяц назад. Согласно его сообщению, появившемуся на платформе в январе, автомобильная компания купила биткоины на $800 млн. REUTERS/Dado Ruvic			]]></description>
-			<pubDate>Wed, 10 Feb 2021 00:49:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - Новости сети</category>
-		</item>
-		<item>
-			<title>Инженерный образец настольного Alder Lake с 16 ядрами и 24 потоками отметился в&amp;nbsp;Geekbench 4 с неплохим результатом</title>
-			<link>https://3dnews.ru/1032284</link>
-			<guid>https://3dnews.ru/1032284/#6022f14cb4182e9012245cce</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032284/geekbench_alder_lake_s_intel.jpg" length="210394" type="image/jpeg" />
-			<description><![CDATA[
-								Во второй половине 2021 года Intel обещает представить как мобильные, так и настольные процессоры Alder Lake с необычной конфигурацией вычислительных ядер, поэтому их инженерные образцы начинают всё чаще встречаться в различных синтетических бенчмарках. Новый пример подобного рода был обнаружен в базе данных Geekbench 4. Ранее мы видели образец мобильного варианта Alder Lake-P, оснащённый 14 вычислительными ядрами и поддерживающий одновременную обработку 20 потоков. В этот раз в поле зрения попала десктопная модель Alder Lake-S, обладающая 16 ядрами и 24 потоками. Такая странная конфигурация чипов 12-поколения Intel Core объясняется тем, что в их составе используется гибридная компоновка из больших высокопроизводительных и малых энергоэффективных ядер. В последнем случае чип имеет 8 больших и 8 малых ядер. При этом только первая восьмёрка поддерживает многопоточность, поэтому в совокупности процессор способен обрабатывать до 24 потоков.			]]></description>
-			<pubDate>Wed, 10 Feb 2021 00:42:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - процессоры</category>
-		</item>
-		<item>
-			<title>Новая статья: Хочу изучать искусственный интеллект!</title>
-			<link>https://3dnews.ru/1031871</link>
-			<guid>https://3dnews.ru/1031871/#601bd813b4182e6002245cd6</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/04/1031871/andrew_ng.jpg" length="265300" type="image/jpeg" />
-			<description><![CDATA[
-								<img align="left" hspace="10" src="https://3dnews.ru/assets/external/icons/2021/02/04/1031871.jpg" border="0" height="85" width="120" />Очередная статья цикла «ИИ 101» — практической направленности. Это статья-список, а вернее, несколько списков полезных ресурсов для тех, кто делает первые шаги в ИИ. Здесь прозвучат названия технологий и имена людей, которые должны быть вам знакомы, как своеобразный код «своего» в этой сфере, а также приводится примерный план действий по освоению этой захватывающей специальности			]]></description>
-			<pubDate>Wed, 10 Feb 2021 00:00:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости</category>
-		</item>
-		<item>
-			<title>С помощью изображений Favicon в браузерах оказалось возможным отслеживать пользовательскую активность</title>
-			<link>https://3dnews.ru/1032283</link>
-			<guid>https://3dnews.ru/1032283/#6022eb50b4182e9102245cea</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032283/194.jpg" length="499925" type="image/jpeg" />
-			<description><![CDATA[
-								Стало известно о том, что изображения Favicon в браузерах, которые используются сайтами для определения пиктограмм закладок, вкладок и некоторых других элементов, могут использоваться для привязки идентификатора к конкретному экземпляру обозревателя и последующего отслеживания пользовательской активности. Метод основан на особенностях обработки Favicon, для чего используется отдельный кеш, выступающий в роли Supercookie. Дело в том, что изображения Favicon хранятся в отдельном кеше, который используется во всех режимах работы браузера и не может быть очищен стандартными средствами. Из-за этих особенностей идентификатор может использоваться сайтами даже в режиме инкогнито, а также при использовании VPN-подключения и блокировщиков рекламы. С помощью анализа информации о загрузке Favicon на стороне сервера можно определить, открывал пользователь конкретную страницу ранее или нет.			]]></description>
-			<pubDate>Tue, 09 Feb 2021 23:43:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - вирусы, трояны, уязвимости в ПО, вопросы безопасности</category>
-		</item>
-		<item>
-			<title>Gelid выпустила фиксатор для Ryzen, идею которого она подглядела у других китайцев</title>
-			<link>https://3dnews.ru/1032282</link>
-			<guid>https://3dnews.ru/1032282/#6022eb01b4182e7521245cdc</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032282/347857485.jpg" length="86044" type="image/jpeg" />
-			<description><![CDATA[
-								Процессоры AMD многие недолюбливают за способ фиксации в сокете. Дело в том, что, из-за клейких свойств термопасты при снятии радиатора можно запросто выдернуть вместе с ним и процессор, при этом повредив его ножки. Конечно, правильная техника снятия системы охлаждения позволяет минимизировать риски, однако многие новички об этом забывают. О них позаботилась GELID, которая создала простое и эффективное решение проблемы, хотя аналог уже был придуман в Китае.			]]></description>
-			<pubDate>Tue, 09 Feb 2021 23:38:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - системы охлаждения</category>
-		</item>
-		<item>
-			<title>На Facebook ещё раз подали в суд за потерю контроля над пользовательскими данными</title>
-			<link>https://3dnews.ru/1032281</link>
-			<guid>https://3dnews.ru/1032281/#6022ea3ab4182e4032245cea</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032281/aeaa288f807955e478f1bddaf564d946.jpg" length="195902" type="image/jpeg" />
-			<description><![CDATA[
-								Facebook столкнулась с новым коллективным иском в Великобритании, подданным в Высокий суд Лондона, по обвинению в том, что компания не смогла защитить личные данные около миллиона пользователей в Англии и Уэльсе. REUTERS/Johanna Geron			]]></description>
-			<pubDate>Tue, 09 Feb 2021 23:30:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - программное обеспечение</category>
-		</item>
-		<item>
-			<title>Huawei попытается доказать через суд, что она не угрожает национальной безопасности США</title>
-			<link>https://3dnews.ru/1032279</link>
-			<guid>https://3dnews.ru/1032279/#6022e4b4b4182e4032245ce8</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032279/7473857834.jpg" length="265740" type="image/jpeg" />
-			<description><![CDATA[
-								Китайская компания Huawei подала в суд в США, оспаривая признание её угрозой национальной безопасности. В поданном вчера в Апелляционный суд пятого округа США заявлении содержится просьба пересмотреть прошлогоднее постановление Федеральной комиссии по связи, согласно которому Huawei представляет угрозу безопасности США.&nbsp;Данный иск связан со сменой власти в Соединённых Штатах. WSJ.com			]]></description>
-			<pubDate>Tue, 09 Feb 2021 23:25:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - рынок IT</category>
-		</item>
-		<item>
-			<title>ZTE похвасталась мощной системой охлаждения грядущего игрового смартфона Nubia Red Magic 6</title>
-			<link>https://3dnews.ru/1032278</link>
-			<guid>https://3dnews.ru/1032278/#6022dc0ab4182e107f245cda</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032278/8938958923.jpg" length="145567" type="image/jpeg" />
-			<description><![CDATA[
-								Уже некоторое время в Сети появляются данные о том, что ZTE готовит новый игровой смартфон под названием Red Magic 6. Информации о том, когда устройство увидит свет пока нет, однако сегодня компания поделилась официальным видео, в котором расхваливает мощную систему охлаждения грядущего смартфона. gizmochina.com			]]></description>
-			<pubDate>Tue, 09 Feb 2021 22:42:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - системы охлаждения</category>
-		</item>
-		<item>
-			<title>Aurora и Toyota вместе создадут автономный минивэн для использования в такси</title>
-			<link>https://3dnews.ru/1032277</link>
-			<guid>https://3dnews.ru/1032277/#6022d5e6b4182e3c11245cdb</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032277/333.jpg" length="348087" type="image/jpeg" />
-			<description><![CDATA[
-								Специализирующийся на разработке технологии автономного вождения американский стартап Aurora объявил во вторник о заключении соглашения о сотрудничестве с Toyota Motor Corp и поставщиком автозапчастей Denso с целью разработки и производства автономных минивэнов для использования в качестве такси. REUTERS/Eric Gaillard			]]></description>
-			<pubDate>Tue, 09 Feb 2021 22:33:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
-		</item>
-		<item>
-			<title>Sony запатентовала блок с дополнительными кнопками для контроллера DualSense</title>
-			<link>https://3dnews.ru/1032276</link>
-			<guid>https://3dnews.ru/1032276/#6022d4a3b4182ed50c245cdd</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/09/1032276/34234.png" length="200435" type="image/png" />
-			<description><![CDATA[
-								В конце 2019 года Sony представила насадку для контроллера DualShock 4 от PlayStation 4, оснащённую двумя дополнительными программируемыми кнопками, которые позволяют расширить функциональность устройства. Согласно свежему патенту, компания разрабатывает аналогичный аксессуар и для DualSense, представленного с PlayStation 5. ign.com			]]></description>
-			<pubDate>Tue, 09 Feb 2021 22:19:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - игровые консоли</category>
 		</item>
 	</channel>
 </rss>

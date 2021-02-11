@@ -30,5 +30,7 @@ shortnames=(
 
 for item in ${!urls[*]}
 do
-    curl ${urls[$item]} --output $(pwd)/rss/$(date +"%F")-${shortnames[$item]}.xml
+    curl ${urls[$item]} --output /Users/install/Data-Analysis/lab01/rss/$(date +"%F")-${shortnames[$item]}.xml
 done
+
+python /Users/install/Data-Analysis/lab01/main.py                              # run python script
