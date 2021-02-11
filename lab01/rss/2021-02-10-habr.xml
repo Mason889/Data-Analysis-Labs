@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Все публикации подряд</title>
+    <link>https://habr.com/ru/all/all/</link>
+    <description><![CDATA[Все публикации подряд на Хабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Wed, 10 Feb 2021 21:58:23 GMT</pubDate>
+    
+      <image>
+        <link>https://habr.com/ru/</link>
+        <url>https://habr.com/images/logo.png</url>
+        <title>Хабр</title>
+      </image>
+
+              <item>
+      <title><![CDATA[[recovery mode] Математика, красота, любовь — история одной валентинки]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541880/</guid>
+      <link>https://habr.com/ru/post/541880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541880</link>
+      <description><![CDATA[<div class="oembed"><iframe allowfullscreen id="602443008a93442df678224d" src="https://embedd.srv.habr.com/iframe/602443008a93442df678224d"></iframe></div><br>
+Было время был я влюблен и было мало денег. Хотелось сделать какой-то необычный подарок девушке на день святого Валентина и этим подарком стала вот такая программа, работу которой вы видите на первом видео. Скоро 14 февраля и может кого-то из вас эта статья вдохновит сделать свою 3D красоту для любимой девушки.<br> <a href="https://habr.com/ru/post/541880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541880#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 21:02:18 GMT</pubDate>
+      <dc:creator>VanquisherWinbringer</dc:creator>
+      <category><![CDATA[DIY или Сделай сам]]></category>
+      <category><![CDATA[c#]]></category><category><![CDATA[.net]]></category><category><![CDATA[3d]]></category><category><![CDATA[работа с графикой]]></category><category><![CDATA[истории]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Почему бухгалтеров мы можем обучать, а программистов — нет]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541872/</guid>
+      <link>https://habr.com/ru/post/541872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541872</link>
+      <description><![CDATA[<p>Кажется, мы&nbsp;делаем всё, чтобы писать хороший код: читаем книги, слушаем подкасты, ходим на&nbsp;конференции и&nbsp;изучаем лучшие практики. Почему&nbsp;же результат оставляет желать лучшего? Новые языки осваиваются медленно, код превращается в&nbsp;адского монстра, а&nbsp;джуны месяцами учатся понятно называть идентификаторы.</p><br>
+<p>Позвали <b>Григория Петрова, DevRel’а Evrone.com</b> (ex. Voximplant, Radmin, Digital October Center) и&nbsp;вдохновителя сообщества <a href="https://moscowpython.ru" rel="nofollow noopener noreferrer">Moscow Python</a>, рассказать, как писать хороший код самому и&nbsp;научить команду. А&nbsp;еще обсудили, как понять, какие механизмы нас тормозят, и&nbsp;как посмотреть на&nbsp;нейрофизиологию через призму прикладной разработки и&nbsp;руководства технической командой. Разговор оказался настолько интересным, что сделали статью по&nbsp;его следам. </p><br>
+<p>Наш гость сам себя называет генералистом. Пишет на&nbsp;большинстве мейнстримовых языков разработки, кроме Haskell, и&nbsp;интересуется нейрофизиологией. В&nbsp;какой-то момент он&nbsp;посмотрел на&nbsp;свой предыдущий опыт работы и&nbsp;понял, что ему нравится писать документацию, объяснять сложные вещи простым языком и&nbsp;общаться с&nbsp;разработчиками, но&nbsp;не&nbsp;руководить. Поэтому позиция DevRel (Developer Relations) оказалась для него оптимальной. </p><br>
+<br>
+<img src="https://habrastorage.org/webt/ya/rm/ud/yarmudkoufwyumo_m3yxzg8phy8.png"><br> <a href="https://habr.com/ru/post/541872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541872#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 19:28:36 GMT</pubDate>
+      <dc:creator>annesina</dc:creator>
+      <category><![CDATA[Блог компании gms & g-mate]]></category><category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[собеседования]]></category><category><![CDATA[карьера]]></category><category><![CDATA[интервью]]></category><category><![CDATA[программирование]]></category><category><![CDATA[обучение программированию]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Стики и работа с Event System в Unity 3D]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541868/</guid>
+      <link>https://habr.com/ru/post/541868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541868</link>
+      <description><![CDATA[<p>Этот материал состоит из двух частей:</p><p>В первой, рассмотрим создание в Unity удобных стиков, подходящих под любые разрешения экранов и любую диагональ. </p><p>Познакомимся с использованием Event System в разрезе работы с UI и реализации пользовательской обработки реакции на указатель мыши/тачпада. </p><p>Далее, перейдем ко второй, где создадим скрипт, реализующий доступ к другим объектам посредством Event System.</p><p>По ходу дела, попробуем свои силы в работе со static-переменными для реализации удобной имплементации модулей в проект, и узнаем о глобальных и локальных координатах RectTransform.</p><p>Обе части занятия являют собой продолжение работы над проектом "Жидкий персонаж".</p><p>Все материалы вы традиционно можете скачать <a href="https://yadi.sk/d/fZJ6D5whipisSw?w=1" rel="noopener noreferrer nofollow">тут</a>. В папку залиты файлы для обеих частей.</p> <a href="https://habr.com/ru/post/541868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541868#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 18:34:02 GMT</pubDate>
+      <dc:creator>69ev</dc:creator>
+      <category><![CDATA[Разработка игр]]></category><category><![CDATA[C#]]></category><category><![CDATA[Unity]]></category>
+      <category><![CDATA[unity]]></category><category><![CDATA[unity3d]]></category><category><![CDATA[tutorial]]></category><category><![CDATA[разработка игр]]></category><category><![CDATA[эвенты]]></category><category><![CDATA[уроки программирования]]></category><category><![CDATA[для начинающих]]></category><category><![CDATA[физический движок]]></category><category><![CDATA[школа программирования]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Опенсорс на уровне компании: первые уроки участия в сторонних проектах]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541864/</guid>
+      <link>https://habr.com/ru/post/541864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541864</link>
+      <description><![CDATA[<p>В мае 2020 года, когда процент коллег без проектов оказался неожиданно высоким, мы решили привлечь желающих к работе с опенсорс. У DataArt есть опыт создания собственных продуктов с открытым исходным кодом: <a href="https://habr.com/ru/search/?q=devicehive#h"><u>IoT-платформа DeviceHive</u></a>, <a href="https://www.dataart.ua/news/atlas-tri-napravleniya-ispolzovaniya-freimvorka-dlya-net-inzhenerov/"><u>.NET-фреймворк Atlas</u></a>, <a href="https://habr.com/ru/company/dataart/blog/523602/"><u>игровая платформа Kiddo</u></a>. Но контрибьютором сторонних проектов на уровне компании мы раньше не выступали, и сходу вкладывать в новую инициативу большие ресурсы не планировали. Скорее, хотели посмотреть, как это работает и для чего может пригодиться в будущем.&nbsp;</p><p>Один из авторов идеи — Solution-архитектор <strong>Денис Цыплаков</strong> — поделился несколькими наблюдениями, которые могут быть полезны всем, кто хотел бы создавать открытое ПО не только в свободное, но и в рабочее время, или дать такую возможность своим командам.</p> <a href="https://habr.com/ru/post/541864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541864#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 18:08:12 GMT</pubDate>
+      <dc:creator>DataArt</dc:creator>
+      <category><![CDATA[Блог компании DataArt]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[open source]]></category><category><![CDATA[обучение сотрудников]]></category><category><![CDATA[idle]]></category><category><![CDATA[открытое по]]></category><category><![CDATA[профессиональное развитие]]></category><category><![CDATA[code style]]></category><category><![CDATA[репозитории]]></category><category><![CDATA[angular]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Внедрение зависимостей в GO]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541676/</guid>
+      <link>https://habr.com/ru/post/541676/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541676</link>
+      <description><![CDATA[<p><a href="https://rokusek.com/2019/12/a-day-in-the-life-of-project-management/man-carrying-grocery-bags/" rel="noopener noreferrer nofollow"><sup>Источник изображения</sup></a></p><p>Идея внедрения зависимости проста: объект, зависящий от другого объекта, делегирует управление его жизненным циклом внешнему коду. Однако её применение создаёт дополнительное требование - зависимостями нужно управлять. О механизмах, помогающих в этом, и их реализациях в Go - в этой статье.</p> <a href="https://habr.com/ru/post/541676/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541676#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 17:21:39 GMT</pubDate>
+      <dc:creator>altgamer</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Go]]></category>
+      <category><![CDATA[go]]></category><category><![CDATA[dependency injection]]></category><category><![CDATA[ioc]]></category><category><![CDATA[framework]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Четыре API для базы данных]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541860/</guid>
+      <link>https://habr.com/ru/post/541860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541860</link>
+      <description><![CDATA[<p>Как то мы уже обращались к теме превосходства объектного/типизированного представления в реализации моделей предметной области в сравнении с SQL. И верность тех доводов и фактов на на йоту не уменьшилась. Казалось бы, зачем отступать и обсуждать технологии, которые глобально низвергают абстракции обратно в дообъектную и дотипизированную эпоху? Зачем провоцировать рост спагетти-кода, непроверяемых ошибок и упование на виртуозное мастерство разработчика?<br></p><p>Есть несколько соображений о том, почему стоит поговорить про обмен данными через API на основе SQL/REST/GraphQL, в противовес представлению их в виде типов/объектов:</p> <a href="https://habr.com/ru/post/541860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541860#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 16:51:15 GMT</pubDate>
+      <dc:creator>torgeek</dc:creator>
+      <category><![CDATA[SQL]]></category><category><![CDATA[NoSQL]]></category><category><![CDATA[API]]></category><category><![CDATA[ООП]]></category><category><![CDATA[Хранилища данных]]></category>
+      <category><![CDATA[субд]]></category><category><![CDATA[objectscript]]></category><category><![CDATA[api]]></category><category><![CDATA[intersystems iris]]></category><category><![CDATA[nosql]]></category><category><![CDATA[openapi]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] SQLite с использованием Go и Python]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541820/</guid>
+      <link>https://habr.com/ru/post/541820/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541820</link>
+      <description><![CDATA[<p>В основном я предпочитаю использовать реляционные базы данных (SQL), поскольку они предоставляют несколько возможностей, которые весьма полезны при работе с данными. SQLite - отличный выбор, так как база данных там представляет собой единый файл, что упрощает обмен данными. Несмотря на то, что это единый файл, SQLite может обрабатывать до 281 терабайта данных. SQLite также поставляется с клиентом командной строки sqlite3, который отлично подходит для быстрого прототипирования.</p><p><em>Примечание: В других базах данных есть транзакции, языки запросов и схемы. Однако базы данных на основе SQL имеют тенденцию быть более развитыми испытанными временем, а сам SQL стандартизирован.</em></p> <a href="https://habr.com/ru/post/541820/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541820#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 16:04:50 GMT</pubDate>
+      <dc:creator>MaxRokatansky</dc:creator>
+      <category><![CDATA[Блог компании OTUS. Онлайн-образование]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[SQL]]></category><category><![CDATA[Go]]></category>
+      <category>golang</category><category>sql</category><category>sqlite</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Connected! Самое главное о дизайне VPN-приложения]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541856/</guid>
+      <link>https://habr.com/ru/post/541856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541856</link>
+      <description><![CDATA[<p>Разбираемся, как сделать удобный и рабочий сервис при минимальных затратах на разработку. В статье я постарался описать все самое важное, не заостряя внимание на деталях.</p> <a href="https://habr.com/ru/post/541856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541856#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 15:10:29 GMT</pubDate>
+      <dc:creator>artemhere</dc:creator>
+      <category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Интерфейсы]]></category><category><![CDATA[Дизайн мобильных приложений]]></category><category><![CDATA[Аналитика мобильных приложений]]></category><category><![CDATA[Дизайн]]></category>
+      <category><![CDATA[vpn]]></category><category><![CDATA[дизайн]]></category><category><![CDATA[приложение]]></category><category><![CDATA[интерфес]]></category><category><![CDATA[инструкция]]></category><category><![CDATA[аналитика]]></category><category><![CDATA[проектирование]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Разбор дела о краже коммерческой тайны]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/538144/</guid>
+      <link>https://habr.com/ru/post/538144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=538144</link>
+      <description><![CDATA[<p>В этой статье речь пойдет о краже коммерческой тайны. Очень важно понимать, если дело дошло до суда, нужно защищаться всеми способами, которые вам доступны. Не нужно никаких сантиментов, не нужно никого жалеть или, наоборот, надеяться, что у кого-то проснется совесть и т.д.&nbsp; Собирайте максимум доказательств и предоставляйте их суду. Суд не изучает эмоции, он рассматривает только формальную сторону вопроса – факты и доказательства. Чем больше у вас доказательств, чем лучше работает ваш юрист, тем выше шансы выиграть дело.</p><p>Доказать хищение информации и наказать виновника через суд – дело непростое. Потому большинство юристов рекомендуют пользоваться любой возможностью решить вопрос в досудебном порядке. Если вы все же собираетесь в суд, читайте материал ниже, возможно, именно эта статья поможет вам правильно подготовиться.</p> <a href="https://habr.com/ru/post/538144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=538144#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 14:53:01 GMT</pubDate>
+      <dc:creator>EVKRUS</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Законодательство в IT]]></category>
+      <category><![CDATA[коммерческая тайна]]></category><category><![CDATA[информационная безопасность]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Oracle: Deterministic functions, result_cache and operators]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541848/</guid>
+      <link>https://habr.com/ru/post/541848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541848</link>
+      <description><![CDATA[<p>После перевода статьи <a href="https://habr.com/en/post/541152/" rel="noopener noreferrer nofollow">Oracle: разница между deterministic и result_cache</a> от Steven Feuerstein, хотелось бы дополнить ее действительно важными деталями их устройства. У меня есть серия статей на эти темы, но тут я хотел бы просто все резюмировать и оставить самое важное.</p> <a href="https://habr.com/ru/post/541848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541848#habracut">Read more</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 14:36:23 GMT</pubDate>
+      <dc:creator>xtender</dc:creator>
+      <category><![CDATA[Oracle]]></category><category><![CDATA[SQL]]></category>
+      <category><![CDATA[oracle]]></category><category><![CDATA[sql]]></category><category><![CDATA[result_cache]]></category><category><![CDATA[deterministic functions]]></category><category><![CDATA[pl/sql]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Параллельные запросы в Kotlin для автоматизации сборки данных]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541840/</guid>
+      <link>https://habr.com/ru/post/541840/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541840</link>
+      <description><![CDATA[<p>Всем привет! В своей работе я часто использую Kotlin для автоматизации. Деятельность не связана напрямую с программированием, но Котлин здорово упрощает рабочие задачи.</p><p>Недавно нужно было собрать данные немаленького размера, дабы сделать анализ, поэтому решено было написать небольшой скрипт, который бы работал быстро и сохранял данные в Excel. С последним пунктом проблем не возникло - почитал про Apache POI, взял пару примеров из официальной документации, доработав под себя. Чего не скажешь про запросы в Сеть.</p><p>Источник отдавал пачками json и надо было как-то быстро эти "пачки" собирать, преобразовывая в текст и записывая в файл таблицу. </p> <a href="https://habr.com/ru/post/541840/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541840#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 14:19:40 GMT</pubDate>
+      <dc:creator>foxcode85</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Kotlin]]></category>
+      <category><![CDATA[корутины]]></category><category><![CDATA[coroutines]]></category><category><![CDATA[kotlin]]></category><category><![CDATA[parallel]]></category><category><![CDATA[concurrency]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Инверсия контроля на голом TypeScript без боли]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541800/</guid>
+      <link>https://habr.com/ru/post/541800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541800</link>
+      <description><![CDATA[<p>Здравствуйте, меня зовут Дмитрий Карловский и (сколько себя помню) я борюсь со своим окружением. Ведь оно такое костное, дубовое, и никогда не понимает, что я от него хочу. Но в какой-то момент я понял, что хватит это терпеть и надо что-то менять. Поэтому теперь не окружение диктует мне, что я могу и не могу делать, а я диктую окружению каким ему быть.</p><p>Как вы уже поняли, далее речь пойдёт про инверсию контроля через "контекст окружения". Многим этот подход уже знаком по "переменным окружения" - они задаются при запуске программы и обычно наследуются для всех программ, которые та запускает. Мы же применим эту концепцию для организации нашего кода на TypeScript.</p><p>Итак, что мы хотим получить:</p> <a href="https://habr.com/ru/post/541800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541800#habracut">Что-что?</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 14:11:35 GMT</pubDate>
+      <dc:creator>nin-jin</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Совершенный код]]></category><category><![CDATA[Проектирование и рефакторинг]]></category><category><![CDATA[Тестирование веб-сервисов]]></category><category><![CDATA[TypeScript]]></category>
+      <category><![CDATA[ioc]]></category><category><![CDATA[di]]></category><category><![CDATA[testing]]></category><category><![CDATA[ambient context]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] 12 примеров улучшения кода с помощью @dataclass]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541812/</guid>
+      <link>https://habr.com/ru/post/541812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541812</link>
+      <description><![CDATA[<p>Мы добавляем алгоритмы кластеризации с помощью пакетов scikit-learn, Keras и других в пакет Photonai. На 12 примерах мы покажем, как <em>@dataclass</em> улучшает код на Python. Для этого мы используем код из пакета Photonai для Machine Learning.</p> <a href="https://habr.com/ru/post/541812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541812#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 14:09:44 GMT</pubDate>
+      <dc:creator>MaxRokatansky</dc:creator>
+      <category><![CDATA[Блог компании OTUS. Онлайн-образование]]></category><category><![CDATA[Python]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>python</category><category>callback</category><category>iterator</category><category>lambda</category><category>machinelearning</category><category>data science</category><category>readability</category>
+    </item>
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Культ лучших практик]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541624/</guid>
+      <link>https://habr.com/ru/post/541624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541624</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/webt/t-/rj/rk/t-rjrke7lqnq6n4mezu-cutxdvq.jpeg"></div><br>
+Лучшие практики, несмотря на термин, не всегда хороши. В программировании многие из них не оправдывают своего названия. Они распространяются не благодаря своим заслугам или доказательствам эффективности, а из-за эффекта авторитета и использования обществом. По мере их распространения теряются нюансы. А с потерей нюансов становится легче заниматься их евангелизмом. В сочетании с нехваткой опыта это может привести к возникновению культа лучших практик. Представьте команду, которая одержима их использованием — скажем, разработкой через тестирование (test-driven development) или написанием пользовательских сценариев, — до такой степени, что это уже вредит. В эту ловушку попадали многие, в том числе и я.<br>
+<br>
+Почему лучшие практики могут быть вредны? Почему мы любим им следовать? Когда и как они мешают? Чтобы ответить на эти вопросы, нужно понять, откуда берутся эти практики и как они распространяются в программировании.<br> <a href="https://habr.com/ru/post/541624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541624#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 13:44:46 GMT</pubDate>
+      <dc:creator>AloneCoder</dc:creator>
+      <category><![CDATA[Блог компании Mail.ru Group]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Совершенный код]]></category><category><![CDATA[Терминология IT]]></category><category><![CDATA[Управление разработкой]]></category>
+      <category>best practices</category><category>никто не читает теги</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Переиспользуемый компонент Svelte: чтобы никому не было больно]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541834/</guid>
+      <link>https://habr.com/ru/post/541834/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541834</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/webt/rg/la/yk/rglaykolo16aiaflox9f_i2brb8.png" alt="Переиспользуемый компонент Svelte: чтобы никому не было больно"></p><br>
+<p>Компонентные фреймворки независимо от названия никогда не покинут область только нишевого использования, если сообщество не будет создавать для них общедоступные компоненты, которые можно легко встроить в свой проект. </p><br>
+<p>За последние года полтора для фреймворка Svelte уже создано множество различных компонентов, которые можно найти на <a href="https://www.npmjs.com/search?q=svelte" rel="nofollow noopener noreferrer">NPM</a>, <a href="https://github.com/search?q=svelte" rel="nofollow noopener noreferrer">GitHub</a> или <a href="https://sveltesociety.dev/components/" rel="nofollow noopener noreferrer">официальном списке</a>. К сожалению, не все из них правильно &quot;приготовлены&quot; и порой их использование раздует размер бандла приложения сильнее, чем должно быть. А бывает, что такие пакеты просто невозможно использовать, потому что его автор не силён в подготовке пакетов и упустил какие-то важные моменты. </p><br>
+<p>В этой статье я расскажу как сделать и опубликовать npm-пакет со Svelte-компонентом так, чтобы им смогли воспользоваться все желающие, не получив при этом головной боли от неожиданных проблем.</p> <a href="https://habr.com/ru/post/541834/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541834#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 13:19:40 GMT</pubDate>
+      <dc:creator>AlexxNB</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[SvelteJS]]></category>
+      <category><![CDATA[svelte]]></category><category><![CDATA[npm]]></category><category><![CDATA[компоненты]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Обеспечение сетевой безопасности совместно с брокерами сетевых пакетов. Часть первая. Пассивные средства безопасности]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541832/</guid>
+      <link>https://habr.com/ru/post/541832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541832</link>
+      <description><![CDATA[<p>С ростом облачных вычислений и виртуализации современные компьютерные сети становятся всё более уязвимыми и постоянно развиваются, принося с собой новые риски и неопределённости. Давно прошли времена хакерства для удовольствия, хакеры финансово мотивированы и более изощрены, чем когда-либо. Некоторые из них создали хакерские группы, такие как LulzSec и Anonymous, чтобы обмениваться опытом и действовать сообща. Профессионалы ИТ-безопасности изо всех сил стараются не отставать, пытаясь использовать пассивные (для обнаружения) и активные (для блокировки) инструменты сетевой безопасности. Несмотря на то, что вендоры своевременно разрабатывают и предоставляют инструменты сетевой безопасности для защиты от новейших киберугроз, внедрение этих инструментов является постоянной проблемой по разным причинам. В этой серии публикаций мы опишем наиболее основные средства сетевой безопасности, которые борются с киберугрозами, рассмотрим типичные проблемы при развёртывании и пути их решения с помощью брокеров сетевых пакетов.</p> <a href="https://habr.com/ru/post/541832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541832#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 13:10:37 GMT</pubDate>
+      <dc:creator>DSol</dc:creator>
+      <category><![CDATA[Блог компании НПП «Цифровые решения»]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[Сетевые технологии]]></category><category><![CDATA[Сетевое оборудование]]></category>
+      <category><![CDATA[брокер сетевых пакетов]]></category><category><![CDATA[пассивные системы]]></category><category><![CDATA[мониторинг сети]]></category><category><![CDATA[анализ трафика]]></category><category><![CDATA[ids]]></category><category><![CDATA[форензика]]></category><category><![CDATA[nta-системы]]></category><category><![CDATA[балансировка трафика]]></category><category><![CDATA[предотвращение утечек]]></category><category><![CDATA[информационная безопасность]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Анализируем время ответа собеседника]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541750/</guid>
+      <link>https://habr.com/ru/post/541750/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541750</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/4t/wl/vv/4twlvvitnkyujsyopi7jol2dhxe.png"><br>
+<br>
+С появлением мессенджеров коммуникация перешла на новый уровень — возможность мгновенного доступа к собеседнику воспринимается теперь как должное.<br>
+<br>
+Но замечали ли вы, как на ваши ощущения от общения влияет скорость его ответа? Какое время ответа вообще считается приемлемым?<br>
+<br>
+Можем ли мы сказать, что проявляем неуважение, когда отвечаем на следующий день? Через неделю? Через месяц?<br>
+<br>
+В этой статьей мы не будем отвечать на эти вопросы. Зато без каких-либо глобальных выводов проведем небольшое исследование одного параметра — время ответа собеседником на наши сообщения.<br>
+<br>
+<h2><font color="#3AC1EF">Достаем сырые данные</font></h2><br>
+Для исследования в нашем случае лучше всего подойдет Telegram. Прежде всего, потому что у него есть удобный api для Python.<br> <a href="https://habr.com/ru/post/541750/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541750#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 13:01:01 GMT</pubDate>
+      <dc:creator>ruvds</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Python]]></category><category><![CDATA[Лайфхаки для гиков]]></category>
+      <category><![CDATA[python]]></category><category><![CDATA[telegram]]></category><category><![CDATA[ответы на сообщения]]></category><category><![CDATA[статьи ruvds]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Машинное обучение и главные вопросы мира, вселенной и всего такого]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/539962/</guid>
+      <link>https://habr.com/ru/post/539962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=539962</link>
+      <description><![CDATA[Что-то вроде тизера. Без машинного обучения и анализа данных, учёные бы искали бозон Хиггса до сих пор. Тёмную материю тоже можно искать с помощью машинного обучения, и вообще для решения оставшихся перед нами загадок Вселенной, похоже, «старой-доброй» физики маловато.<br>
+<br>
+<a href="https://habr.com/ru/company/skillfactory/blog/539962/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/ip/rw/5k/iprw5kdmp8ns8kvuh_szjp0lzw4.jpeg"></div></a><br> <a href="https://habr.com/ru/post/539962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=539962#habracut">Приятного чтения!</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 13:00:01 GMT</pubDate>
+      <dc:creator>kroniker</dc:creator>
+      <category><![CDATA[Блог компании SkillFactory]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Физика]]></category>
+      <category><![CDATA[skillfactory]]></category><category><![CDATA[машинное обучение]]></category><category><![CDATA[ии]]></category><category><![CDATA[ии и машинное обучение]]></category><category><![CDATA[искусственный интеллект]]></category><category><![CDATA[ai]]></category><category><![CDATA[machine learning]]></category><category><![CDATA[физика]]></category><category><![CDATA[яндекс]]></category><category><![CDATA[большой адронный коллайдер]]></category><category><![CDATA[наука]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Актуальные методы расшифрования TLS/SSL]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541804/</guid>
+      <link>https://habr.com/ru/post/541804/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541804</link>
+      <description><![CDATA[<p>Шифрование — это наиболее популярный способ для защиты сетевого взаимодействия. Статья расскажет об актуальных методах расшифровки данных, которые передаются во время взаимодействия с web-приложениями. Будут рассмотрены примеры расшифровки в зависимости от стартовых условий (наличие ключей шифрования, сертификатов и уязвимостей в схеме передачи информации).</p> <a href="https://habr.com/ru/post/541804/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541804#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 12:40:43 GMT</pubDate>
+      <dc:creator>MaxRokatansky</dc:creator>
+      <category><![CDATA[Блог компании OTUS. Онлайн-образование]]></category><category><![CDATA[Сетевые технологии]]></category>
+      <category><![CDATA[tls]]></category><category><![CDATA[ssl]]></category><category><![CDATA[шифрование]]></category><category><![CDATA[сетевое взаимодействие]]></category><category><![CDATA[squid]]></category><category><![CDATA[nat]]></category><category><![CDATA[firewall]]></category><category><![CDATA[network engineering]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[[recovery mode] Как получилось, что 0,1 + 0,2 = 0,30000000000000004?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541816/</guid>
+      <link>https://habr.com/ru/post/541816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541816</link>
+      <description><![CDATA[<p>С детства нас учили, что 0,1 + 0,2 равно 0,3. Однако в загадочном мире вычислений все работает по-другому. Недавно я начал писать код на JavaScript и, читая о типах данных, заметил странное поведение 0,1 + 0,2, не равного 0,3.</p> <a href="https://habr.com/ru/post/541816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541816#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Feb 2021 11:57:33 GMT</pubDate>
+      <dc:creator>AStep21</dc:creator>
+      <category><![CDATA[Python]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Java]]></category><category><![CDATA[.NET]]></category>
+      <category><![CDATA[javascript]]></category><category><![CDATA[computer science]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>
