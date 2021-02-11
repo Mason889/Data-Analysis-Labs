@@ -1,9 +1,11 @@
 import os
 import xml.etree.ElementTree as ET
 
-final = ET.parse('final.xml')               # final file with all rss data
+path = "/Users/install/Data-Analysis/"                                  # your path
+
+final = ET.parse(f'{path}lab01/final.xml')                              # final file with all rss data
 finalroot = final.getroot()
-finalinks = []                              # list of links
+finalinks = []                                                          # list of links
 for item in finalroot[0].findall('item'):
     finalinks.append(item.find('link').text)
 
@@ -13,7 +15,7 @@ for (_, _, filenames) in os.walk("rss"):
         try:
             rss=ET.parse("rss/"+filename);
         except ParseError:
-            print(f'ParseErrorы in file {filename}: {ParseError}\n')
+            print(f'ParseError in file {filename}: {ParseError}\n')
             continue
 
         rssroot = rss.getroot()

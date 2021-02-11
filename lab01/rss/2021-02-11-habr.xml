@@ -7,7 +7,7 @@
     <language>ru</language>
     <managingEditor>editor@habr.com</managingEditor>
     <generator>habr.com</generator>
-    <pubDate>Thu, 11 Feb 2021 09:27:39 GMT</pubDate>
+    <pubDate>Thu, 11 Feb 2021 10:33:11 GMT</pubDate>
     
       <image>
         <link>https://habr.com/ru/</link>
@@ -16,6 +16,124 @@
       </image>
 
               <item>
+      <title><![CDATA[Аналитические онлайн-сервисы для управления интернет-магазином]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541940/</guid>
+      <link>https://habr.com/ru/post/541940/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541940</link>
+      <description><![CDATA[Первоначально у меня была идея провести исследование и написать статью об алгоритмах анализа данных и машинного обучения, которые можно было бы применить для оптимизации работы небольшого интернет-магазина. Но по мере погружения в тему пришел к выводу, что намного полезнее будет сосредоточиться на уже готовых сервисах и инструментах доступных в сети.<br>
+<br>
+На рынке Data Science высокая конкуренция, которая подстегивается постоянно растущей автоматизацией. Решение всех стандартных задач постепенно упаковывается в готовые программные решения и сервисы. И конечную ценность для бизнеса представляет наличие цельных и интегрируемых между собой платформ.<br>
+<br>
+Иными словами, вместо того, чтобы с лопатой в руках соревноваться с трактором, лучше самим сеть на трактор.<br>
+<br> <a href="https://habr.com/ru/post/541940/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541940#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 11 Feb 2021 10:05:27 GMT</pubDate>
+      <dc:creator>EvanMarkoff</dc:creator>
+      <category><![CDATA[Разработка под e-commerce]]></category><category><![CDATA[Интернет-маркетинг]]></category><category><![CDATA[Управление e-commerce]]></category><category><![CDATA[Управление продажами]]></category>
+      <category><![CDATA[интернет-магазин]]></category><category><![CDATA[аналитика]]></category><category><![CDATA[сервисы]]></category><category><![CDATA[машинное обучение]]></category><category><![CDATA[data science]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как совершить транзакцию в Nest.js]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541866/</guid>
+      <link>https://habr.com/ru/post/541866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541866</link>
+      <description><![CDATA[<p>Во множестве случаев разработчики должны использовать транзации при совершении различных операций на сервере. К примеру - перевод денег, либо другой измеримой ценности, да много чего еще. При таких операциях очень не хочется получить ошибку, которая прервет процесс и нарушит целостность данных.</p><p>Как же совершать их, если вы пишите backend на Node.js + Nest.js?</p> <a href="https://habr.com/ru/post/541866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541866#habracut">Ну и как?</a>]]></description>
+      
+      <pubDate>Thu, 11 Feb 2021 10:03:01 GMT</pubDate>
+      <dc:creator>alphamikle</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[SQL]]></category><category><![CDATA[Node.JS]]></category><category><![CDATA[TypeScript]]></category>
+      <category><![CDATA[nest]]></category><category><![CDATA[node]]></category><category><![CDATA[typescript]]></category><category><![CDATA[nestjs]]></category><category><![CDATA[nodejs]]></category><category><![CDATA[transition]]></category><category><![CDATA[транзакции]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как IT вошёл в меня]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/537048/</guid>
+      <link>https://habr.com/ru/post/537048/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=537048</link>
+      <description><![CDATA[<p>Когда мне было 8 лет и я учился во втором классе школы, нам выдали абонементы в детскую библиотеку. К чтению художественной литературы я относился с интересом, но больше всего меня интересовали детский научпоп и техническая литература. Особенно я любил компьютерные журналы, открывавшие&nbsp;удивительный мир, к которому я относился с больши́м любопытством и придыханием.</p><p>Мало того&nbsp;что журналов этих было мало, так их ещё и нельзя было брать домой надолго, и это&nbsp;только усиливало интерес. В одном из таких журналов на развороте был напечатан ноутбук. Помню, сидя на кровати, я положил журнал с открытым разворотом себе на колени и представил,&nbsp;как я работаю на настоящем ноутбуке.</p> <a href="https://habr.com/ru/post/537048/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=537048#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 11 Feb 2021 10:00:12 GMT</pubDate>
+      <dc:creator>it_monk</dc:creator>
+      <category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[spectrum]]></category><category><![CDATA[кувт]]></category><category><![CDATA[кворум]]></category><category><![CDATA[биография]]></category><category><![CDATA[колледж]]></category><category><![CDATA[детство и юность]]></category><category><![CDATA[мечта]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Наглядно о фишинге в 2020 году на примере зоны RU]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541938/</guid>
+      <link>https://habr.com/ru/post/541938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541938</link>
+      <description><![CDATA[<p>Пандемия определённо внесла коррективы во многие, если не во все, сферы деятельности человека. Не обошёл коронавирус и мошенников. В СМИ часто можно встретить фразу «волна мошенничества». И это действительно так. Я взял массив зарегистрированных доменов в зоне RU за прошлый год и проанализировал их в разрезе инфоповодов, получивших резонанс в обществе. Под катом вы найдёте графики, описание популярных и штучных приёмов, которыми пользуются мошенники, а также советы пользователям, как не стать жертвой.</p> <a href="https://habr.com/ru/post/541938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541938#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 11 Feb 2021 09:53:55 GMT</pubDate>
+      <dc:creator>labyrinth</dc:creator>
+      <category><![CDATA[Блог компании SearchInform]]></category><category><![CDATA[Информационная безопасность]]></category>
+      <category><![CDATA[фишинг]]></category><category><![CDATA[мошенничество]]></category><category><![CDATA[тайпсквоттинг]]></category><category><![CDATA[информационная безопасность]]></category><category><![CDATA[ликбез]]></category><category><![CDATA[исследование]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Telegram на go, часть 2: бинарный протокол]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541920/</guid>
+      <link>https://habr.com/ru/post/541920/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541920</link>
+      <description><![CDATA[<p>В <a href="https://habr.com/ru/post/535076">предыдущей части</a> были описаны подходы, примененные при написании парсера для схемы MTProto. Статья получилась чуть более общей, чем я рассчитывал, на этот раз я постараюсь рассказать больше про специфику Telegram.</p><br>
+<p>Клиент на Go <a href="https://github.com/gotd/td" rel="nofollow noopener noreferrer">продолжает развиваться</a>, а мы вернемся в прошлое и вспомним, как писался для него сериализатор и десериализатор <a href="https://core.telegram.org/mtproto/serialize" rel="nofollow noopener noreferrer">протокола</a>.</p> <a href="https://habr.com/ru/post/541920/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541920#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 11 Feb 2021 09:34:49 GMT</pubDate>
+      <dc:creator>cy-ernado</dc:creator>
+      <category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Go]]></category>
+      <category><![CDATA[telegram]]></category><category><![CDATA[go]]></category><category><![CDATA[mtproto]]></category><category><![CDATA[gotd]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Быстро разрабатываться и не падать: инструменты и опыт поиска Маркета. Доклад Яндекса]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541892/</guid>
+      <link>https://habr.com/ru/post/541892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541892</link>
+      <description><![CDATA[Поговорим о взаимодействии разработчика с ручными и автоматическими тестировщиками. Тимлид команды разработки в Маркете Юрий Акатов <a href="https://habr.com/ru/users/yuraaka/" class="user_link">yuraaka</a> рассказал о том, как создать платформу модульных автотестов и интегрировать её в процесс релиза, о проблемах нагрузочного тестирования и автоматизации, а также об отладке кода на продакшене и минимизации ущерба от непойманных багов, которые прокрадываются в релиз.<br>
+<br>
+<a href="https://youtu.be/tqPeqWdIV6k?t=100" rel="nofollow noopener noreferrer"><img src="https://habrastorage.org/webt/pk/ts/vp/pktsvp7-ybvr3cq4oagvmcjmqru.jpeg"></a><br>
+<br>
+— Всем привет. Меня зовут Юра, я около семи лет работаю в поиске Маркета. Сегодня мы с вами поговорим о нашем опыте, о том, как мы организовали процессы и инструментарий, чтобы быстро разрабатываться и не падать. <br> <a href="https://habr.com/ru/post/541892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541892#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 11 Feb 2021 09:34:29 GMT</pubDate>
+      <dc:creator>Leono</dc:creator>
+      <category><![CDATA[Блог компании Яндекс]]></category><category><![CDATA[Поисковые технологии]]></category><category><![CDATA[Промышленное программирование]]></category><category><![CDATA[Тестирование веб-сервисов]]></category>
+      <category><![CDATA[функциональное тестирование]]></category><category><![CDATA[нагрузочное тестирование]]></category><category><![CDATA[релизный цикл]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
       <title><![CDATA[Как восстановить NSX Edge и перенести его настройки через API]]></title>
       <guid isPermaLink="true">https://habr.com/ru/post/541930/</guid>
       <link>https://habr.com/ru/post/541930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541930</link>
@@ -41,13 +159,13 @@
       <title><![CDATA[[Перевод] C и C++: межъязыковые интерфейсы]]></title>
       <guid isPermaLink="true">https://habr.com/ru/post/539092/</guid>
       <link>https://habr.com/ru/post/539092/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=539092</link>
-      <description><![CDATA[Как известно, C и C++ — это родственные языки, между которыми есть много общего. Но их пути, с годами, расходятся всё сильнее. В общих чертах дело обстоит так: код, написанный на одном из этих языков, не может быть скомпилирован под видом кода, написанного на другом. Этому мешает множество больших и маленьких различий между языками. Причём, речь идёт не только о синтаксических различиях. Некоторые общие синтаксические конструкции могут иметь разную семантику. Поэтому обычно нет никакого смысла в том, чтобы компилировать код, написанный на C, с помощью C++-компилятора. Не стоит доверять тем, кто утверждает обратное.<br>
+      <description><![CDATA[Как известно, C и C++ — это родственные языки между которыми есть много общего. Но их пути, с годами, расходятся всё сильнее. В общих чертах дело обстоит так: код, написанный на одном из этих языков, не может быть скомпилирован под видом кода, написанного на другом. Этому мешает множество больших и маленьких различий между языками. Причём, речь идёт не только о синтаксических различиях. Некоторые общие синтаксические конструкции могут иметь разную семантику. Поэтому обычно нет никакого смысла в том, чтобы компилировать код, написанный на C, с помощью C++-компилятора. Не стоит доверять тем, кто утверждает обратное.<br>
 <br>
 Правда, есть одна сфера, где обычно наблюдается согласие между C и C++. Это — ABI (Application Binary Interface, двоичный интерфейс приложений). Структуры данных и функции одного языка могут быть, в той или иной мере, использованы в другом языке. C и C++, кроме того, достаточно сильно пересекаются в области спецификаций интерфейсов, вследствие чего один и тот же заголовочный файл можно использовать из кода, написанного на обоих языках.<br>
 <br>
 <a href="https://habr.com/ru/company/ruvds/blog/539092/"><img src="https://habrastorage.org/webt/hq/mt/qt/hqmtqtf_qeqtu0fnj2w_jdga-t8.png"></a><br>
 <br>
-В этом материале я постараюсь собрать то общее, что есть у C и C++, и предложу некоторые рекомендации, которые позволят достаточно хорошо сочетать эти языки. Это, правда, будет всего лишь рассказ, иллюстрирующий точку зрения C-программиста, который хочет создавать интерфейсы для C++.<br> <a href="https://habr.com/ru/post/539092/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=539092#habracut">Читать дальше &rarr;</a>]]></description>
+В этом материале я постараюсь собрать то общее, что есть у C и C++ и предложу некоторые рекомендации, которые позволят достаточно хорошо сочетать эти языки. Это, правда, будет всего лишь рассказ, иллюстрирующий точку зрения C-программиста, который хочет создавать интерфейсы для C++.<br> <a href="https://habr.com/ru/post/539092/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=539092#habracut">Читать дальше &rarr;</a>]]></description>
       
       <pubDate>Thu, 11 Feb 2021 09:17:46 GMT</pubDate>
       <dc:creator>ru_vds</dc:creator>
@@ -285,126 +403,8 @@
       
       <pubDate>Thu, 11 Feb 2021 07:40:59 GMT</pubDate>
       <dc:creator>Wallarm</dc:creator>
-      <category><![CDATA[Блог компании Валарм]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Исследования и прогнозы в IT]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[Блог компании OWASP]]></category><category><![CDATA[Блог компании Валарм]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Исследования и прогнозы в IT]]></category>
       <category><![CDATA[информационная безопасность]]></category><category><![CDATA[топ-10 owasp 2017]]></category><category><![CDATA[топ-10 owasp 2021]]></category><category><![CDATA[разработка]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Нам нужно честно поговорить про аттестованные ЦОД]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/541916/</guid>
-      <link>https://habr.com/ru/post/541916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541916</link>
-      <description><![CDATA[<p><strong>Дисклеймер</strong></p><p>1.&nbsp;&nbsp;&nbsp;Я не собираюсь заниматься луддизмом и призывать всех не переезжать в аттестованные облака. Облачные технологии это, несомненно, часть нашего будущего. </p><p>2.&nbsp;&nbsp;&nbsp;Конечно же, не все аттестованные облака являются «аттестованными» в кавычках. Но если вы потенциальный клиент, есть нюансы, на которые необходимо обратить внимание.</p><p>3.&nbsp;&nbsp;&nbsp;Если при переезде в аттестованное облако вас интересует не фактическая защищенность передаваемых в облако данных, а формальное выполнение требований, то тут один короткий совет – проверьте, что предъявляемый провайдером аттестат классом защищенности (или уровнем защищенности) не ниже вашей системы. Далее, если с аттестацией что-то не так, то по идее должны разбираться регуляторы с провайдером. По идее... (но об этом ниже).</p><p>Если все же вас заботит не только наличие у провайдера заветной бумаги, но и реальная защищенность информации, тогда эта статья для вас.</p> <a href="https://habr.com/ru/post/541916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541916#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Thu, 11 Feb 2021 07:38:52 GMT</pubDate>
-      <dc:creator>Loreweil</dc:creator>
-      <category><![CDATA[Блог компании Информационный центр]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Законодательство в IT]]></category><category><![CDATA[Облачные сервисы]]></category>
-      <category><![CDATA[облачные сервисы]]></category><category><![CDATA[облачные технологии]]></category><category><![CDATA[152-фз]]></category><category><![CDATA[фстэк]]></category><category><![CDATA[цод]]></category><category><![CDATA[аттестация]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Intel NUC 11 — предложения 2021 года]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/541546/</guid>
-      <link>https://habr.com/ru/post/541546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541546</link>
-      <description><![CDATA[<img src="https://habrastorage.org/webt/st/gc/_m/stgc_mw-r2dl_54ss7dtlaihsbe.jpeg"><br>
-<br>
-Обновился модельный ряд любимых нами портативных компьютеров Intel NUC. Модели 2021 года получили новейшие процессоры 11 поколения Tiger Lake и соответствующие им возможности. Немного изменился дизайн, а к существующим двум вариантам корпусов (толстому и тонкому) добавился еще один — толстый с 15-ваттной беспроводной зарядкой для телефонов на верхней крышке. Доведена до логического завершения идея разделения линейки на части исходя из позиционирования устройств.<br> <a href="https://habr.com/ru/post/541546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541546#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Thu, 11 Feb 2021 07:19:30 GMT</pubDate>
-      <dc:creator>saul</dc:creator>
-      <category><![CDATA[Блог компании Intel]]></category><category><![CDATA[Компьютерное железо]]></category><category><![CDATA[Настольные компьютеры]]></category>
-      <category><![CDATA[intel nuc]]></category><category><![CDATA[tiger lake]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Microsoft Viva – новая платформа для вовлечения и взаимодействия сотрудников]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/541242/</guid>
-      <link>https://habr.com/ru/post/541242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541242</link>
-      <description><![CDATA[<p>Представляем&nbsp;<a href="https://news.microsoft.com/employee-experience/"><u>Microsoft Viva</u></a>&nbsp;– первую платформу для профессионального развития и поддержания благоприятного эмоционального состояния сотрудников, которая содержит инструменты для обеспечения вовлеченности и обучения, а также возможности для обмена знаниями в процессе работы. Viva обеспечит совершенно новый опыт благодаря интеграции с инструментами улучшения производительности и совместной работы в Microsoft 365 и Microsoft Teams.</p><p>В условиях постоянных изменений в области организации труда растет спрос на решения, поддерживающие корпоративную культуру, а также позволяющие осуществлять удобный поиск по базе знаний и обучение без отрыва от работы. Аналитики оценивают оборот зарождающегося рынка платформ Employee Experience в $300 млрд в год. На сегодняшний день существует большое количество разрозненных услуг и инструментов, однако их потенциал недостаточно эффективно используется сотрудниками компаний, которые в них инвестировали.</p><p>«Мы приняли участие в крупнейшем в мире эксперименте по удаленной работе, который оказал огромное влияние на сотрудников, – сказал Сатья Наделла, генеральный директор Microsoft. – Каждая организация будет нуждаться в едином подходе к взаимодействию с персоналом, начиная с приема на работу и заканчивая их непрерывным обучением и ростом. Viva объединяет все, что необходимо сотруднику для достижения успеха, начиная с первого дня работы, в единое решение непосредственно в Teams».</p> <a href="https://habr.com/ru/post/541242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541242#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Thu, 11 Feb 2021 07:00:01 GMT</pubDate>
-      <dc:creator>sahsAGU</dc:creator>
-      <category><![CDATA[Блог компании Microsoft]]></category><category><![CDATA[Системное администрирование]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Разработка для Office 365]]></category><category><![CDATA[Удалённая работа]]></category>
-      <category><![CDATA[microsoft]]></category><category><![CDATA[teams]]></category><category><![CDATA[viva]]></category>
-    </item>
-
-
-
-
-
-
-
-  
-
-
-
-    <item>
-      <title><![CDATA[[Перевод] Тренды 2021 в индустрии беспилотного транспорта]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/540730/</guid>
-      <link>https://habr.com/ru/post/540730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=540730</link>
-      <description><![CDATA[<img src="https://www.eetimes.com/wp-content/uploads/Egil_AV-trends-in-2021.jpg?w=768" alt="image"/><br/>
-<br/>
-<i>Обзор основных трендов в индустрии беспилотного транспорта на 2021 год и некоторые параллели с 2020 годом.</i><br/>
-<br/>
-Пришло время поговорить о перспективах беспилотного транспорта в 2021 году. В прошлом году в индустрии было небольшое затишье, пандемия сильно повлияла на стратегию многих компаний и заставила пересмотреть многие сценарии использования. Важность беспилотных грузовиков и автомобилей для перевозки товаров выросла в ущерб роботакси. Исключением стал Китай – там масштабы тестирования роботакси резко возросли.<br/>
-<br/>
-<h3>Регуляции NHTSA в отношении беспилотного транспорта</h3><br/>
-Работа NHTSA (Национальное управление безопасностью движения на трассах) по разработке регуляций для беспилотного транспорта станет важным событием 2021 года. Я написал две статьи по этой теме: <a href="https://www.eetimes.com/nhtsa-is-defining-safety-for-self-driving-cars-but-it-has-questions-for-you/" rel="nofollow noopener noreferrer">«NHTSA разрабатывает стандарты безопасности беспилотных автомобилей и у него есть вопросы»</a> и <a href="https://www.eetimes.com/nhtsa-frames-safety-for-cars-without-drivers/" rel="nofollow noopener noreferrer">«Определение безопасности беспилотных автомобилей от NHTSA»</a>. Надеюсь, работа над этим проектом будет завершена в 2021 (хотя вероятнее в 2022).<br/>
- <a href="https://habr.com/ru/post/540730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=540730#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Thu, 11 Feb 2021 06:57:14 GMT</pubDate>
-      <dc:creator>Itelma</dc:creator>
-      <category><![CDATA[Блог компании НПП ИТЭЛМА]]></category><category><![CDATA[Исследования и прогнозы в IT]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Автомобильные гаджеты]]></category><category><![CDATA[Транспорт]]></category>
-      <category>NHTSA</category><category>Automotive</category><category>итэлма</category><category>компоненты для автопроизводителей</category><category>электроника для автотранспорта</category><category>ADAS</category><category>Connected Cars</category><category>connectivity</category>
-    </item>
-
-
-
-      <item>
-      <title><![CDATA[Golang-дайджест № 1  (14 – 31 января 2021)]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/541612/</guid>
-      <link>https://habr.com/ru/post/541612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541612</link>
-      <description><![CDATA[<p>Свежая подборка новостей и материалов со ссылками </p><p><strong>Интересное в этом выпуске&nbsp;</strong></p><p>Поддержка ARM, Движок Diablo 2, Расшифровка паролей из браузеров, Сборщик js – аналог webpack</p><p><strong>Приятного чтения!</strong></p> <a href="https://habr.com/ru/post/541612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541612#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Thu, 11 Feb 2021 06:30:14 GMT</pubDate>
-      <dc:creator>tioffs</dc:creator>
-      <category><![CDATA[Блог компании ВсеИнструменты.ру]]></category><category><![CDATA[Go]]></category>
-      <category><![CDATA[go]]></category><category><![CDATA[golang]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Привет из прошлого: кто, что и зачем пишет в журнале учета СКЗИ]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/541846/</guid>
-      <link>https://habr.com/ru/post/541846/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541846</link>
-      <description><![CDATA[<p>Современное законодательство (а часто и здравый смысл) требуют шифровать практически все данные, которые организация передает и получает. Но установить криптошлюз и наладить его работу – это только полдела. Самое «интересное» начинается дальше: учет СКЗИ. Этот занимательный процесс регламентируется инструкцией, которая была написана 20 лет назад и уже не отвечает современным реалиям, а некоторые ее пункты вообще ставят в тупик. Вспоминая собственные ошибки, мы решили поговорить о том, кто, что и как должен записывать у журнал учета СКЗИ. </p> <a href="https://habr.com/ru/post/541846/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541846#habracut">Пошелестеть бумажками</a>]]></description>
-      
-      <pubDate>Thu, 11 Feb 2021 06:00:01 GMT</pubDate>
-      <dc:creator>SolarSecurity</dc:creator>
-      <category><![CDATA[Блог компании Ростелеком-Солар]]></category><category><![CDATA[Информационная безопасность]]></category>
-      <category><![CDATA[vpn]]></category><category><![CDATA[шифрование]]></category><category><![CDATA[скзи]]></category><category><![CDATA[учет]]></category>
     </item>
 
 

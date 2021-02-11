@@ -5,8 +5,8 @@
 <link>https://www.itweek.ru</link>
 <description>Издание itWeek (до 2018 года — PC Week) на портале и на страницах бумажного номера информирует читателей об актуальных информационных и коммуникационных технологиях, продуктах и решениях и опыте развития цифровой экономики и цифровой трансформации предприятий и организаций всех масштабов и отраслей. Издание рассказывает о важнейших событиях отечественного и мирового рынка ИКТ и анализирует тенденции развития ИКТ-индустрии.</description>
 <language>ru</language>
-<pubDate>Thu, 11 Feb 2021 11:59:42 +0300</pubDate>
-<lastBuildDate>Thu, 11 Feb 2021 11:59:42 +0300</lastBuildDate>
+<pubDate>Thu, 11 Feb 2021 13:30:12 +0300</pubDate>
+<lastBuildDate>Thu, 11 Feb 2021 13:30:12 +0300</lastBuildDate>
 <docs>https://www.itweek.ru/rss</docs>
 <generator>itWeek</generator>
 <ttl>30</ttl>
@@ -17,31 +17,38 @@
 </image>
 <atom:link href="https://www.itweek.ru/rss/" rel="self" type="application/rss+xml" />
 <item>
+	<title>Вышла обновлённая серия ИБП IPPON Back Basic S Euro</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216759</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216759</guid>
+	<description>Производитель источников бесперебойного питания IPPON представил обновлённую серию ИБП IPPON Back Basic S Euro — компактные источники бесперебойного питания линейно-интерактивного типа, предназначенные для использования как в офисе, так и дома для защиты ...</description>
+	<pubDate>Thu, 11 Feb 2021 12:01:14 +0300</pubDate>
+</item>
+<item>
 	<title>Вышла новая версия Appius-PLM УПСД 2021</title>
 	<link>https://www.itweek.ru/themes/detail.php?ID=216758</link>
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216758</guid>
-	<description>Компания APPIUS сообщила о&amp;nbsp;выходе новой версии системы для автоматизации технического документооборота Appius-PLM 2021: добавлены новые современные механизмы, интеграционные модули работают в&amp;nbsp;обновленном режиме, работа с&amp;nbsp;письмами стала ...</description>
+	<description>Компания APPIUS сообщила о выходе новой версии системы для автоматизации технического документооборота Appius-PLM 2021: добавлены новые современные механизмы, интеграционные модули работают в обновленном режиме, работа с письмами стала удобнее, повышена ...</description>
 	<pubDate>Thu, 11 Feb 2021 11:58:17 +0300</pubDate>
 </item>
 <item>
 	<title>Fujitsu представила обновленную линейку ноутбуков LIFEBOOK</title>
 	<link>https://www.itweek.ru/themes/detail.php?ID=216757</link>
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216757</guid>
-	<description>Компания Fujitsu представила обновленную линейку ноутбуков LIFEBOOK в&amp;nbsp;качестве дополнения к&amp;nbsp;семейству продуктов для бизнеса Ultra-Mobile Premium. Обновленные ноутбуки Fujitsu LIFEBOOK серии U7&amp;nbsp;оснащаются новейшими процессорами Intel Core ...</description>
+	<description>Компания Fujitsu представила обновленную линейку ноутбуков LIFEBOOK в качестве дополнения к семейству продуктов для бизнеса Ultra-Mobile Premium. Обновленные ноутбуки Fujitsu LIFEBOOK серии U7 оснащаются новейшими процессорами Intel Core 11-го поколения ...</description>
 	<pubDate>Thu, 11 Feb 2021 11:55:28 +0300</pubDate>
 </item>
 <item>
-	<title>Минцифры России предложило оптимизировать порядок включения продуктов в реестр ПО</title>
+	<title>Минцифры предложило оптимизировать порядок включения продуктов в реестр ПО</title>
 	<link>https://www.itweek.ru/themes/detail.php?ID=216756</link>
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216756</guid>
-	<description>Министерство цифрового развития, связи и&amp;nbsp;массовых коммуникаций Российской Федерации подготовило проект Постановления, предусматривающий оптимизацию порядка включения продуктов в&amp;nbsp;реестр российского ПО. Изменения позволят вдвое сократить срок ...</description>
+	<description>Министерство цифрового развития, связи и массовых коммуникаций Российской Федерации подготовило проект Постановления, предусматривающий оптимизацию порядка включения продуктов в реестр российского ПО. Изменения позволят вдвое сократить срок рассмотрения ...</description>
 	<pubDate>Thu, 11 Feb 2021 11:51:54 +0300</pubDate>
 </item>
 <item>
 	<title>Zebra Technologies: пандемия выявила нехватку технологических решений в образовательных учреждениях</title>
 	<link>https://www.itweek.ru/themes/detail.php?ID=216755</link>
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216755</guid>
-	<description>Энди Макбейн (Andy McBain), директор по&amp;nbsp;управлению продукцией в&amp;nbsp;сфере мобильных компьютеров и&amp;nbsp;приложений в&amp;nbsp;компании Zebra Technologies, поделился экспертным мнением на&amp;nbsp;тему применения технологий радиочастотной идентификации ...</description>
+	<description>Энди Макбейн (Andy McBain), директор по управлению продукцией в сфере мобильных компьютеров и приложений в компании Zebra Technologies, поделился экспертным мнением на тему применения технологий радиочастотной идентификации (RFID) для обеспечения ...</description>
 	<pubDate>Thu, 11 Feb 2021 11:50:43 +0300</pubDate>
 </item>
 <item>
@@ -218,13 +225,6 @@
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216717</guid>
 	<description>Искусственный интеллект — новый двигатель эволюции технологий и роста потребительского спроса. Но учитывая мощь этой технологии, она вызовет интерес регуляторных органов, что потребует от компаний более тщательного подхода. Главный аналитик Forrester ...</description>
 	<pubDate>Tue, 09 Feb 2021 09:50:45 +0300</pubDate>
-</item>
-<item>
-	<title>Цифровая трансформация предприятия — новый продукт «ГИПРОСВЯЗИ»</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216716</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216716</guid>
-	<description>«ГИПРОСВЯЗЬ» запустила принципиально новый продукт, способствующий ускорению интеграции предприятия в цифровую рыночную экосистему — «Цифровая трансформация ведомств и предприятий». Продукт призван помочь предприятиям, которые ощутили необходимость ...</description>
-	<pubDate>Mon, 08 Feb 2021 23:05:26 +0300</pubDate>
 </item>
 </channel>
 </rss>

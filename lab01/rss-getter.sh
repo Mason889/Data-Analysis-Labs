@@ -1,5 +1,7 @@
 #!/bin/bash
 
+path="/Users/install/Data-Analysis/"          # path of ~
+
 urls=(
     https://habr.com/ru/rss/all/all/?fl=ru 
     https://3dnews.ru/news/rss/ 
@@ -30,7 +32,7 @@ shortnames=(
 
 for item in ${!urls[*]}
 do
-    curl ${urls[$item]} --output /Users/install/Data-Analysis/lab01/rss/$(date +"%F")-${shortnames[$item]}.xml
+    curl ${urls[$item]} --output ${path}lab01/rss/$(date +"%F")-${shortnames[$item]}.xml
 done
 
-python /Users/install/Data-Analysis/lab01/main.py                              # run python scriptg
+python ${path}lab01/main.py                              # run python script
