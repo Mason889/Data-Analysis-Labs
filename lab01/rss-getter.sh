@@ -33,4 +33,4 @@ do
     curl ${urls[$item]} --output /Users/install/Data-Analysis/lab01/rss/$(date +"%F")-${shortnames[$item]}.xml
 done
 
-python /Users/install/Data-Analysis/lab01/main.py                              # run python script
+python /Users/install/Data-Analysis/lab01/main.py                              # run python scriptg
