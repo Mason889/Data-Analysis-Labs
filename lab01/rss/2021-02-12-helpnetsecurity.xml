@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Help Net Security</title>
+	<atom:link href="https://www.helpnetsecurity.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.helpnetsecurity.com</link>
+	<description>Daily information security news with a focus on enterprise security.</description>
+	<lastBuildDate>Thu, 11 Feb 2021 14:10:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093400/cropped-hns2-32x32.png</url>
+	<title>Help Net Security</title>
+	<link>https://www.helpnetsecurity.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>For SOC teams, the analytics and automation hype is real</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/soc-analytics-automation/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 06:30:39 +0000</pubDate>
+				<category><![CDATA[Expert analysis]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data analytics]]></category>
+		<category><![CDATA[Gartner]]></category>
+		<category><![CDATA[monitoring]]></category>
+		<category><![CDATA[remote working]]></category>
+		<category><![CDATA[SOC]]></category>
+		<category><![CDATA[Sumo Logic]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=168855</guid>
+
+					<description><![CDATA[<p>Tools for analytics and automation are providing today’s SOC teams with enhanced visibility, improved productivity, and unlimited scalability—and it couldn’t come at a better time. In the wake of the COVID-19 pandemic, security has become a top priority for nearly all organizations. With employees being required to work remotely, companies’ data and critical assets are now exposed to more threats as the attack surface has—and continues to—expand dramatically. And SecOps teams are the first line &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/soc-analytics-automation/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/soc-analytics-automation/">For SOC teams, the analytics and automation hype is real</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>5 cybersecurity trends MSPs must address in 2021</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/msps-cybersecurity-trends-2021/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 06:00:34 +0000</pubDate>
+				<category><![CDATA[Don't miss]]></category>
+		<category><![CDATA[Expert analysis]]></category>
+		<category><![CDATA[Hot stuff]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Beyond Security]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[MSP]]></category>
+		<category><![CDATA[predictions]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[remote working]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[trends]]></category>
+		<category><![CDATA[VPN]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=168492</guid>
+
+					<description><![CDATA[<p>2020 was chock full of surprises and twists that no analyst could have predicted and came with a massive shift to remote working and tools that facilitate it. The good news is that managed service providers (MSPs) saw tremendous growth both due to the move to a remote workspace and the need to optimize IT costs. And now that COVID-19 has become a known hurdle and companies have had time to adapt to it, MSPs &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/msps-cybersecurity-trends-2021/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/msps-cybersecurity-trends-2021/">5 cybersecurity trends MSPs must address in 2021</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Successful BEC attacks become 56% more costly</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/successful-bec-attacks-become-more-costly/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 05:30:49 +0000</pubDate>
+				<category><![CDATA[Don't miss]]></category>
+		<category><![CDATA[Featured news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Agari]]></category>
+		<category><![CDATA[APWG]]></category>
+		<category><![CDATA[Axur]]></category>
+		<category><![CDATA[BEC scams]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[OpSec Security]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[RiskIQ]]></category>
+		<category><![CDATA[SSL]]></category>
+		<category><![CDATA[threats]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169345</guid>
+
+					<description><![CDATA[<p>The number of phishing attacks grew through 2020, fully doubling over the course of the year. Attacks peaked in October 2020, with a high of 225,304 new phishing sites appearing in that month alone, breaking all previous monthly records, according to APWG. In Brazil, security firm Axur saw a slower growth in the number of phishing attacks that targeted Brazilian companies and consumers in Brazil. But overall, it observed almost twice as many such phishing &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/successful-bec-attacks-become-more-costly/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/successful-bec-attacks-become-more-costly/">Successful BEC attacks become 56% more costly</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>mHealth apps consistently expose PII and PHI through APIs</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/mhealth-apps-expose-pii-phi-through-apis/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 05:00:54 +0000</pubDate>
+				<category><![CDATA[Featured news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[API security]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[threats]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169203</guid>
+
+					<description><![CDATA[<p>All of the 30 popular mHealth apps that were tested are vulnerable to API attacks that can allow unauthorized access to full patient records including protected health information (PHI) and personally identifiable information (PII), Approov reveals. The study underscores the API shielding actions now urgently required to protect mHealth apps from API abuse. The Knight Ink vulnerability research study details findings, and also notes that the results are particularly worrisome given the increased reliance on &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/mhealth-apps-expose-pii-phi-through-apis/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/mhealth-apps-expose-pii-phi-through-apis/">mHealth apps consistently expose PII and PHI through APIs</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>2020 vulnerability disclosures on track to exceed those from 2019</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/2020-vulnerability-disclosures/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 04:30:15 +0000</pubDate>
+				<category><![CDATA[Featured news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[CVE]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Risk Based Security]]></category>
+		<category><![CDATA[trends]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[vulnerability disclosure]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169087</guid>
+
+					<description><![CDATA[<p>2020 vulnerability disclosures are on track to exceed 2019 despite a sharp decrease of 19.2% observed earlier in the year, according to Risk Based Security. The team aggregated 23,269 vulnerabilities disclosed during 2020. Despite the initial disruption from COVID-19, the trend of total number of vulnerabilities suggests that business operations and routines have normalized as the gap has closed to 0.98%. “2020 could be titled ‘The Great Catch-up’. We saw an incredible drop of 19.2% &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/2020-vulnerability-disclosures/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/2020-vulnerability-disclosures/">2020 vulnerability disclosures on track to exceed those from 2019</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Researchers spot massive increase in RDP attack attempts</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/rdp-attack-attempts-surge/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 04:00:40 +0000</pubDate>
+				<category><![CDATA[Featured news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybercriminals]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[ESET]]></category>
+		<category><![CDATA[RDP]]></category>
+		<category><![CDATA[remote working]]></category>
+		<category><![CDATA[threats]]></category>
+		<category><![CDATA[trends]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169033</guid>
+
+					<description><![CDATA[<p>The COVID-19 pandemic continued to influence the cybercrime landscape in 2020, ESET reveals. Most notably, the new attack surface created by the shift to work from home brought further growth of Remote Desktop Protocol (RDP) attacks, albeit at a slower rate compared to previous quarters. RDP attack attempts surge Between Q1 and Q4 2020, telemetry recorded a staggering 768% increase in RDP attack attempts. “RDP security is not to be underestimated especially due to ransomware, &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/rdp-attack-attempts-surge/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/rdp-attack-attempts-surge/">Researchers spot massive increase in RDP attack attempts</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Relic Explorer gives engineers visibility into their complete estate</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/new-relic-explorer/</link>
+		
+		<dc:creator><![CDATA[Industry News]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 03:00:31 +0000</pubDate>
+				<category><![CDATA[Industry news]]></category>
+		<category><![CDATA[New Relic]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169612</guid>
+
+					<description><![CDATA[<p>New Relic introduced New Relic Explorer, its reimagined Full-Stack Observability experience that delivers innovative new visualizations and capabilities to give engineers unprecedented visibility into their complete estate. With zero configuration required, New Relic Explorer brings together an organization’s telemetry data from across applications and infrastructure to provide an essential live view of an entire software system’s health and performance. With this new single source of truth, engineers can quickly discover emerging performance issues and swiftly &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/new-relic-explorer/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/new-relic-explorer/">New Relic Explorer gives engineers visibility into their complete estate</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WatchGuard Cloud: Delivering simplified security management for MSPs</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/watchguard-cloud/</link>
+		
+		<dc:creator><![CDATA[Industry News]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 02:45:24 +0000</pubDate>
+				<category><![CDATA[Industry news]]></category>
+		<category><![CDATA[WatchGuard]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169644</guid>
+
+					<description><![CDATA[<p>WatchGuard has announced new capabilities that make WatchGuard Cloud the ideal security platform for managed service providers (MSPs). With a new single, centralised interface for delivering and managing network security, advanced threat detection, MFA (Multi-Factor Authentication), and more, MSPs will benefit from simplified client management while enabling rapid, efficient and profitable growth. The latest version incorporates WatchGuard’s ThreatSync features, advanced Firebox policy management capabilities and authentication policies that enable zero-trust. MSPs can create policy templates &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/watchguard-cloud/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/watchguard-cloud/">WatchGuard Cloud: Delivering simplified security management for MSPs</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Enzoic for Active Directory updates help orgs prevent use of compromised credentials</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/enzoic-for-active-directory-2/</link>
+		
+		<dc:creator><![CDATA[Industry News]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 02:30:46 +0000</pubDate>
+				<category><![CDATA[Industry news]]></category>
+		<category><![CDATA[Enzoic]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169620</guid>
+
+					<description><![CDATA[<p>Enzoic announced updates to Enzoic for Active Directory. The product is the only Active Directory plugin to check credentials at installation and password creation, and continuously monitor for and detect compromised credentials. The automated tool screens passwords against the dynamic Enzoic database containing billions of exposed credentials. This helps organizations prevent the use of compromised credentials, reducing the risk of a successful account takeover. With the growing threat from exposed credentials, NIST recommends that companies &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/enzoic-for-active-directory-2/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/enzoic-for-active-directory-2/">Enzoic for Active Directory updates help orgs prevent use of compromised credentials</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>YugabyteDB 2.4 provides default distributed SQL database for cloud-native apps in a multi-cloud world</title>
+		<link>https://www.helpnetsecurity.com/2021/02/12/yugabytedb-2-4/</link>
+		
+		<dc:creator><![CDATA[Industry News]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 02:15:22 +0000</pubDate>
+				<category><![CDATA[Industry news]]></category>
+		<category><![CDATA[Yugabyte]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169594</guid>
+
+					<description><![CDATA[<p>Yugabyte announced the general availability of YugabyteDB 2.4 with hardened enterprise-grade security features, enhanced multi-region deployment capabilities, and performance improvements. The newest iteration of Yugabyte’s open source database improves on the existing high availability, horizontal scalability, and ease-of-use characteristics of YugabyteDB, furthering the company’s mission of providing the default distributed SQL database for cloud-native applications in a multi-cloud world. As enterprises deploy applications across multiple geographic regions and clouds, they often struggle to provide the &#8230; <a href="https://www.helpnetsecurity.com/2021/02/12/yugabytedb-2-4/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/12/yugabytedb-2-4/">YugabyteDB 2.4 provides default distributed SQL database for cloud-native apps in a multi-cloud world</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
