@@ -5,8 +5,8 @@
 		<link>https://3dnews.ru/</link>
 		<description>3DNews - все новости сайта</description>
 		<language>ru</language>
-		<pubDate>Tue, 16 Feb 2021 12:45:38 +0300</pubDate>
-		<lastBuildDate>Tue, 16 Feb 2021 12:45:38 +0300</lastBuildDate>
+		<pubDate>Tue, 16 Feb 2021 12:55:51 +0300</pubDate>
+		<lastBuildDate>Tue, 16 Feb 2021 12:55:51 +0300</lastBuildDate>
 		<docs>https://3dnews.ru/news/rss</docs>
 		<generator>3DNews</generator>
 		<managingEditor>nivnikov@3dnews.ru (Денис Нивников)</managingEditor>
@@ -15,6 +15,26 @@
 		<url>https://3dnews.ru/assets/images/logo.png</url>
 		</image>
 		<atom:link href="https://3dnews.ru/news/rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Игрок обнаружил в The Last of Us Part II любопытную отсылку к Uncharted 2: Among Thieves</title>
+			<link>https://3dnews.ru/1032724</link>
+			<guid>https://3dnews.ru/1032724/#602b8c51b4182e9e2b245cce</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/16/1032724/iom6t06y9ch61.jpg" length="5886254" type="image/jpeg" />
+			<description><![CDATA[
+								Почти все разработчики прячут в своих играх разнообразные &laquo;пасхалки&raquo;, и Naughty Dog в этом плане не исключение. Студия наполнила&nbsp;The Last of Us Part II множеством отсылок, например, добавила&nbsp;в неё PlayStation 3 и PS Vita с запущенной Hotline Miami. А недавно стало известно о &laquo;пасхалке&raquo;, связанной с Uncharted 2: Among Thieves. Её удалось обнаружить спустя более чем полгода после релиза TLoU II. Находкой поделился посетитель форума Reddit под псевдонимом briecheesed. Он опубликовал скриншот, на котором показан постер из The Last of Us Part II. На нём демонстрируются двое мужчин с оружием посреди заснеженных гор. Briecheesed догадался, что это &mdash; Нейтан Дрейк и Тензин из Uncharted 2: Among Thieves во время выполнения задания в Тибете.			]]></description>
+			<pubDate>Tue, 16 Feb 2021 12:48:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
+		</item>
+		<item>
+			<title>Студия-разработчик ремейка The Legend of Zelda: Link's Awakening взялась за «стильную» игру в средневековом антураже</title>
+			<link>https://3dnews.ru/1032723</link>
+			<guid>https://3dnews.ru/1032723/#602b8b17b4182e6861245cf9</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/16/1032723/01.jpeg" length="1379672" type="image/jpeg" />
+			<description><![CDATA[
+								Журналисты портала Nintendo Everything обратили внимание на недавнее обновление списка вакансий в японской студии Grezzo, ответственной за ремейк The Legend of Zelda: Link's Awakening.   Как стало известно благодаря официальному сайту компании, Grezzo взялась за разработку своего следующего проекта &mdash; оригинального или основанного на какой-либо интеллектуальной собственности, не уточняется.			]]></description>
+			<pubDate>Tue, 16 Feb 2021 12:46:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - игры</category>
+		</item>
 		<item>
 			<title>Apple пообещала бесплатный ремонт Apple Watch, если они перестали заряжаться</title>
 			<link>https://3dnews.ru/1032720</link>
@@ -984,26 +1004,6 @@
 								Студия Bloober Team выпустила обновление 1.1 для ужастика The Medium, которое предлагает улучшения производительности по всем направлениям, а также оптимизацию трассировки лучей и многое другое. Новая заплатка доступна в Steam и устраняет несколько обнаруженных ошибок, включая проблемы с загрузкой видеокарты, на которые жаловались игроки после обновления в прошлом месяце. Приведём полные официальные примечания к обновлению 1.1:			]]></description>
 			<pubDate>Sun, 14 Feb 2021 13:22:00 +0300</pubDate>
 			<category>Технологии и рынок IT. Новости - игры</category>
-		</item>
-		<item>
-			<title>Microsoft перевыпустила обновление, которое подготовит компьютеры к переходу на Windows 10 21H1</title>
-			<link>https://3dnews.ru/1032604</link>
-			<guid>https://3dnews.ru/1032604/#6028ed43b4182ed206245cd4</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/14/1032604/221.jpg" length="201461" type="image/jpeg" />
-			<description><![CDATA[
-								Позднее в этом году Microsoft выпустит первое функциональное обновление для программной платформы Windows 10, которое в основном будет состоять из общих исправлений, направленных на повышение стабильности работы системы. В преддверии этого разработчики перевыпустили KB4023057, обязательное обновление, которое подготовит компьютер к установке Windows 10 21H1. Согласно имеющимся данным, пакет KB4023057 представляет собой обновление для &laquo;компонентов службы обновления Windows 10&raquo;. Его предназначение заключается в устранении проблем с настройками &laquo;Центра обновлений Windows&raquo;. Упомянутое обновление предназначено для компьютеров, работающих под управлением Windows 10 20H2, Windows 10 (2004) и более ранних версий платформы.			]]></description>
-			<pubDate>Sun, 14 Feb 2021 12:41:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - Операционные системы</category>
-		</item>
-		<item>
-			<title>Работы по подготовке к запуску «Прогресса МС-16» завершены, старт состоится завтра утром</title>
-			<link>https://3dnews.ru/1032603</link>
-			<guid>https://3dnews.ru/1032603/#6028e0ecb4182ef106245cd1</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/14/1032603/00.jpg" length="554989" type="image/jpeg" />
-			<description><![CDATA[
-								&laquo;Роскосмос&raquo; сообщил, что после завершения общей сборки и доставки ракеты-носителя &laquo;Союз-2.1а&raquo; с кораблём &laquo;Прогресс МС-16&raquo; на борту, Центр управления полётами (ЦУП) завершил плановые работы по подготовке к выведению на орбиту &laquo;грузовика&raquo; и последующей стыковке к российскому сегменту МКС. В настоящее время старт запланирован на 15 февраля 2021 года в 7:45 по московскому времени. Отделение &laquo;грузовика&raquo; от третьей ступени ракеты-носителя &laquo;Союз-2.1а&raquo; состоится менее чем через 9 минут, а стыковка со станцией запланирована на 17 февраля в 9:20 по московскому времени, по двухсуточной (34-витковой) схеме. Сближение корабля со станцией и причаливание к стыковочному узлу модуля &laquo;Пирс&raquo; пройдут в автоматическом режиме под контролем специалистов ЦУП и российских членов экипажа станции, космонавтов Сергея Рыжикова и Сергея Кудь-Сверчкова.			]]></description>
-			<pubDate>Sun, 14 Feb 2021 12:20:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - космос</category>
 		</item>
 	</channel>
 </rss>

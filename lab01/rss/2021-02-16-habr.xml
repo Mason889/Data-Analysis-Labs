@@ -7,7 +7,7 @@
     <language>ru</language>
     <managingEditor>editor@habr.com</managingEditor>
     <generator>habr.com</generator>
-    <pubDate>Tue, 16 Feb 2021 09:46:13 GMT</pubDate>
+    <pubDate>Tue, 16 Feb 2021 10:00:03 GMT</pubDate>
     
       <image>
         <link>https://habr.com/ru/</link>
@@ -16,6 +16,42 @@
       </image>
 
               <item>
+      <title><![CDATA[[sobjectizer] Можно ли написать один обработчик сразу для нескольких типов сообщений? И если нет, то как быть?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542404/</guid>
+      <link>https://habr.com/ru/post/542404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542404</link>
+      <description><![CDATA[<p>Сегодняшняя статья написана по следам <a href="https://github.com/Stiffstream/sobjectizer/issues/24" rel="noopener noreferrer nofollow">недавнего вопроса</a>, который можно сформулировать следующим образом: "Можно ли в SObjectizer написать обработчик, который бы обрабатывал сразу нескольких типов сообщений?"</p><p>Вопрос интересный.</p><p>Автор вопроса любезно описал <a href="https://github.com/Stiffstream/sobjectizer/issues/24#issuecomment-775815007" rel="noopener noreferrer nofollow">свой сценарий</a>: ему нужно собирать изображения с множества промышленных камер, а затем эти изображения должны проходить по цепочке блоков обработки изображений. Используются разные типы камер, соответственно, каждое изображение имеет собственный формат и может иметь кучу сопутствующей специфической информации. Какие-то блоки обработки рассчитаны на работу только с изображениями специфического формата. Какие-то могут работать сразу с несколькими форматами. Какие-то блоки вообще безразличны к типу изображения (например, блок считает общее количество прошедших изображений).</p><p>Если изображения передаются в виде SObjectizer-овских сообщений, а блоками обработки являются SObjectizer-овские агенты, то можно ли сделать как-то так:</p> <a href="https://habr.com/ru/post/542404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542404#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 09:52:42 GMT</pubDate>
+      <dc:creator>eao197</dc:creator>
+      <category><![CDATA[Open source]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[C++]]></category>
+      <category><![CDATA[sobjectizer]]></category><category><![CDATA[c++]]></category><category><![CDATA[c++17]]></category><category><![CDATA[actor model]]></category><category><![CDATA[concurrency]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Новости Android разработки 15.02.2021]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542662/</guid>
+      <link>https://habr.com/ru/post/542662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542662</link>
+      <description><![CDATA[<p>Текстовая расшифровка новостного выпуска для Android разработчиков. Ссылка на видео внутри.</p> <a href="https://habr.com/ru/post/542662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542662#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 09:50:59 GMT</pubDate>
+      <dc:creator>kirich1409</dc:creator>
+      <category><![CDATA[Разработка под Android]]></category>
+      <category><![CDATA[android]]></category><category><![CDATA[jetpack]]></category><category><![CDATA[activity]]></category><category><![CDATA[jetbrains]]></category><category><![CDATA[fragment]]></category><category><![CDATA[androidx]]></category><category><![CDATA[lifecycle]]></category><category><![CDATA[архитектура]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
       <title><![CDATA[Пресейл в мобильном телекоме]]></title>
       <guid isPermaLink="true">https://habr.com/ru/post/542658/</guid>
       <link>https://habr.com/ru/post/542658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542658</link>
@@ -386,42 +422,6 @@ while(in &gt;&gt; x) {
       <dc:creator>sahsAGU</dc:creator>
       <category><![CDATA[Блог компании Microsoft]]></category><category><![CDATA[Python]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Искусственный интеллект]]></category>
       <category><![CDATA[этика]]></category><category><![CDATA[искусственный интеллект]]></category><category><![CDATA[microsoft]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Выгрузка данных из SAP через RFC на Python]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542346/</guid>
-      <link>https://habr.com/ru/post/542346/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542346</link>
-      <description><![CDATA[<p>Зачастую возникает потребность автоматизированной выгрузки данных из SAP ERP или S/4 HANA.&nbsp;</p><p>Такая выгрузка может служить для наполнения аналитического хранилища данных или для интеграции с другой системой.</p><p>Для этой цели можно использовать интерфейс SAP RFC, позволяющий вызывать различные функциональные модули SAP из стороннего приложения.</p><p>Преимущества этого интерфейса:</p> <a href="https://habr.com/ru/post/542346/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542346#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 06:42:58 GMT</pubDate>
-      <dc:creator>SobolevP</dc:creator>
-      <category><![CDATA[Python]]></category><category><![CDATA[ERP-системы]]></category><category><![CDATA[Big Data]]></category>
-      <category><![CDATA[sap]]></category><category><![CDATA[rfc]]></category><category><![CDATA[интеграция приложений]]></category><category><![CDATA[dwh]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Как навести порядок в проектах с p3express]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/537186/</guid>
-      <link>https://habr.com/ru/post/537186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=537186</link>
-      <description><![CDATA[<p>Теория управления проектами стала слишком сложной и размытой. Когда звучит слово «проект», мы представляем себе что-то большое и грандиозное — строительство моста, создание новой вакцины, в крайнем случае, разработку нового приложения.</p><p>Инструменты для управления проектами тоже стали слишком сложными и дорогими, никому не хочется заполнять десятки документов, которые отнимают драгоценное время, которое можно посвятить коммуникациям в проекте — как с командой, так и с заказчиками. Нам хочется делать проекты, а не играть в проектное управление. Да и пользы, кажется, это принесет больше.</p><p>С другой стороны, совсем без инструментов, документации и дедлайнов справиться с проектом не получится. Это <a href="https://habr.com/ru/users/dailenkov/"><u>Дмитрий Ильенков</u></a> из Project Management Club и автор канала <a href="https://t.me/pmclub"><u>@pmclub</u></a> на конференции <a href="https://teamleadconf.ru/moscow/2020"><u>TeamLead Conf 2020</u></a> наглядно показал в своем выступлении. И там же&nbsp; познакомил нас с <a href="https://p3express.ru/"><u>p3express</u></a> — с простым фреймворком для проектов любого размера. Этот минималистичный, но системный фреймворк для управления проектами предлагает 37 понятных шагов — от идеи проекта до работы с выгодами по его завершению.</p> <a href="https://habr.com/ru/post/537186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=537186#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 06:30:01 GMT</pubDate>
-      <dc:creator>romas1982</dc:creator>
-      <category><![CDATA[Блог компании Конференции Олега Бунина (Онтико)]]></category><category><![CDATA[Управление разработкой]]></category><category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Конференции]]></category>
-      <category><![CDATA[управление людьми]]></category><category><![CDATA[тимлид]]></category><category><![CDATA[управление командой]]></category><category><![CDATA[teamleadconf]]></category><category><![CDATA[project management]]></category><category><![CDATA[проекты]]></category><category><![CDATA[управление проектами]]></category><category><![CDATA[conference]]></category>
     </item>
 
 
