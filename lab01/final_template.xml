@@ -1,0 +1,15 @@
+<rss version="2.0">
+	<channel>
+	<item>
+        <title>Test title</title>
+        <guid isPermaLink="true">https://test.link.guid</guid>
+        <link>https://habr.com/ru/post/541864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541864</link>
+        <description><![CDATA[<p>В мае 2020 года, когда процент коллег без проектов оказался неожиданно высоким, мы решили привлечь желающих к работе с опенсорс. У DataArt есть опыт создания собственных продуктов с открытым исходным кодом: <a href="https://habr.com/ru/search/?q=devicehive#h"><u>IoT-платформа DeviceHive</u></a>, <a href="https://www.dataart.ua/news/atlas-tri-napravleniya-ispolzovaniya-freimvorka-dlya-net-inzhenerov/"><u>.NET-фреймворк Atlas</u></a>, <a href="https://habr.com/ru/company/dataart/blog/523602/"><u>игровая платформа Kiddo</u></a>. Но контрибьютором сторонних проектов на уровне компании мы раньше не выступали, и сходу вкладывать в новую инициативу большие ресурсы не планировали. Скорее, хотели посмотреть, как это работает и для чего может пригодиться в будущем.&nbsp;</p><p>Один из авторов идеи — Solution-архитектор <strong>Денис Цыплаков</strong> — поделился несколькими наблюдениями, которые могут быть полезны всем, кто хотел бы создавать открытое ПО не только в свободное, но и в рабочее время, или дать такую возможность своим командам.</p> <a href="https://habr.com/ru/post/541864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541864#habracut">Читать далее</a>]]></description>
+        
+        <pubDate>Wed, 10 Feb 2021 18:08:12 GMT</pubDate>
+        <dc:creator>DataArt</dc:creator>
+        <category><![CDATA[Блог компании DataArt]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+        <category><![CDATA[open source]]></category><category><![CDATA[обучение сотрудников]]></category><category><![CDATA[idle]]></category><category><![CDATA[открытое по]]></category><category><![CDATA[профессиональное развитие]]></category><category><![CDATA[code style]]></category><category><![CDATA[репозитории]]></category><category><![CDATA[angular]]></category>
+    </item>
+    </channel>
+</rss>

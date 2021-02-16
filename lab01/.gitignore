@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# rss xml files
+rss/*.xml
+
+# final xml file
+final.xml
