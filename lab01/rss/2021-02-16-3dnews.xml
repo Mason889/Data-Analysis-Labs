@@ -5,8 +5,8 @@
 		<link>https://3dnews.ru/</link>
 		<description>3DNews - все новости сайта</description>
 		<language>ru</language>
-		<pubDate>Tue, 16 Feb 2021 12:15:19 +0300</pubDate>
-		<lastBuildDate>Tue, 16 Feb 2021 12:15:19 +0300</lastBuildDate>
+		<pubDate>Tue, 16 Feb 2021 12:35:34 +0300</pubDate>
+		<lastBuildDate>Tue, 16 Feb 2021 12:35:34 +0300</lastBuildDate>
 		<docs>https://3dnews.ru/news/rss</docs>
 		<generator>3DNews</generator>
 		<managingEditor>nivnikov@3dnews.ru (Денис Нивников)</managingEditor>
@@ -15,6 +15,16 @@
 		<url>https://3dnews.ru/assets/images/logo.png</url>
 		</image>
 		<atom:link href="https://3dnews.ru/news/rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>В прошлом году было отгружено 333 млн твердотельных накопителей</title>
+			<link>https://3dnews.ru/1032715</link>
+			<guid>https://3dnews.ru/1032715/#602b806eb4182ebd43245cef</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/16/1032715/trendfocus_01.jpg" length="129707" type="image/jpeg" />
+			<description><![CDATA[
+								Ушедший 2020 год для отрасли стал переломным в том смысле, что впервые в истории количество отгруженных твердотельных накопителей (SSD) превысило количество классических жёстких дисков (HDD). В натуральном выражении первые прибавили за год на 20,8&nbsp;%, в ёмкостном выражении &mdash; на 50,4&nbsp;%. Всего было отгружено 333 млн SSD, их валовая ёмкость достигла 207,39 эксабайт. Соответствующая статистика была опубликована Trendfocus. В четвёртом квартале прошлого года объёмы продаж твердотельных накопителей выросли в последовательном сравнении на 6&nbsp;% до 87 млн штук, в ёмкостном выражении &mdash; на 1&nbsp;% до 55 эксабайт. Валовая ёмкость всех отгруженных в четвёртом квартале твердотельных накопителей достигла 207 эксабайт.			]]></description>
+			<pubDate>Tue, 16 Feb 2021 12:34:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - модули ОЗУ, карты памяти, флеш-накопители, кардридеры</category>
+		</item>
 		<item>
 			<title>Потеря 97 % аудитории: в Cyberpunk 2077 в Steam играет меньше людей, чем в The Witcher 3: Wild Hunt</title>
 			<link>https://3dnews.ru/1032719</link>
@@ -994,16 +1004,6 @@
 								Американское подразделение компании Mercedes-Benz USA отозвало 1,29 млн автомобилей из-за сбоя в программном обеспечении eCall. Оно приводило к тому, что в аварийно-спасательные службы могли сообщаться неверные данные о местоположении автомобиля после аварии. Artur Widak / NurPhoto / Getty Images			]]></description>
 			<pubDate>Sun, 14 Feb 2021 11:23:00 +0300</pubDate>
 			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
-		</item>
-		<item>
-			<title>Видео распаковки спортивного дрона DJI Flash FPV и характеристики: 1080/120p, угол обзора 150° и прочее</title>
-			<link>https://3dnews.ru/1032601</link>
-			<guid>https://3dnews.ru/1032601/#6028ceeab4182e2707245cce</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/14/1032601/00.jpg" length="226152" type="image/jpeg" />
-			<description><![CDATA[
-								Запуск первого спортивного дрона DJI Flash FPV приближаются, и в Сеть просачиваются всё новые утечки, в том числе характеристики из руководства пользователя и даже видео распаковки. Дрон будет иметь 1/2,3-дюймовый CMOS-датчик с разрешением 12 Мп, способный снимать видео 4K при 60 кадрах/с или 1080p при 120 кадрах/с. Камера имеет поле зрения 150&deg; и диафрагму f/2,86. Она способна фокусироваться на объектах на расстоянии от 0,6 м, имеет диапазон ISO от 100 до 3200 и электронный затвор (от 1/8000 до 1/60 с).			]]></description>
-			<pubDate>Sun, 14 Feb 2021 11:10:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - Дроны и коптеры</category>
 		</item>
 	</channel>
 </rss>

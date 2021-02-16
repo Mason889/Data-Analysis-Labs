@@ -7,7 +7,7 @@
     <language>ru</language>
     <managingEditor>editor@habr.com</managingEditor>
     <generator>habr.com</generator>
-    <pubDate>Tue, 16 Feb 2021 09:17:45 GMT</pubDate>
+    <pubDate>Tue, 16 Feb 2021 09:37:12 GMT</pubDate>
     
       <image>
         <link>https://habr.com/ru/</link>
@@ -16,6 +16,60 @@
       </image>
 
               <item>
+      <title><![CDATA[Лайфхак: как спарсить гигабайт double-ов в секунду]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542640/</guid>
+      <link>https://habr.com/ru/post/542640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542640</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/vc/ki/as/vckiasdbxysxni8bknycwy3spgg.png"><br>
+<br>
+Как в коде на C++ прочитать значение double из строки?<br>
+<br>
+<pre><code class="cpp">std::stringstream in(mystring);
+while(in &gt;&gt; x) {
+   sum += x;
+}</code></pre><br>
+На Intel Skylake с компилятором GCC 8.3, такой код парсит 50 МБ/с. Жёсткие диски запросто обеспечивают последовательное чтение со скоростью в несколько ГБ/с, так что вне всякого сомнения, нас ограничивает не скорость чтения с диска, а именно скорость парсинга. Как его ускорить?<br>
+<br>
+Первое, что напрашивается – отказаться от удобств, предоставляемых потоками в C++, и вызывать strtod(3) напрямую:<br>
+<br>
+<pre><code class="cpp">do {
+    number = strtod(s, &amp;end);
+    if(end == s) break;
+    sum += number;
+    s = end; 
+} while (s &lt; theend);</code></pre><br>
+Скорость вырастает до 90 МБ/с; профайлинг показывает, что при чтении из потока выполняется ~1600 инструкций на каждое читаемое число, при использовании strtod – ~1100 инструкций на число. Стандартные библиотеки Си и C++ можно оправдать требованиями универсальности и переносимости; но если ограничиться парсингом только double и только на x64, то можно написать намного более эффективный код: хватит 280 инструкций на число.<br> <a href="https://habr.com/ru/post/542640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542640#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 09:30:57 GMT</pubDate>
+      <dc:creator>ruvds</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[C++]]></category><category><![CDATA[Лайфхаки для гиков]]></category>
+      <category><![CDATA[c++]]></category><category><![CDATA[библиотека]]></category><category><![CDATA[парсер]]></category><category><![CDATA[парсеры]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как подружить высший менеджмент организации с кибербезопасностью]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542644/</guid>
+      <link>https://habr.com/ru/post/542644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542644</link>
+      <description><![CDATA[<p><em>Цифровизация бизнеса приводит к тому, что руководители компаний заявляют: «кибербезопасность — это вопрос совета директоров» — и включают связанные с этим вопросы в повестку заседаний. Кажется, что руководитель направления информационной безопасности (CISO) может вздохнуть с облегчением и старательно исполнять указания генерального директора и совета, но всё не так просто. О системных проблемах, связанных с интеграцией безопасности в бизнес-процессы, рассказываем под катом. </em></p> <a href="https://habr.com/ru/post/542644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542644#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 09:30:07 GMT</pubDate>
+      <dc:creator>Trend_Micro</dc:creator>
+      <category><![CDATA[Блог компании Trend Micro]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Исследования и прогнозы в IT]]></category>
+      <category><![CDATA[Trend Micro]]></category><category><![CDATA[кибербезопасность]]></category><category><![CDATA[высший менеджмент]]></category><category><![CDATA[киберугрозы]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
       <title><![CDATA[Как проходит собеседование Junior фронтенд-разработчика]]></title>
       <guid isPermaLink="true">https://habr.com/ru/post/542444/</guid>
       <link>https://habr.com/ru/post/542444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542444</link>
@@ -373,42 +427,6 @@
       <category><![CDATA[Блог компании Флант]]></category><category><![CDATA[Системное администрирование]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
       <category>Kubernetes</category><category>VPA</category><category>автомасштабирование</category>
     </item>
-
-
-
-      <item>
-      <title><![CDATA[Что выбрать: глобальные переменные или useThis?]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/541884/</guid>
-      <link>https://habr.com/ru/post/541884/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541884</link>
-      <description><![CDATA[<p>Привет, Хабр!</p><p>Как вы знаете при переходе с компонентов классов на функциональные, у нас отняли такую полезную вещь как this, которая указывает на текущий экземпляр компонента. И конечно у нас возник вопрос: “а где же тогда хранить timeoutId?”. И я видел как люди по разному выкручивались из этой проблемы (<a href="https://youtu.be/AMf1tEeQfqY" rel="noopener noreferrer nofollow"><u>Данная статья, является расшифровкой видео</u></a>)</p> <a href="https://habr.com/ru/post/541884/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541884#habracut">Read more</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 05:30:01 GMT</pubDate>
-      <dc:creator>Sin9k</dc:creator>
-      <category><![CDATA[JavaScript]]></category><category><![CDATA[ReactJS]]></category>
-      <category><![CDATA[javascript]]></category><category><![CDATA[react]]></category><category><![CDATA[react hooks]]></category><category><![CDATA[hook]]></category><category><![CDATA[memoization]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Как не оконфузиться при выборе автоматического выключателя]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542572/</guid>
-      <link>https://habr.com/ru/post/542572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542572</link>
-      <description><![CDATA[<p>Краткая заметка по поводу выбора автоматических выключателей. Искренне надеюсь, что читатель не узнает для себя ничего нового. </p> <a href="https://habr.com/ru/post/542572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542572#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Mon, 15 Feb 2021 20:37:46 GMT</pubDate>
-      <dc:creator>spiritus_sancti</dc:creator>
-      <category><![CDATA[Научно-популярное]]></category>
-      <category><![CDATA[электротехника]]></category><category><![CDATA[ликбез]]></category>
-    </item>
-
-
-
-
 
 
 

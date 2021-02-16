@@ -7,10 +7,10 @@ final = ET.parse(f'{path}/lab01/final.xml')                              # final
 finalroot = final.getroot()
 finalinks = [item for item in finalroot[0].findall('item')]              # list of links
 
-for (_, _, filenames) in os.walk("rss"):
+for (_, _, filenames) in os.walk(f'{path}/lab01/rss'):
     for filename in filenames:
         try:
-            rss=ET.parse("rss/"+filename);
+            rss=ET.parse(f'{path}/lab01/rss/'+filename)
         except ParseError:
             print(f'ParseError in file {filename}: {ParseError}\n')
             continue
