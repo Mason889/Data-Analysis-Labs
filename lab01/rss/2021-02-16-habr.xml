@@ -7,7 +7,7 @@
     <language>ru</language>
     <managingEditor>editor@habr.com</managingEditor>
     <generator>habr.com</generator>
-    <pubDate>Tue, 16 Feb 2021 09:37:12 GMT</pubDate>
+    <pubDate>Tue, 16 Feb 2021 09:46:13 GMT</pubDate>
     
       <image>
         <link>https://habr.com/ru/</link>
@@ -16,6 +16,24 @@
       </image>
 
               <item>
+      <title><![CDATA[Пресейл в мобильном телекоме]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542658/</guid>
+      <link>https://habr.com/ru/post/542658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542658</link>
+      <description><![CDATA[<p>В этой статье не будет срывов покровов, разглашений NDA и т.п. Здесь будет лишь много букв, а также суждения, вынесенные по результатам субъективной оценки. А еще в этой статье не будет упомянута ни одна компания. Надеюсь, что такая абстракция сделает повествование более объективным.</p> <a href="https://habr.com/ru/post/542658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542658#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 09:44:26 GMT</pubDate>
+      <dc:creator>JetHabr</dc:creator>
+      <category><![CDATA[Блог компании Инфосистемы Джет]]></category><category><![CDATA[Сетевые технологии]]></category><category><![CDATA[Сотовая связь]]></category>
+      <category><![CDATA[телеком]]></category><category><![CDATA[операторы связи]]></category><category><![CDATA[5g]]></category><category><![CDATA[пресейл]]></category><category><![CDATA[аналитика]]></category><category><![CDATA[закупки]]></category><category><![CDATA[модернизация сети]]></category><category><![CDATA[системный интегратор]]></category><category><![CDATA[вендор]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
       <title><![CDATA[Лайфхак: как спарсить гигабайт double-ов в секунду]]></title>
       <guid isPermaLink="true">https://habr.com/ru/post/542640/</guid>
       <link>https://habr.com/ru/post/542640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542640</link>
@@ -409,24 +427,6 @@ while(in &gt;&gt; x) {
 
 
 
-
-
-
-  
-
-
-
-    <item>
-      <title><![CDATA[[Перевод] Вертикальное автомасштабирование pod'ов в Kubernetes: полное руководство]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/541642/</guid>
-      <link>https://habr.com/ru/post/541642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541642</link>
-      <description><![CDATA[<p><strong><em>Прим перев.</em></strong><em>: месяц назад Povilas Versockas, CNCF Ambassador и software engineer из Литвы, написал очень подробную статью о том, как работает и как использовать VPA в Kubernetes. Рады поделиться её переводом для русскоязычной аудитории!</em></p><p>Это полное руководство по вертикальному автомасштабированию pod'ов (Vertical Pod Autoscaling, VPA) в Kubernetes. Из него можно узнать, что такое вертикальное автомасштабирование pod'ов, зачем оно нужно и как работает, как устроена модель ресурсных требований Kubernetes, когда использовать VPA и какие существуют ограничения.</p> <a href="https://habr.com/ru/post/541642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541642#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 06:10:27 GMT</pubDate>
-      <dc:creator>bg502</dc:creator>
-      <category><![CDATA[Блог компании Флант]]></category><category><![CDATA[Системное администрирование]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
-      <category>Kubernetes</category><category>VPA</category><category>автомасштабирование</category>
-    </item>
 
 
 

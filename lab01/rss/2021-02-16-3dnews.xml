@@ -5,8 +5,8 @@
 		<link>https://3dnews.ru/</link>
 		<description>3DNews - все новости сайта</description>
 		<language>ru</language>
-		<pubDate>Tue, 16 Feb 2021 12:35:34 +0300</pubDate>
-		<lastBuildDate>Tue, 16 Feb 2021 12:35:34 +0300</lastBuildDate>
+		<pubDate>Tue, 16 Feb 2021 12:45:38 +0300</pubDate>
+		<lastBuildDate>Tue, 16 Feb 2021 12:45:38 +0300</lastBuildDate>
 		<docs>https://3dnews.ru/news/rss</docs>
 		<generator>3DNews</generator>
 		<managingEditor>nivnikov@3dnews.ru (Денис Нивников)</managingEditor>
@@ -15,6 +15,16 @@
 		<url>https://3dnews.ru/assets/images/logo.png</url>
 		</image>
 		<atom:link href="https://3dnews.ru/news/rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Apple пообещала бесплатный ремонт Apple Watch, если они перестали заряжаться</title>
+			<link>https://3dnews.ru/1032720</link>
+			<guid>https://3dnews.ru/1032720/#602b8565b4182e5f41245cf4</guid>
+			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/16/1032720/1.jpg" length="238061" type="image/jpeg" />
+			<description><![CDATA[
+								Компания Apple разрешила всем владельцам Apple Watch бесплатно отремонтировать часы в случае их зависания в режиме энергосбережения (Power Reserve). Об этом пишет Gizmochina. Компания стремится исправить проблему, которая появилась после выпуска новой версии watchOS. Cult of Mac			]]></description>
+			<pubDate>Tue, 16 Feb 2021 12:40:00 +0300</pubDate>
+			<category>Технологии и рынок IT. Новости - носимая электроника</category>
+		</item>
 		<item>
 			<title>В прошлом году было отгружено 333 млн твердотельных накопителей</title>
 			<link>https://3dnews.ru/1032715</link>
@@ -994,16 +1004,6 @@
 								&laquo;Роскосмос&raquo; сообщил, что после завершения общей сборки и доставки ракеты-носителя &laquo;Союз-2.1а&raquo; с кораблём &laquo;Прогресс МС-16&raquo; на борту, Центр управления полётами (ЦУП) завершил плановые работы по подготовке к выведению на орбиту &laquo;грузовика&raquo; и последующей стыковке к российскому сегменту МКС. В настоящее время старт запланирован на 15 февраля 2021 года в 7:45 по московскому времени. Отделение &laquo;грузовика&raquo; от третьей ступени ракеты-носителя &laquo;Союз-2.1а&raquo; состоится менее чем через 9 минут, а стыковка со станцией запланирована на 17 февраля в 9:20 по московскому времени, по двухсуточной (34-витковой) схеме. Сближение корабля со станцией и причаливание к стыковочному узлу модуля &laquo;Пирс&raquo; пройдут в автоматическом режиме под контролем специалистов ЦУП и российских членов экипажа станции, космонавтов Сергея Рыжикова и Сергея Кудь-Сверчкова.			]]></description>
 			<pubDate>Sun, 14 Feb 2021 12:20:00 +0300</pubDate>
 			<category>Технологии и рынок IT. Новости - космос</category>
-		</item>
-		<item>
-			<title>Mercedes-Benz отозвала 1,29 млн машин в США из-за ошибки определения места в случае аварии</title>
-			<link>https://3dnews.ru/1032602</link>
-			<guid>https://3dnews.ru/1032602/#6028d7e7b4182ef206245cd0</guid>
-			<enclosure url="https://3dnews.ru/assets/external/illustrations/2021/02/14/1032602/00.jpg" length="282107" type="image/jpeg" />
-			<description><![CDATA[
-								Американское подразделение компании Mercedes-Benz USA отозвало 1,29 млн автомобилей из-за сбоя в программном обеспечении eCall. Оно приводило к тому, что в аварийно-спасательные службы могли сообщаться неверные данные о местоположении автомобиля после аварии. Artur Widak / NurPhoto / Getty Images			]]></description>
-			<pubDate>Sun, 14 Feb 2021 11:23:00 +0300</pubDate>
-			<category>Технологии и рынок IT. Новости - автомобили, мотоциклы, транспортные средства</category>
 		</item>
 	</channel>
 </rss>
