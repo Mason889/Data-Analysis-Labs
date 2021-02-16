@@ -5,8 +5,8 @@
 <link>https://www.itweek.ru</link>
 <description>Издание itWeek (до 2018 года — PC Week) на портале и на страницах бумажного номера информирует читателей об актуальных информационных и коммуникационных технологиях, продуктах и решениях и опыте развития цифровой экономики и цифровой трансформации предприятий и организаций всех масштабов и отраслей. Издание рассказывает о важнейших событиях отечественного и мирового рынка ИКТ и анализирует тенденции развития ИКТ-индустрии.</description>
 <language>ru</language>
-<pubDate>Tue, 16 Feb 2021 00:39:46 +0300</pubDate>
-<lastBuildDate>Tue, 16 Feb 2021 00:39:46 +0300</lastBuildDate>
+<pubDate>Tue, 16 Feb 2021 12:13:37 +0300</pubDate>
+<lastBuildDate>Tue, 16 Feb 2021 12:13:37 +0300</lastBuildDate>
 <docs>https://www.itweek.ru/rss</docs>
 <generator>itWeek</generator>
 <ttl>30</ttl>
@@ -17,10 +17,45 @@
 </image>
 <atom:link href="https://www.itweek.ru/rss/" rel="self" type="application/rss+xml" />
 <item>
+	<title>“Росводоканал” готов делиться опытом цифровизации</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216805</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216805</guid>
+	<description>Об этом директор по информационным технологиям ГК «Росводоканал» Сергей Путин сообщил во время состоявшейся в феврале очередной онлайновой встречи членов ассоциации РУССОФТ «Цифровые Лидеры». Общая численность сотрудников ГК «Росводоканал» ...</description>
+	<pubDate>Tue, 16 Feb 2021 11:30:28 +0300</pubDate>
+</item>
+<item>
+	<title>Comindware: монетизация изменений и трансформация бизнеса в 2020-2021 гг.</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216803</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216803</guid>
+	<description>Компания Comindware, резидент Фонда «Сколково», сообщила о доступности для скачивания русской локализации ключевых пунктов отчёта PEX Network — глобального сообщества BPM-профессионалов и руководителей — о том как пандемия COVID-19 повлияла на место ...</description>
+	<pubDate>Tue, 16 Feb 2021 11:06:30 +0300</pubDate>
+</item>
+<item>
+	<title>BellSoft предлагает импортозамещающую Java-платформу</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216802</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216802</guid>
+	<description>Переход госкомпаний на отечественное ПО в 2020 г. ускорился. Как сообщил исполнительный директор АРПП «Отечественный софт» Ренат Лашин, плановые затраты госкомпаний на использование отечественного ПО в 2018-2021 гг. составляют около 80 млрд. руб ...</description>
+	<pubDate>Tue, 16 Feb 2021 10:59:54 +0300</pubDate>
+</item>
+<item>
+	<title>Как технологии обработки естественного языка повлияют на предприятия</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216800</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216800</guid>
+	<description>В&amp;nbsp;последние годы технология обработки естественного языка (natural language processing, NLP) совершила качественный скачок в&amp;nbsp;плане точности, скорости и&amp;nbsp;методологии. Сегодня это одна из&amp;nbsp;наиболее быстроразвивающихся областей ...</description>
+	<pubDate>Tue, 16 Feb 2021 10:43:56 +0300</pubDate>
+</item>
+<item>
+	<title>Сказки о безопасности: Как купец ключи хранил</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216799</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216799</guid>
+	<description>Беда случилась у&amp;nbsp;купца, воруют у&amp;nbsp;него. Уж&amp;nbsp;замки импортные у&amp;nbsp;гномов заказывать начал, все равно воруют. Решил он&amp;nbsp;пожаловаться королю Эрику Справедливому и&amp;nbsp;пришел к&amp;nbsp;нему на&amp;nbsp;суд. Да&amp;nbsp;пригласил туда старейшину ...</description>
+	<pubDate>Tue, 16 Feb 2021 09:58:12 +0300</pubDate>
+</item>
+<item>
 	<title>FortiOS 7.0 включает в себя более чем 300 новых функций</title>
 	<link>https://www.itweek.ru/themes/detail.php?ID=216798</link>
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216798</guid>
-	<description>Компания Fortinet анонсировала выход седьмой версии FortiOS, флагманской операционной системы Fortinet. Включив в&amp;nbsp;себя более чем 300 новых функций, FortiOS 7.0 расширит возможности Fortinet Security Fabric и&amp;nbsp;Fortinet по&amp;nbsp;обеспечению ...</description>
+	<description>Компания Fortinet анонсировала выход седьмой версии FortiOS, флагманской операционной системы Fortinet. Включив в себя более чем 300 новых функций, FortiOS 7.0 расширит возможности Fortinet Security Fabric и Fortinet по обеспечению целостной безопасности ...</description>
 	<pubDate>Mon, 15 Feb 2021 22:53:54 +0300</pubDate>
 </item>
 <item>
@@ -190,41 +225,6 @@
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216765</guid>
 	<description>Компания X-Com завершила проект масштабирования парка клиентского оборудования Научно-технического центра «Охрана» (НТЦ «Охрана») — структурного подразделения госкорпорации «Роскосмос». Десятки новых рабочих мест сотрудников предприятия оснащены ...</description>
 	<pubDate>Thu, 11 Feb 2021 17:40:18 +0300</pubDate>
-</item>
-<item>
-	<title>Вышла обновлённая серия ИБП IPPON Back Basic S Euro</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216759</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216759</guid>
-	<description>Производитель источников бесперебойного питания IPPON представил обновлённую серию ИБП IPPON Back Basic S Euro — компактные источники бесперебойного питания линейно-интерактивного типа, предназначенные для использования как в офисе, так и дома для защиты ...</description>
-	<pubDate>Thu, 11 Feb 2021 12:01:14 +0300</pubDate>
-</item>
-<item>
-	<title>Вышла новая версия Appius-PLM УПСД 2021</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216758</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216758</guid>
-	<description>Компания APPIUS сообщила о выходе новой версии системы для автоматизации технического документооборота Appius-PLM 2021: добавлены новые современные механизмы, интеграционные модули работают в обновленном режиме, работа с письмами стала удобнее, повышена ...</description>
-	<pubDate>Thu, 11 Feb 2021 11:58:17 +0300</pubDate>
-</item>
-<item>
-	<title>Fujitsu представила обновленную линейку ноутбуков LIFEBOOK</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216757</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216757</guid>
-	<description>Компания Fujitsu представила обновленную линейку ноутбуков LIFEBOOK в качестве дополнения к семейству продуктов для бизнеса Ultra-Mobile Premium. Обновленные ноутбуки Fujitsu LIFEBOOK серии U7 оснащаются новейшими процессорами Intel Core 11-го поколения ...</description>
-	<pubDate>Thu, 11 Feb 2021 11:55:28 +0300</pubDate>
-</item>
-<item>
-	<title>Минцифры предложило оптимизировать порядок включения продуктов в реестр ПО</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216756</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216756</guid>
-	<description>Министерство цифрового развития, связи и массовых коммуникаций Российской Федерации подготовило проект Постановления, предусматривающий оптимизацию порядка включения продуктов в реестр российского ПО. Изменения позволят вдвое сократить срок рассмотрения ...</description>
-	<pubDate>Thu, 11 Feb 2021 11:51:54 +0300</pubDate>
-</item>
-<item>
-	<title>Zebra Technologies: пандемия выявила нехватку технологических решений в образовательных учреждениях</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216755</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216755</guid>
-	<description>Энди Макбейн (Andy McBain), директор по управлению продукцией в сфере мобильных компьютеров и приложений в компании Zebra Technologies, поделился экспертным мнением на тему применения технологий радиочастотной идентификации (RFID) для обеспечения ...</description>
-	<pubDate>Thu, 11 Feb 2021 11:50:43 +0300</pubDate>
 </item>
 </channel>
 </rss>

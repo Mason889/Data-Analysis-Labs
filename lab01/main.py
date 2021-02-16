@@ -1,14 +1,11 @@
 import os
 import xml.etree.ElementTree as ET
 
-path = "/Users/install/Data-Analysis"                                  # your path
+path = "/Users/install/Data-Analysis"                                    # your path
 
 final = ET.parse(f'{path}/lab01/final.xml')                              # final file with all rss data
 finalroot = final.getroot()
-finalinks = []                                                          # list of links
-for item in finalroot[0].findall('item'):
-    finalinks.append(item.find('link').text)
-
+finalinks = [item for item in finalroot[0].findall('item')]              # list of links
 
 for (_, _, filenames) in os.walk("rss"):
     for filename in filenames:

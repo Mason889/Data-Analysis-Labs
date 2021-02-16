@@ -12,7 +12,7 @@
 	<atom:link href="https://www.helpnetsecurity.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.helpnetsecurity.com</link>
 	<description>Daily information security news with a focus on enterprise security.</description>
-	<lastBuildDate>Mon, 15 Feb 2021 09:26:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Feb 2021 07:34:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,233 +28,233 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Have we put too much emphasis on protecting the network?</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/protecting-the-network/</link>
+		<title>Top 10 most used MITRE ATT&#038;CK tactics and techniques</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/most-used-mitre-attck-tactics/</link>
+		
+		<dc:creator><![CDATA[Zeljka Zorz]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 07:30:43 +0000</pubDate>
+				<category><![CDATA[Don't miss]]></category>
+		<category><![CDATA[Featured news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[MITRE]]></category>
+		<category><![CDATA[security operations]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<category><![CDATA[tips]]></category>
+		<category><![CDATA[vFeed]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169934</guid>
+
+					<description><![CDATA[<p>Which tactics and techniques are cyber attackers favoring? vFeed has compiled a list of the Top 10 Most Used MITRE ATT&#038;CK Tactics and Techniques to help security teams focus their defenses more effectively. MITRE ATT&#038;CK helps understand attacker behavior The MITRE ATT&#038;CK framework is a well known and widely used knowledge base of cyber adversary tactics, techniques and procedures, and is based on observations on real-world attacks. The framework applies to the following technologies: Enterprise &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/most-used-mitre-attck-tactics/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/most-used-mitre-attck-tactics/">Top 10 most used MITRE ATT&#038;CK tactics and techniques</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Enable secure remote workspaces without trashing your entire IT infrastructure</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/vdi-daas/</link>
 		
 		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 06:30:22 +0000</pubDate>
+		<pubDate>Tue, 16 Feb 2021 06:00:06 +0000</pubDate>
+				<category><![CDATA[Don't miss]]></category>
+		<category><![CDATA[Expert analysis]]></category>
+		<category><![CDATA[Expert corner]]></category>
+		<category><![CDATA[Hot stuff]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CIO]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[endpoint security]]></category>
+		<category><![CDATA[Hysolate]]></category>
+		<category><![CDATA[remote working]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=168877</guid>
+
+					<description><![CDATA[<p>Roughly 12 months ago, when the world shifted seemingly overnight to work-from-home, few companies were well-positioned to seamlessly scale their remote work solutions. Legacy remote desktop solutions, like Virtual Desktop Infrastructure (VDI) and Desktop-as-a-Service (DaaS) were pressed into wider service than they had been custom fit to provide. Security policies governing remote working and secure access were either scaled up or slapped together in an ad hoc fashion to keep operations going, but they often &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/vdi-daas/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/vdi-daas/">Enable secure remote workspaces without trashing your entire IT infrastructure</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why contextual machine learning is the fix that zero-trust email security needs</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/contextual-machine-learning/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 05:30:54 +0000</pubDate>
 				<category><![CDATA[Don't miss]]></category>
 		<category><![CDATA[Expert analysis]]></category>
 		<category><![CDATA[Expert corner]]></category>
 		<category><![CDATA[Hot stuff]]></category>
 		<category><![CDATA[News]]></category>
 		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[IT assets]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[monitoring]]></category>
-		<category><![CDATA[network]]></category>
-		<category><![CDATA[perimeter]]></category>
-		<category><![CDATA[strategy]]></category>
-		<category><![CDATA[trends]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=168874</guid>
-
-					<description><![CDATA[<p>Recently, much of the cybersecurity commentary and blogs have talked about new approaches for protecting the network, especially beyond the perimeter. For the past few years, the industry has focused on conditional access (i.e., identity as the new perimeter) and even zero trust. We talk about the perimeter becoming porous and traditional “network” defenses — like firewalls — as no longer being effective. The trend is for our discussions to take on a verbal shorthand &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/protecting-the-network/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/protecting-the-network/">Have we put too much emphasis on protecting the network?</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How do I select a DRM solution for my business?</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/select-drm-solution/</link>
-		
-		<dc:creator><![CDATA[Helga Labus]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 06:00:26 +0000</pubDate>
-				<category><![CDATA[Don't miss]]></category>
-		<category><![CDATA[Features]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Spotlight]]></category>
-		<category><![CDATA[access control]]></category>
-		<category><![CDATA[castLabs]]></category>
-		<category><![CDATA[Continux]]></category>
-		<category><![CDATA[EZDRM]]></category>
-		<category><![CDATA[FileOpen Systems]]></category>
-		<category><![CDATA[Locklizard]]></category>
-		<category><![CDATA[select]]></category>
-		<category><![CDATA[tips]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=168919</guid>
-
-					<description><![CDATA[<p>Digital rights management (DRM) is a method to protect copyrights for digital media. In a world where technology allows us to share and copy various media and files, it is important to prevent or restrict unauthorized modification or distribution. This is especially important now that the remote workforce has taken over, and documents, media and data are shared remotely. To select a suitable DRM solution for your business, you need to think about a variety &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/select-drm-solution/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/select-drm-solution/">How do I select a DRM solution for my business?</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nearly 40% of consumers lost money to phone scams in 2020</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/lost-money-to-phone-scams/</link>
-		
-		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 05:30:32 +0000</pubDate>
-				<category><![CDATA[Featured news]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[communication]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[regulation]]></category>
-		<category><![CDATA[scams]]></category>
-		<category><![CDATA[spam]]></category>
-		<category><![CDATA[survey]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169616</guid>
-
-					<description><![CDATA[<p>Businesses and consumers are relying on the voice call more than ever during the pandemic with voice traffic up 184% in 2020 compared to 2019, according to a Hiya report. Phone scams However, this increase in voice calls is being exploited by scammers who are stealing money from unsuspecting victims and damaging trust in one of the most relied-upon communication channels. According to the responses of more than 2,000 consumers and 300 business professionals, 75% &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/lost-money-to-phone-scams/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/lost-money-to-phone-scams/">Nearly 40% of consumers lost money to phone scams in 2020</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Quantum computing and encryption: Key to achieving resilience, technological sovereignty and leadership</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/quantum-computing-and-encryption/</link>
-		
-		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 05:00:42 +0000</pubDate>
-				<category><![CDATA[Featured news]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[app]]></category>
-		<category><![CDATA[authentication]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[ENISA]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[quantum computing]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169406</guid>
-
-					<description><![CDATA[<p>Cryptography is a vital part of cybersecurity. Security properties like confidentiality, integrity, authentication, non-repudiation rely on strong cryptographic mechanisms, especially in an always connected, always online world. Quantum computing and encryption In addition, cryptography’s applications open up new opportunities and markets: digital signatures or online transactions would not be possible without it. Given its importance, cryptography (encryption) remains a heavily researched field, and even finds its way into the headlines, referred to in high level &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/quantum-computing-and-encryption/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/quantum-computing-and-encryption/">Quantum computing and encryption: Key to achieving resilience, technological sovereignty and leadership</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rampant password reuse puts companies and customers at risk</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/password-reuse-risk/</link>
-		
-		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 04:30:06 +0000</pubDate>
-				<category><![CDATA[Featured news]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[authentication]]></category>
-		<category><![CDATA[credentials]]></category>
-		<category><![CDATA[cybercriminals]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[dark web]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[enterprise]]></category>
-		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[Egress]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[human error]]></category>
+		<category><![CDATA[hybrid IT]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[remote working]]></category>
+		<category><![CDATA[zero trust]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169575</guid>
+
+					<description><![CDATA[<p>Email data breaches are on the rise. Our recent research found that 93% of organizations have experienced an email data breach in the last 12 months, at an average rate of one incident every 12 working hours. The vast majority of these incidents are caused by simple human error: misdirected emails, sending of wrong attachments, and incorrect use of the BCC function are the top three ways data breaches occur. The risk is increasing, too. &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/contextual-machine-learning/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/contextual-machine-learning/">Why contextual machine learning is the fix that zero-trust email security needs</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The cybersecurity issues of seismic monitoring devices</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/seismic-monitoring-devices-cybersecurity/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 05:00:32 +0000</pubDate>
+				<category><![CDATA[Featured news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[authentication]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data collection]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Internet of Things]]></category>
+		<category><![CDATA[security assessment]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169656</guid>
+
+					<description><![CDATA[<p>Seismic monitoring devices linked to the internet are vulnerable to cyberattacks that could disrupt data collection and processing, say researchers who have probed the devices for weak points. Common security issues such as non-encrypted data, insecure protocols, and poor user authentication mechanisms are among the biggest culprits that leave seismological networks open to security breaches, Michael Samios of the National Observatory of Athens and colleagues write in a new study. Most seismologists unaware of the &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/seismic-monitoring-devices-cybersecurity/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/seismic-monitoring-devices-cybersecurity/">The cybersecurity issues of seismic monitoring devices</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Consumers not protecting data online despite having privacy concerns</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/protecting-data-online/</link>
+		
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 04:30:54 +0000</pubDate>
+				<category><![CDATA[Featured news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[consumer]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[online behavior]]></category>
 		<category><![CDATA[passwords]]></category>
 		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[SpyCloud]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169390</guid>
+		<category><![CDATA[security awareness]]></category>
+		<category><![CDATA[Startpage]]></category>
+		<category><![CDATA[survey]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169318</guid>
 
-					<description><![CDATA[<p>25.9 million business account credentials and over 543 million breach assets tied to employees in the Fortune 1000 are readily available on the criminal underground, SpyCloud reveals. Password reuse risk &#8220;Year after year, studies show that the use of weak and stolen credentials is the most common hacking tactic for cybercriminals, yet 76 percent of employees at the world&#8217;s largest companies are still reusing passwords across personal and professional accounts,&#8221; said Chip Witt, VP of &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/password-reuse-risk/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/password-reuse-risk/">Rampant password reuse puts companies and customers at risk</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+					<description><![CDATA[<p>Startpage announced results of its survey exploring the attitudes of Americans towards protecting their own privacy online. The results found a gap between the high levels of online privacy awareness and concern respondents report, and the low levels of action they take to combat increasingly egregious assaults on their privacy. Awareness, concern and discomfort with online privacy malpractices run high Internet usage in 2020 rose sharply compared to pre-pandemic levels. More online activity also drove &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/protecting-data-online/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/protecting-data-online/">Consumers not protecting data online despite having privacy concerns</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CFOs are becoming catalysts of digital strategy</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/cfos-digital-strategy/</link>
+		<title>Cybersecurity spending for critical infrastructure to reach $105.99 billion in 2021</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/cybersecurity-spending-critical-infrastructure/</link>
 		
 		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 04:00:39 +0000</pubDate>
+		<pubDate>Tue, 16 Feb 2021 04:00:40 +0000</pubDate>
 				<category><![CDATA[Featured news]]></category>
 		<category><![CDATA[News]]></category>
-		<category><![CDATA[Accenture]]></category>
-		<category><![CDATA[cyber risk]]></category>
+		<category><![CDATA[ABI Research]]></category>
+		<category><![CDATA[CIO]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
 		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[digital transformation]]></category>
-		<category><![CDATA[finance]]></category>
+		<category><![CDATA[predictions]]></category>
+		<category><![CDATA[remote working]]></category>
+		<category><![CDATA[security ROI]]></category>
+		<category><![CDATA[security spending]]></category>
 		<category><![CDATA[strategy]]></category>
-		<category><![CDATA[survey]]></category>
 		<category><![CDATA[trends]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169371</guid>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169416</guid>
 
-					<description><![CDATA[<p>As the pandemic continues to challenge organizations worldwide, the role of chief financial officers (CFOs) has moved further beyond “economic guardians” of the enterprise to “architects of business value” and “catalysts of digital strategies,” with 72% of CFOs reporting that they have the final say on the appropriate technology direction of the enterprise, according to a research from Accenture. CFOs are expanding and transforming their roles The report finds that in addition to the pandemic, &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/cfos-digital-strategy/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/cfos-digital-strategy/">CFOs are becoming catalysts of digital strategy</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+					<description><![CDATA[<p>Cybersecurity spending in critical infrastructure has been little impacted by the COVID-19 pandemic, save for some reshuffling on where that spend is most needed. The effect has been mostly in increased demand for secure remote connectivity. Most of the cybersecurity spending announced by governments has not changed significantly however, with most maintaining similar funding planned in previous years, with an average Year-on-Year growth rate between 5% and 10%. According to a report by ABI Research, &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/cybersecurity-spending-critical-infrastructure/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/cybersecurity-spending-critical-infrastructure/">Cybersecurity spending for critical infrastructure to reach $105.99 billion in 2021</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>SpyCloud adds a password filter feature to Active Directory Guardian</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/spycloud-active-directory-guardian/</link>
+		<title>Cyber Underground General Intelligence Requirements Handbook</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/cyber-underground-general-intelligence-requirements-handbook/</link>
 		
-		<dc:creator><![CDATA[Industry News]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 02:00:11 +0000</pubDate>
-				<category><![CDATA[Industry news]]></category>
-		<category><![CDATA[SpyCloud]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169802</guid>
+		<dc:creator><![CDATA[Help Net Security]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 03:30:03 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169913</guid>
 
-					<description><![CDATA[<p>SpyCloud announced it has added a new password filter feature to SpyCloud Active Directory Guardian. With dozens or hundreds of online logins to manage, people often take shortcuts to keep track of their passwords. They use memorable words or names, easy-to-type strings such as &#8220;12345678&#8221;, or even passwords they&#8217;ve used before. Because these habits are so commonly followed, they also are easy for bad actors to figure out. As a result, for the last four &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/spycloud-active-directory-guardian/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/spycloud-active-directory-guardian/">SpyCloud adds a password filter feature to Active Directory Guardian</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+					<description><![CDATA[<p>The Cyber Underground General Intelligence Requirements Handbook (CU-GIRH) is a baseline tool to assist in organizing, prioritizing, producing and measuring production of cyber underground intelligence. Central to this handbook are General Intelligence Requirements (GIRs) — a compilation of frequently asked questions applicable to the cyber underground (i.e., illicit forums, instant messaging channels, marketplaces, products, services and adversaries). Each GIR includes a definition and the essential elements of information (EEIs) needed to answer the basic questions &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/cyber-underground-general-intelligence-requirements-handbook/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/cyber-underground-general-intelligence-requirements-handbook/">Cyber Underground General Intelligence Requirements Handbook</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Denim Group and NowSecure create a clear path toward scalable vulnerability remediation</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/denim-group-nowsecure/</link>
+		<title>Belkin unveils Secure KVMs portfolio designed for NIAP protection Profile 4.0 compliance</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/belkin-secure-kvms/</link>
 		
 		<dc:creator><![CDATA[Industry News]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 01:30:10 +0000</pubDate>
+		<pubDate>Tue, 16 Feb 2021 02:30:22 +0000</pubDate>
 				<category><![CDATA[Industry news]]></category>
-		<category><![CDATA[Denim Group]]></category>
-		<category><![CDATA[NowSecure]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169777</guid>
+		<category><![CDATA[Belkin]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169989</guid>
 
-					<description><![CDATA[<p>Denim Group announced its integration with NowSecure. This unique integration will enable customers to feed the results of their mobile application security testing from the NowSecure platform into ThreadFix—a platform powered by Denim Group to support security processes to keep pace with modern development cycles. Together, Denim Group and NowSecure are now providing enterprises and organizations with a scalable, unified workflow for ingesting security test data from any tool in the pipeline, prioritizing vulnerabilities and &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/denim-group-nowsecure/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/denim-group-nowsecure/">Denim Group and NowSecure create a clear path toward scalable vulnerability remediation</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+					<description><![CDATA[<p>Belkin announces an entirely new portfolio of Secure KVMs designed for National Information Assurance Partnership (NIAP) Protection Profile 4.0 compliance. Belkin’s portfolio consists of the Universal 2nd Generation Secure KVMs as well as the Modular Series of Secure KVMs. Combined, the two platforms give government agencies an unprecedented level of flexibility in designing their environments and equipping employees with the exact value and functionality needed for the mission. Secure KVMs maintain air-gap network isolation while &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/belkin-secure-kvms/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/belkin-secure-kvms/">Belkin unveils Secure KVMs portfolio designed for NIAP protection Profile 4.0 compliance</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Bitglass reveals additional technical integrations between its platform and SD-WAN providers</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/bitglass-sd-wan-providers-2/</link>
+		<title>Actiphy launches next-gen ActiveVisor, a management solution for ActiveImage Protector backup clients</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/actiphy-activevisor/</link>
 		
 		<dc:creator><![CDATA[Industry News]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 01:00:39 +0000</pubDate>
+		<pubDate>Tue, 16 Feb 2021 02:00:13 +0000</pubDate>
 				<category><![CDATA[Industry news]]></category>
-		<category><![CDATA[Arista Networks]]></category>
-		<category><![CDATA[Aviatrix]]></category>
-		<category><![CDATA[Bitglass]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[Sophos]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169731</guid>
+		<category><![CDATA[Actiphy]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169917</guid>
 
-					<description><![CDATA[<p>Bitglass announced additional technical integrations between its platform and SD-WAN providers. Specifically, organizations can now use Bitglass to secure traffic coming from branch locations via Citrix, Arista Networks, Aviatrix, and Sophos. This comes on the heels of a prior announcement which detailed integrations with Aruba, 128 Technology, Fortinet, and Silver Peak. As a unique secure access service edge (SASE) platform that is architected in and delivered through the public cloud, Bitglass is able to utilize &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/bitglass-sd-wan-providers-2/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/bitglass-sd-wan-providers-2/">Bitglass reveals additional technical integrations between its platform and SD-WAN providers</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+					<description><![CDATA[<p>Actiphy announces the release of the next generation of ActiveVisor, a centralized management solution for ActiveImage Protector backup clients, with many new features including enhanced integration with Microsoft’s Active Directory Services. The Covid-19 pandemic has changed how we work, and that’s changing how we must protect our computing resources. With so many people working from home and from remote locations it is essential that any reliable backup and recovery solution provide the ability to protect &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/actiphy-activevisor/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/actiphy-activevisor/">Actiphy launches next-gen ActiveVisor, a management solution for ActiveImage Protector backup clients</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Cloud partners with Sigfox to scale its cloud infrastructure and extend its IoT services portfolio</title>
-		<link>https://www.helpnetsecurity.com/2021/02/15/google-cloud-sigfox/</link>
+		<title>Tyto Athene and Tellabson launch ACUITY LAN to bring network readiness in a two person carry form-factor</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/tyto-athene-tellabson/</link>
 		
 		<dc:creator><![CDATA[Industry News]]></dc:creator>
-		<pubDate>Mon, 15 Feb 2021 00:30:54 +0000</pubDate>
+		<pubDate>Tue, 16 Feb 2021 01:30:28 +0000</pubDate>
 				<category><![CDATA[Industry news]]></category>
-		<category><![CDATA[Google Cloud]]></category>
-		<category><![CDATA[Sigfox]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169695</guid>
+		<category><![CDATA[Tellabson]]></category>
+		<category><![CDATA[Tyto Athene]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169902</guid>
 
-					<description><![CDATA[<p>Google Cloud and Sigfox announced that the leading global 0G network and IoT platform services provider, has partnered with Google Cloud, to scale its cloud infrastructure and extend its IoT services portfolio. This partnership will enable Sigfox to rapidly accelerate its “Massive IoT” agenda – processing billions of messages each month from objects connected to the internet using data stored in the cloud. Sigfox is the world’s largest dedicated LPWAN service provider for connecting simple, &#8230; <a href="https://www.helpnetsecurity.com/2021/02/15/google-cloud-sigfox/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/15/google-cloud-sigfox/">Google Cloud partners with Sigfox to scale its cloud infrastructure and extend its IoT services portfolio</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+					<description><![CDATA[<p>Tyto Athene announce partnership with Tellabson on the launch of the ACUITY LAN Solution. Tyto Athene’s ACUITY Micro Data Center was developed to deliver mission-critical edge processing, analytics and unified communications in a turn-key solution that only weighs 30 pounds. With the addition of Tellabs Optical LAN (OLAN), the ACUITY LAN Solution is able to scale its tactical transportable network in minutes. The ACUITY LAN is an edge solution that leverages Tellabs OLAN to ensure &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/tyto-athene-tellabson/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/tyto-athene-tellabson/">Tyto Athene and Tellabson launch ACUITY LAN to bring network readiness in a two person carry form-factor</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
 ]]></description>
 		
 		
