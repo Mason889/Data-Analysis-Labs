@@ -5,7 +5,7 @@ path = "/Users/install/Data-Analysis"                                    # your 
 
 final = ET.parse(f'{path}/lab01/final.xml')                              # final file with all rss data
 finalroot = final.getroot()
-finalinks = [item for item in finalroot[0].findall('item')]              # list of links
+finalinks = [item.find('link').text for item in finalroot[0].findall('item')]              # list of links
 
 for (_, _, filenames) in os.walk(f'{path}/lab01/rss'):
     for filename in filenames:
