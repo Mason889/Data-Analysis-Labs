@@ -7,7 +7,7 @@
     <language>ru</language>
     <managingEditor>editor@habr.com</managingEditor>
     <generator>habr.com</generator>
-    <pubDate>Tue, 16 Feb 2021 10:00:03 GMT</pubDate>
+    <pubDate>Tue, 16 Feb 2021 14:21:09 GMT</pubDate>
     
       <image>
         <link>https://habr.com/ru/</link>
@@ -16,6 +16,391 @@
       </image>
 
               <item>
+      <title><![CDATA[о провиженинге тестовых баз]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542366/</guid>
+      <link>https://habr.com/ru/post/542366/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542366</link>
+      <description><![CDATA[<p>Тема, насколько старая, настолько же и актуальная. Поделюсь, своим концептом на архитектуру провиженинга тестовых субд, с целью получения комментариев по существу - может кто ходил уже этой дорогой. И знает более короткий/удобный пусть.</p><p>В общем, в одной <s>далёкой-далёкой галактике</s> динамичной-быстро развивающейся компании есть множество (десятки) продовых oracle-баз. Продовые бд - названы одинаково. Специфика обстановки, с этой стороны: SE, типовой размер баз 3-3.5Тб, самая большая бд - 7+Тб. Легаси-монолит, всё работает - на хранимках (да, буээ и фу, но разговор не об этом). </p><p>Из этого бытия следует что, поскольку легаси/монолит: существует армия разработчиков, поделённая на группы. И т.к. с одной стороны: группы - работают с разными проектами, в разных стадиях работы, групп много, а с другой стороны - всё запихано в одних и тех же базах - группы работают практически с одними и теми же объектами бд и с разными целями этой работы, включая разрушающие тесты.</p><p>Т.е., такое бытие определяет потребности каждой группы в выделенной, для группы тестовой бд. А то и: прям для каждого разработчика.</p><p>Иначе говоря: тестовых баз надо:</p> <a href="https://habr.com/ru/post/542366/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542366#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 13:46:54 GMT</pubDate>
+      <dc:creator>MaksimIvanov</dc:creator>
+      <category><![CDATA[Oracle]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[Серверное администрирование]]></category><category><![CDATA[Администрирование баз данных]]></category>
+      <category><![CDATA[oracle database]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Шейдеры, Three.js и киберпанк. Как мы делали лендинг в неоново-античной стилистике]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542698/</guid>
+      <link>https://habr.com/ru/post/542698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542698</link>
+      <description><![CDATA[<p>Привет, это блог «Технократии». Обычно мы занимаемся цифровой трансформацией бизнеса, но сегодня у нас для вас история, как при помощи библиотеки three.js и шейдеров мы сделали <a href="https://career.technokratos.com/" rel="noopener noreferrer nofollow">лендинг </a>для нашей промо-кампании. Главный рассказчик — разработчик Артем Ибатуллин.</p> <a href="https://habr.com/ru/post/542698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542698#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 13:24:41 GMT</pubDate>
+      <dc:creator>technokratiya</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Работа с 3D-графикой]]></category><category><![CDATA[Canvas]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[frontend]]></category><category><![CDATA[three.js]]></category><category><![CDATA[gpu]]></category><category><![CDATA[лендинг]]></category><category><![CDATA[3d]]></category><category><![CDATA[web]]></category><category><![CDATA[canvas]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+    <item>
+        <title><![CDATA[Минимализм в быту: как стать домашним админом и не свести семью с ума]]></title>
+        <guid isPermaLink="true">https://habr.com/ru/post/539958/</guid>
+        <link>https://habr.com/ru/post/539958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=539958</link>
+        <description><![CDATA[Сижу, никого не трогаю, и тут на мой телефон начинают сыпаться уведомления от Steam с кодами авторизации. Пришло писем 18, не меньше: оказалось, кто-то пытался угнать аккаунт сына.
+
+Хорошо, что я привязал его к собственной почте (карта-то моя!), потому что пароли у сына везде одинаковые. Очевидно, он вбил свой пароль на каком-то непонятном сайте и пароль тут же угнали. Позже я задумался, сколько же ещё дырок можно найти в безопасности моих домашних девайсов. Осознав масштабы проблемы, загорелся идеей защитить своих домашних и зоопарк их устройств — а попутно узнал кое-что интересное, чем и хочу с вами поделиться. Подробнее — под катом. <a href="https://habr.com/ru/post/539958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=539958#habracut">Читать дальше</a>]]></description>
+        
+        <pubDate>Tue, 16 Feb 2021 13:23:57 GMT</pubDate>
+        <dc:creator>megapost</dc:creator>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Антивирусная защита]]></category><category><![CDATA[Лайфхаки для гиков]]></category>
+        <category><![CDATA[информационная безопасность]]></category><category><![CDATA[хранение паролей]]></category><category><![CDATA[дети и мобильный телефон]]></category><category><![CDATA[интернет и дети]]></category>
+    </item>
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Видеодомофон, основанный на Raspberry Pi]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542374/</guid>
+      <link>https://habr.com/ru/post/542374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542374</link>
+      <description><![CDATA[Автор статьи, перевод которой мы сегодня публикуем, хочет поделиться рассказом о создании видеодомофона, основанного на Raspberry Pi 3. Устройство работает в паре с iOS-телефоном, отправляя на него Push-уведомления когда кто-то нажимает на кнопку домофона. Система позволяет увидеть гостя и поговорить с ним.<br>
+<br>
+<a href="https://habr.com/ru/company/ruvds/blog/542374/"><div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/4dd/707/c58/4dd707c584e60ebf16e3cdc24b8c40db.jpg"></div></a><br> <a href="https://habr.com/ru/post/542374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542374#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 13:17:25 GMT</pubDate>
+      <dc:creator>ru_vds</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Разработка на Raspberry Pi]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[DIY или Сделай сам]]></category>
+      <category>Raspberry Pi</category><category>разработка</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Индивидуальный противохимический пакет (ИПП)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542600/</guid>
+      <link>https://habr.com/ru/post/542600/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542600</link>
+      <description><![CDATA[<i>Несмотря на то, что я уже предвкушаю народное недовольство и N минусов с мотивацией «не тематика хабра», все же в очередной раз рискну здесь опубликовать статью, которая НЕ про софт, НЕ про железо, НЕ про компании, и даже химию задевает только по касательной… </i><br>
+<br>
+Суть проблемы в том, что мне внезапно понадобилось составить ретроспективу используемых отечественных (ну ок, и зарубежных тоже) индивидуальных противохимических пакетов (ИПП) используемых для удаления с кожи/одежды отравляющих веществ. ИПП — вещь довольно утилитарная, не удивительно что кто-то аббревиатуру ИПП может спутать с индивидуальным перевязочным пакетом, а кто-то даже с инфекциями передающимися половым путем. Добавляет масла в огонь и две особенности, которые я заметил во время поиска предметной информации. Первая особенность — это закрытость и запутанность (преднамеренная?) информации, даже про ИПП времен Второй мировой войны. Многие статьи в журналах — с отсутствующими страницами. Более чем уверен, что никакой защите секретности это не поможет, зато серьезно усложнит задачу людям, которые изучают упомянутую тему. Вторая особенность — недостаточный профессионализм военных химиков, или преподавателей-военных химиков, которые пишут свои учебные пособия зачастую с вопиющими ошибками. <br>
+<br>
+Поэтому основная цель статьи — информационная, на правах «хабр-энциклопедиста» :) В следующий раз, когда какой-то условный курсант военных химик (который «покой мой бережет»), будет искать для своего реферата информацию, пусть он лучше наткнется на мою статью (<s>и попадет в <a href="https://t.me/joinchat/AAAAAFFhzPKyiLO85pRxUA" rel="nofollow noopener noreferrer">LAB-66</a></s>), а не на опус анонимного копирайтера. К курсанту можно смело добавить реконструктора и военного историка…<br>
+В общем, под катом — ретроспектива средств индивидуальной дегазации и бонусом попытка масштабировать накопленные знания на вполне бытовую область — дезактивацию «перцового слезоточивого газа» ;)<br>
+<br>
+<a href="https://habr.com/ru/post/542600/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/x-/hz/z3/x-hzz3rsazzwzfshdg0ldvvtsk4.jpeg"></div></a><br> <a href="https://habr.com/ru/post/542600/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542600#habracut">Продегазировать ИПП!</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 13:16:52 GMT</pubDate>
+      <dc:creator>steanlab</dc:creator>
+      <category><![CDATA[Здоровье]]></category><category><![CDATA[Химия]]></category>
+      <category><![CDATA[Индивидуальный]]></category><category><![CDATA[противохимический пакет]]></category><category><![CDATA[реконструкция]]></category><category><![CDATA[военная история]]></category><category><![CDATA[ИПП-1]]></category><category><![CDATA[ТД-2]]></category><category><![CDATA[ИПП-2]]></category><category><![CDATA[ТД-5]]></category><category><![CDATA[ИПП-3]]></category><category><![CDATA[ИПП-5]]></category><category><![CDATA[ИПП-6]]></category><category><![CDATA[ИПП-51]]></category><category><![CDATA[ИПП-8]]></category><category><![CDATA[ИПП-8А]]></category><category><![CDATA[ИПП-8 состав жидкости]]></category><category><![CDATA[ИПП 8 10 11]]></category><category><![CDATA[ИПП-9]]></category><category><![CDATA[ИПП-10]]></category><category><![CDATA[Ланглик]]></category><category><![CDATA[ИПП-11]]></category><category><![CDATA[дегазирующий раствор]]></category><category><![CDATA[РХБЗ]]></category><category><![CDATA[ИПП-11 состав]]></category><category><![CDATA[ИПП-8 утилизация]]></category><category><![CDATA[ДПС-1]]></category><category><![CDATA[ДПП-М]]></category><category><![CDATA[ДПП-М1]]></category><category><![CDATA[M258]]></category><category><![CDATA[зарин]]></category><category><![CDATA[зоман]]></category><category><![CDATA[иприт]]></category><category><![CDATA[VX]]></category><category><![CDATA[RSDL]]></category><category><![CDATA[Reactive Skin]]></category><category><![CDATA[Decontamination Lotion Kit]]></category><category><![CDATA[Rohm and Haas]]></category><category><![CDATA[М-258А1]]></category><category><![CDATA[М-291]]></category><category><![CDATA[М-295]]></category><category><![CDATA[Ambergard XE-555]]></category><category><![CDATA[MK1]]></category><category><![CDATA[флоридин]]></category><category><![CDATA[фуллерова земля]]></category><category><![CDATA[сукновальная глина]]></category><category><![CDATA[аттапульгит]]></category><category><![CDATA[Fuller Earth]]></category><category><![CDATA[Multani Mitti]]></category><category><![CDATA[отбеливающая глина]]></category><category><![CDATA[capsaicin]]></category><category><![CDATA[гражданская оборона]]></category><category><![CDATA[перцовый экстракт]]></category><category><![CDATA[Oleoresin Сapsicum]]></category><category><![CDATA[Олеорезин капсикум]]></category><category><![CDATA[слезоточивый газ]]></category><category><![CDATA[слезоточивый газ защита]]></category><category><![CDATA[слезоточивый газ молоко]]></category><category><![CDATA[слезоточивый газ как избавится]]></category><category><![CDATA[слезоточивый газ первая помощь]]></category><category><![CDATA[магнезия]]></category><category><![CDATA[спортивная магнезия]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Почему стоит обратить внимание на подход low-code/no-code]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542696/</guid>
+      <link>https://habr.com/ru/post/542696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542696</link>
+      <description><![CDATA[<p>Все мы в последнее время довольно много слышим о платформах low-code/no-code. Платформы без кода обещают сделать разработку программного обеспечения столь же простой, как использование Word’а или PowerPoint’а, чтобы обычный бизнес-пользователь смог продвигать проекты без дополнительных затрат (денег и времени) на команду инженеров. В отличие от платформ без кода, low-code по-прежнему требует определенных навыков программирования, однако обещает ускорить разработку программного обеспечения, позволяя разработчикам работать с предварительно написанными компонентами кода.</p> <a href="https://habr.com/ru/post/542696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542696#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 12:58:17 GMT</pubDate>
+      <dc:creator>imaximova</dc:creator>
+      <category><![CDATA[Блог компании Voximplant]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Управление разработкой]]></category><category><![CDATA[Будущее здесь]]></category>
+      <category>low-code</category><category>no-code</category><category>low code</category><category>enterprise</category><category>разработка</category><category>проектирование систем</category><category>mdd model-driven architecture</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Человеку надо мало: чтоб искал и находил]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542522/</guid>
+      <link>https://habr.com/ru/post/542522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542522</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/hw/ke/xz/hwkexzcvpxp7uniphuh_upcuiwu.jpeg"/><br/>
+<br/>
+Нет, это не очередная реклама одного известного автомобильного бренда. И даже не попытка литературного разбора стихотворения Рождественского. Речь пойдет о картах. Мы в Mail.ru Group продолжаем развивать собственные геосервисы как для нужд внутренних проектов, так и для запуска новых продуктов для широкого круга пользователей. Ядром географических данных для наших сервисов выступают данные картографического проекта OpenStreetMap. Но мы не хотим быть просто ленивыми потребителями, которые, получая обратную связь от пользователей, хранят исправления в локальной базе данных и не делятся ими с общественностью. Мы активно вносим свой вклад в проект OpenStreetMap. В цикле статей мы решили рассказать, как корректно вносить правки о наиболее насущных для нас объектах географической действительности.<br/>
+ <a href="https://habr.com/ru/post/542522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542522#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 12:56:44 GMT</pubDate>
+      <dc:creator>ZinaidaZ</dc:creator>
+      <category><![CDATA[Блог компании Mail.ru Group]]></category><category><![CDATA[OpenStreetMap]]></category><category><![CDATA[Геоинформационные сервисы]]></category>
+      <category><![CDATA[osm]]></category><category><![CDATA[openstreetmap]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Опыт разработки первой мобильной игры на Unity или как полностью перевернуть свою жизнь]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542692/</guid>
+      <link>https://habr.com/ru/post/542692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542692</link>
+      <description><![CDATA[<p>Заурядная история заурядного новичка в геймдеве.</p> <a href="https://habr.com/ru/post/542692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542692#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 12:32:25 GMT</pubDate>
+      <dc:creator>blazz</dc:creator>
+      <category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка игр]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[Unity]]></category><category><![CDATA[Прототипирование]]></category>
+      <category><![CDATA[unity3d]]></category><category><![CDATA[геймдев]]></category><category><![CDATA[android]]></category><category><![CDATA[games]]></category><category><![CDATA[hfphf]]></category><category><![CDATA[разработка игр под android]]></category><category><![CDATA[разработка игр]]></category><category><![CDATA[google play]]></category><category><![CDATA[google ads]]></category><category><![CDATA[admob]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Data science vs COVID-19_Часть 1]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542686/</guid>
+      <link>https://habr.com/ru/post/542686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542686</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/rr/xv/nh/rrxvnhdadlwoovllb45psemitds.png"><br>
+<br>
+<blockquote>Уже очевидно, что в 2021-м COVID-19 все еще будет оставаться, как говорится, на повестке дня. А значит, закономерно возникают вопросы: есть ли у нас инструменты для прогнозирования роста и снижения заболеваемости, можем ли мы предсказать развитие событий через неделю, месяц или даже год? Давайте разбираться. </blockquote><br>
+Дано: колоссальные возможности data science, три талантливых специалиста.<br>
+Найти: способы предсказать распространение COVID-19 на неделю вперёд. <br>
+<br>
+Решение: <br>
+<br>
+На самом деле решений будет три, следите за публикациями. А сегодня мы обсудим одно из них, с Владиславом Крамаренко. Он нашёл модель, способную построить самый точный прогноз* для всего мира на неделю вперёд. <a href="https://habr.com/ru/post/542686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542686#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 12:22:14 GMT</pubDate>
+      <dc:creator>ivankomarov</dc:creator>
+      <category><![CDATA[Блог компании Центр Финансовых Технологий (ЦФТ)]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category><![CDATA[COVID-19]]></category><category><![CDATA[коронавирус]]></category><category><![CDATA[data science]]></category><category><![CDATA[ods.ai]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Business Intelligence на очень больших данных: опыт Yota]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/541266/</guid>
+      <link>https://habr.com/ru/post/541266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541266</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/ot/lw/s2/otlws2ej8gj3nsmqvjmfelu3hes.jpeg"><br>
+<br>
+Всем привет! Меня зовут Михаил Волошин, и я, как руководитель отдела инструментов бизнес-анализа, хочу верхнеуровнево рассказать о плюсах и особенностях BI-решения Yota. <br>
+<br>
+200 Tb Vertica, 400 Tb Hadoop, кластер Tableau, специфичная организация процесса разработки и многое другое ждут вас под катом.<br>
+<br>
+<i>Внимательный читатель спросит: «А причем тут Vertica и слоник Hadoop, технологии же разные?» Да ни при чем — это лишь КДПВ. </i><br> <a href="https://habr.com/ru/post/541266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541266#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 12:13:31 GMT</pubDate>
+      <dc:creator>McKinseyBA</dc:creator>
+      <category><![CDATA[Блог компании Yota]]></category><category><![CDATA[SQL]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Визуализация данных]]></category><category><![CDATA[Хранилища данных]]></category>
+      <category><![CDATA[bi]]></category><category><![CDATA[etl]]></category><category><![CDATA[dwh]]></category><category><![CDATA[vertica]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как тебе такое, Джефф Безос?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542682/</guid>
+      <link>https://habr.com/ru/post/542682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542682</link>
+      <description><![CDATA[<p><em>Большинство читателей Хабра наверняка слышали о магазине Amazon Go, где нет&nbsp;кассиров, а покупателей обслуживает автоматика. О китайских магазинах Bingo Box, быть может, вы тоже слышали и даже делали там покупки. Теперь магазин с полностью автоматизированной системой покупок заработал и в России. Технологическую начинку разработала команда инноваций&nbsp;X5 Retail Group&nbsp;(#x5lab),&nbsp;а&nbsp;&nbsp;запуск&nbsp;реализовали специалисты торговой сети «Пятёрочки», которые открывают новые магазины каждый день по всей России.&nbsp;Но этот случай оказался особенным – открытие первой полностью автоматизированной «Пятёрочки» происходит не каждый день.</em></p><p><em>Кстати, статья ни разу не маркетинговая - обеим командам было просто интересно рассказать о том, почему, когда и как проект был реализован. Под катом - история "Пятерочки #налету" от А до Я, включая фотографии и информацию, которых нет в общем доступе. Ну и поговорим о планах, как же без этого.&nbsp;</em></p> <a href="https://habr.com/ru/post/542682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542682#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 11:40:16 GMT</pubDate>
+      <dc:creator>X5RetailGroup</dc:creator>
+      <category><![CDATA[Блог компании X5 Retail Group]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Будущее здесь]]></category><category><![CDATA[IT-компании]]></category><category><![CDATA[Инженерные системы]]></category>
+      <category><![CDATA[ритейл]]></category><category><![CDATA[бесконтактные платежи]]></category><category><![CDATA[большие данные]]></category><category><![CDATA[машинное обучение]]></category><category><![CDATA[будущее наступило]]></category><category><![CDATA[инженерные системы]]></category><category><![CDATA[автоматизация]]></category><category><![CDATA[амазон]]></category><category><![CDATA[it-инфраструктура]]></category><category><![CDATA[it-компании]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Мультитенантность: как вырастить из одного приложения линейку независимых продуктов]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542678/</guid>
+      <link>https://habr.com/ru/post/542678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542678</link>
+      <description><![CDATA[<p>Мультитенантность (мультиарендность) – особенность архитектуры ПО, которая позволяет приложению обслуживать несколько независимых арендаторов. Пользователи не мешают друг другу, их данные хранятся независимо и безопасно, а разработчики могут быстро запускать версии продукта с разными техническими возможностями.</p><p>В первую очередь мультитенантность нужна SaaS-продуктам, но не только. Этот подход применяется везде, где компания параллельно поддерживает несколько версий одного продукта. </p> <a href="https://habr.com/ru/post/542678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542678#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 11:28:18 GMT</pubDate>
+      <dc:creator>true_engineering</dc:creator>
+      <category><![CDATA[Терминология IT]]></category><category><![CDATA[Управление продуктом]]></category><category><![CDATA[Облачные сервисы]]></category>
+      <category><![CDATA[мультитенантность]]></category><category><![CDATA[разработка]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Мои сожаления за всю мою карьеру программиста]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542648/</guid>
+      <link>https://habr.com/ru/post/542648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542648</link>
+      <description><![CDATA[<font color="#000000"><h3>Прежде всего о том, что я называл себя «инженером-программистом»</h3></font><br>
+<a href="https://habr.com/ru/company/skillfactory/blog/542648/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/rt/_n/hv/rt_nhvi-ipiv-iprvgnbh9g17rc.jpeg"></div></a><br>
+<i>От переводчика:</i><br>
+<i>We who cut mere stones must always be envisioning cathedrals.</i> Мы, рубящие простые камни, всегда должны видеть за ними соборы. Все мы помним эту замечательную цитату из книги Эндрю Ханта «Программист-прагматик. Путь от подмастерья к мастеру». Пост ниже, на мой взгляд, именно об этом. Его автор – технический лидер и архитектор Дейв Таублер, рассказывает о том, как развивалась его карьера и взгляды на свою работу в целом: от разочарования в маркетинге до того, к чему пришёл сегодня, спустя много лет. Автор делится некоторыми рекомендациями, которые считает полезными для развития карьеры, и, как и написано в заголовке, рассказывает о том, что изменил бы в своей собственной карьере, если бы только мог.<br> <a href="https://habr.com/ru/post/542648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542648#habracut">Приятного чтения!</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 11:24:38 GMT</pubDate>
+      <dc:creator>stranger777</dc:creator>
+      <category><![CDATA[Блог компании SkillFactory]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[Читальный зал]]></category><category><![CDATA[IT-компании]]></category>
+      <category>skillfactory</category><category>карьера программиста</category><category>карьера в it-индустрии</category><category>выгорание</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Расписание электричек — промежуточный отчёт перед пользователями (вами)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542674/</guid>
+      <link>https://habr.com/ru/post/542674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542674</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/8e/jz/rl/8ejzrlc2v-k0xqwn9y3m0zok1zk.jpeg"><br>
+<br>
+Привет! Нашим расписанием пользуется около 600 тысяч человек в день (плюс-минус, зависит от сезона), поэтому я бы просто хотел рассказать, что поменялось за прошлый год, и в очередной раз спросить, чего бы вам хотелось, что не так и чего, возможно, не хватает. <br>
+<br>
+Самым большим сюрпризом года оказалось то, что нашим расписанием пользуется очень много машинистов электричек. То есть да, у них есть телеграммы, собственное расписание и так далее, но наше они используют как человекочитаемый источник. Плюс у нас, похоже, очень удобный для них аппарат расчёта волны задержки в зависимости от известных опозданий других поездов, который заранее позволяет подсказать им, что произойдёт. <br>
+<br>
+И вот они попросили повысить точность расписания. С их точки зрения «повысить точность» — это указывать время отправления с точностью до полуминут. Более того, похожие запросы были и от пассажиров. Дискретность расписания на железной дороге — не минута, а полминуты, то есть время отправления может быть не 14:30, а 14:30:30 или, как принято указывать в служебных расписаниях для машинистов, 14:30,5. Отправление поезда на 30 секунд раньше является грубым нарушением, локомотивную бригаду могут лишить премии. Выстаивать лишние 30 секунд, на всякий случай — вариант, обычно это не считается нарушением. Но есть шанс превысить допустимый порог опоздания по следующим станциям и тоже «попасть» на премию. В 2020 увеличилось число аналогичных просьб от пользователей. Во-вторых, отсутствие полуминут усложняло работу наших операторов при внесении специфических изменений в расписании, а их число также увеличилось. Мы доработали бэкенд и сделали в 2021 году расписание с ними. <br>
+<br>
+Вопрос очистки визуала от номеров поездов и «лишних» секунд решился тоже просто: можно просто выключить это в настройках и вернуться к классическому виду расписания. <br> <a href="https://habr.com/ru/post/542674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542674#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 11:00:30 GMT</pubDate>
+      <dc:creator>matsulenko</dc:creator>
+      <category><![CDATA[Блог компании Туту.ру]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Транспорт]]></category>
+      <category><![CDATA[Транспорт]]></category><category><![CDATA[электрички]]></category><category><![CDATA[пригородный поезд]]></category><category><![CDATA[цппк]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[SQL-инъекции' union select null,null,null --]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542190/</guid>
+      <link>https://habr.com/ru/post/542190/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542190</link>
+      <description><![CDATA[<p>Согласно OWASP Top-10, SQL-инъекции считаются наиболее опасными уязвимостями. Успешная атака с их использованием может не только привести к компрометации данных, таких, как: пароли, данные кредитной карты или личная информация пользователя, но и, при определенных условиях, самого сервера. В этой статье мы рассмотрим предпосылки к появлению SQL-инъекций, ознакомимся с ее видами и составим список рекомендаций для защиты веб-приложений от них...</p> <a href="https://habr.com/ru/post/542190/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542190#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 10:37:21 GMT</pubDate>
+      <dc:creator>pentestit-team</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Тестирование веб-сервисов]]></category>
+      <category><![CDATA[sql]]></category><category><![CDATA[sqlmap]]></category><category><![CDATA[sql injection]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[О поиске утечек памяти в С++/Qt приложениях]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542656/</guid>
+      <link>https://habr.com/ru/post/542656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542656</link>
+      <description><![CDATA[<p>Каждый программист, работающий с языком С++, должен уметь находить утечки памяти. Язык С++ - сложный язык, делать ошибки легко, а находить их бывает муторно. Особенно это касается утечек памяти. Ситуация с отловом утечек памяти только усугубляется, если в коде С++ используется библиотека Qt.</p><p>Эта статья посвящена разным инструментам, которые можно с той или иной степенью успешности применять для отлова утечек памяти в С++/Qt приложениях (desktop). Инструменты будут рассмотрены в связке с IDE Visual Studio 2019. В статье будут рассмотрены не все возможные инструменты, а лишь наиболее популярные и эффективные.</p><p>Наша команда давно и пристально изучает подобные инструменты и использует их в своей работе. Объем кода, на котором есть возможность проверить подобные инструменты, составляет около 1.5 миллиона строк. Опираясь на большой практический опыт, мы расскажем о плюсах и минусах разных инструментов, расскажем, что они способны найти, а что не по зубам, расскажем о неочевидных нюансах и, главное, составим сводную сравнительную таблицу по реальному примеру. Мы постараемся максимально быстро и просто ввести в курс дела (показать быстрый старт), потому даже если ты, читатель, никогда не занимался поиском утечек памяти, эта статья поможет за пару часов разобраться и найти свою первую утечку. Поехали!</p> <a href="https://habr.com/ru/post/542656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542656#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 10:36:03 GMT</pubDate>
+      <dc:creator>kalirgum</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[C++]]></category><category><![CDATA[Qt]]></category><category><![CDATA[Visual Studio]]></category><category><![CDATA[DevOps]]></category>
+      <category><![CDATA[утечки памяти]]></category><category><![CDATA[С++]]></category><category><![CDATA[qt]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Налоговая проверка: 7 правил выживания]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542668/</guid>
+      <link>https://habr.com/ru/post/542668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542668</link>
+      <description><![CDATA[<p>Мы живем в удивительное время — каждый становится экспертом, прочитав пару статей из интернета. Есть, конечно, сферы жизни, в которых мы были экспертами всегда, еще задолго до появления всемирной сети. Например, футбол, хоккей, отношения и управление страной.</p><p>Но теперь мы дополнительно освоили и специальности, требующие специфических знаний. Например, медицина. Google в помощь — и вот мы поправляем врачей, сами ставим себе диагноз и назначаем лечение. И только когда совсем уже худо, когда петух непрерывно начинает клевать в то место, где спина теряет свое благородное название, мы бежим к врачу, которому приходится не только лечить запущенную болезнь, но и бороться с последствиями нашего интернет-лечения.</p><p>Подобная ситуация и с налогами. Интернет пестрит всевозможными советами, как и что делать во время налоговой проверки, очень часто прямо противоречащими друг другу.</p><p>Кто-то советует сразу включить видеокамеру и диктофон, кто-то предлагает выделить кабинет с чайником, СВЧ-печью и заполненным холодильником. Одни предлагают свести устное общение к минимуму, другие дают советы, как расположить к себе, в стиле «называйте чаще по имени», «делайте комплименты, но не льстите», «попросите совета на будущее». Одни советы слишком общие, другие излишне конкретизированные, а некоторые вообще опасны и могут привести к негативным и непредсказуемым последствиям.</p><p>Испытывая желание нести знания в массы и искренне переживая за налоговое здоровье наших сограждан, мы тщательно проанализировали имеющуюся информацию о проведении налоговых проверок, а также обобщили наш 10-летний опыт сопровождения налоговых проверок.</p><p><strong>Наша задача</strong>&nbsp;— определить конкретные правила поведения, алгоритм действий налогоплательщика, результатом выполнения которых будет минимизация возможных доначислений.</p><p>Обратите внимание — именно минимизация, так как доначисления, конечно, будут. «Нулевые» проверки — это нонсенс. Ведь от эффективности проверок зависят показатели инспекции и, соответственно, премирование сотрудников. Поэтому доначисления будут, но то, в каком объеме и, самое главное, будут ли у вас основания их оспорить в суде, во многом зависит от качества ваших действий во время налоговой проверки.</p> <a href="https://habr.com/ru/post/542668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542668#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 10:20:10 GMT</pubDate>
+      <dc:creator>guzel_valeeva</dc:creator>
+      <category><![CDATA[Управление персоналом]]></category><category><![CDATA[Финансы в IT]]></category>
+      <category><![CDATA[налоги]]></category><category><![CDATA[налогообложение]]></category><category><![CDATA[проверка]]></category><category><![CDATA[налоговая]]></category><category><![CDATA[налоговая отчетность]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[23 февраля, мужской день. Время умных носков уже наступило?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542660/</guid>
+      <link>https://habr.com/ru/post/542660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542660</link>
+      <description><![CDATA[<p>Мы шутили про носки на 23 февраля, когда это еще не было мейнстримом. Времена изменились. Носки за последние годы похорошели. Можно найти шикарную пару с принтом любимого мема, которой не стыдно будет на праздник обменяться с лучшим другом. Да что там, появились даже умные модели! Мне кажется, к такому мир еще не готов — и в поисках смарт-подарка стоит обратить внимание на другие гаджеты.</p> <a href="https://habr.com/ru/post/542660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542660#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 10:16:03 GMT</pubDate>
+      <dc:creator>Femole</dc:creator>
+      <category><![CDATA[Блог компании Madrobots]]></category><category><![CDATA[Гаджеты]]></category>
+      <category><![CDATA[праздник]]></category><category><![CDATA[гаджеты]]></category><category><![CDATA[маяки]]></category><category><![CDATA[подарки мужчинам]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Космические корабли людей уже бороздят просторы Солнечной системы. А что с межпланетным интернетом?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/542666/</guid>
+      <link>https://habr.com/ru/post/542666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542666</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/962/c10/d83/962c10d839aad26c6c6257b992488d13.jpg"><br>
+ <br>
+Обмен информацией между людьми и организациями, ими созданными — основополагающий критерий существования цивилизации. На Земле со связью дела обстоят хотя и не идеально, но все же неплохо. Тем более, что все больше частных компаний заявляют о планах по созданию глобальной интернет-сети. Дальше всех в этом, конечно, продвинулась компания Илона Маска. В ближайшие несколько лет, если проекты будут реализовываться с текущей скоростью, доступ к сети получит большая часть жителей Земли.<br>
+ <br>
+Но как быть с другими планетами? Не будем пока заглядывать сильно наперед, поговорим о Луне и Марсе. Связь там нужна будет, прямо как воздух. Причем каналы связи должны быть одновременно и широкими, и надежными — чтобы передавать большие объемы контента, плюс, что очень желательно — не подводить.<br> <a href="https://habr.com/ru/post/542666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542666#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 16 Feb 2021 10:01:14 GMT</pubDate>
+      <dc:creator>Zyxel_CIS</dc:creator>
+      <category><![CDATA[Блог компании ZYXEL в России]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[Стандарты связи]]></category><category><![CDATA[Космонавтика]]></category><category><![CDATA[Будущее здесь]]></category>
+      <category><![CDATA[космос]]></category><category><![CDATA[межпланетный интернет]]></category><category><![CDATA[связь]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
       <title><![CDATA[[sobjectizer] Можно ли написать один обработчик сразу для нескольких типов сообщений? И если нет, то как быть?]]></title>
       <guid isPermaLink="true">https://habr.com/ru/post/542404/</guid>
       <link>https://habr.com/ru/post/542404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542404</link>
@@ -25,403 +410,6 @@
       <dc:creator>eao197</dc:creator>
       <category><![CDATA[Open source]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[C++]]></category>
       <category><![CDATA[sobjectizer]]></category><category><![CDATA[c++]]></category><category><![CDATA[c++17]]></category><category><![CDATA[actor model]]></category><category><![CDATA[concurrency]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Новости Android разработки 15.02.2021]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542662/</guid>
-      <link>https://habr.com/ru/post/542662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542662</link>
-      <description><![CDATA[<p>Текстовая расшифровка новостного выпуска для Android разработчиков. Ссылка на видео внутри.</p> <a href="https://habr.com/ru/post/542662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542662#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 09:50:59 GMT</pubDate>
-      <dc:creator>kirich1409</dc:creator>
-      <category><![CDATA[Разработка под Android]]></category>
-      <category><![CDATA[android]]></category><category><![CDATA[jetpack]]></category><category><![CDATA[activity]]></category><category><![CDATA[jetbrains]]></category><category><![CDATA[fragment]]></category><category><![CDATA[androidx]]></category><category><![CDATA[lifecycle]]></category><category><![CDATA[архитектура]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Пресейл в мобильном телекоме]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542658/</guid>
-      <link>https://habr.com/ru/post/542658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542658</link>
-      <description><![CDATA[<p>В этой статье не будет срывов покровов, разглашений NDA и т.п. Здесь будет лишь много букв, а также суждения, вынесенные по результатам субъективной оценки. А еще в этой статье не будет упомянута ни одна компания. Надеюсь, что такая абстракция сделает повествование более объективным.</p> <a href="https://habr.com/ru/post/542658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542658#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 09:44:26 GMT</pubDate>
-      <dc:creator>JetHabr</dc:creator>
-      <category><![CDATA[Блог компании Инфосистемы Джет]]></category><category><![CDATA[Сетевые технологии]]></category><category><![CDATA[Сотовая связь]]></category>
-      <category><![CDATA[телеком]]></category><category><![CDATA[операторы связи]]></category><category><![CDATA[5g]]></category><category><![CDATA[пресейл]]></category><category><![CDATA[аналитика]]></category><category><![CDATA[закупки]]></category><category><![CDATA[модернизация сети]]></category><category><![CDATA[системный интегратор]]></category><category><![CDATA[вендор]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Лайфхак: как спарсить гигабайт double-ов в секунду]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542640/</guid>
-      <link>https://habr.com/ru/post/542640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542640</link>
-      <description><![CDATA[<img src="https://habrastorage.org/webt/vc/ki/as/vckiasdbxysxni8bknycwy3spgg.png"><br>
-<br>
-Как в коде на C++ прочитать значение double из строки?<br>
-<br>
-<pre><code class="cpp">std::stringstream in(mystring);
-while(in &gt;&gt; x) {
-   sum += x;
-}</code></pre><br>
-На Intel Skylake с компилятором GCC 8.3, такой код парсит 50 МБ/с. Жёсткие диски запросто обеспечивают последовательное чтение со скоростью в несколько ГБ/с, так что вне всякого сомнения, нас ограничивает не скорость чтения с диска, а именно скорость парсинга. Как его ускорить?<br>
-<br>
-Первое, что напрашивается – отказаться от удобств, предоставляемых потоками в C++, и вызывать strtod(3) напрямую:<br>
-<br>
-<pre><code class="cpp">do {
-    number = strtod(s, &amp;end);
-    if(end == s) break;
-    sum += number;
-    s = end; 
-} while (s &lt; theend);</code></pre><br>
-Скорость вырастает до 90 МБ/с; профайлинг показывает, что при чтении из потока выполняется ~1600 инструкций на каждое читаемое число, при использовании strtod – ~1100 инструкций на число. Стандартные библиотеки Си и C++ можно оправдать требованиями универсальности и переносимости; но если ограничиться парсингом только double и только на x64, то можно написать намного более эффективный код: хватит 280 инструкций на число.<br> <a href="https://habr.com/ru/post/542640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542640#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 09:30:57 GMT</pubDate>
-      <dc:creator>ruvds</dc:creator>
-      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[C++]]></category><category><![CDATA[Лайфхаки для гиков]]></category>
-      <category><![CDATA[c++]]></category><category><![CDATA[библиотека]]></category><category><![CDATA[парсер]]></category><category><![CDATA[парсеры]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Как подружить высший менеджмент организации с кибербезопасностью]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542644/</guid>
-      <link>https://habr.com/ru/post/542644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542644</link>
-      <description><![CDATA[<p><em>Цифровизация бизнеса приводит к тому, что руководители компаний заявляют: «кибербезопасность — это вопрос совета директоров» — и включают связанные с этим вопросы в повестку заседаний. Кажется, что руководитель направления информационной безопасности (CISO) может вздохнуть с облегчением и старательно исполнять указания генерального директора и совета, но всё не так просто. О системных проблемах, связанных с интеграцией безопасности в бизнес-процессы, рассказываем под катом. </em></p> <a href="https://habr.com/ru/post/542644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542644#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 09:30:07 GMT</pubDate>
-      <dc:creator>Trend_Micro</dc:creator>
-      <category><![CDATA[Блог компании Trend Micro]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Исследования и прогнозы в IT]]></category>
-      <category><![CDATA[Trend Micro]]></category><category><![CDATA[кибербезопасность]]></category><category><![CDATA[высший менеджмент]]></category><category><![CDATA[киберугрозы]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Как проходит собеседование Junior фронтенд-разработчика]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542444/</guid>
-      <link>https://habr.com/ru/post/542444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542444</link>
-      <description><![CDATA[Меня зовут Максим Чеченёв, я фронтенд-разработчик уже почти девять лет. Работаю в компании MessageBird в Амстердаме и наставником на курсе <a href="https://praktikum.yandex.ru/web/?utm_source=pr&amp;utm_medium=content&amp;utm_content=16_02_21&amp;utm_campaign=pr_content_web_habr" rel="nofollow noopener noreferrer">«Веб-разработчик»</a> в Яндекс.Практикуме. Ещё я веду канал в телеграме <a href="https://t.me/the_senior_dev" rel="nofollow noopener noreferrer">«Сеньор Разработчик»</a>.<br>
-<br>
-Прежде чем стать сеньором и начать собеседовать кандидатов, я прошёл через десятки собственных собеседований. В этой статье я расскажу, из чего обычно состоит собеседование Junior фронтенд-разработчика, и дам несколько советов по подготовке. <br>
-<a href="https://habr.com/ru/company/yandex_praktikum/blog/542444/"><img src="https://habrastorage.org/webt/hn/kp/to/hnkptozuci_48pgrdhxdn0jky4e.png"></a><br>
-<br>
-<h2>Из чего состоит собеседование</h2><br>
-Собеседование фронтенд-разработчика на начальных этапах мало чем отличается от любого другого. <br>
-<br>
-Обычно собеседование можно разбить на три части:<br>
-<br>
-<ul>
-<li>знакомство,</li>
-<li>технические вопросы и/или задание,</li>
-<li>ваши вопросы.</li>
-</ul><br> <a href="https://habr.com/ru/post/542444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542444#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 09:07:55 GMT</pubDate>
-      <dc:creator>chechenev</dc:creator>
-      <category><![CDATA[Блог компании Яндекс.Практикум]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
-      <category><![CDATA[яндекс.практикум]]></category><category><![CDATA[собеседование]]></category><category><![CDATA[учебный процесс в it]]></category><category><![CDATA[javascript]]></category><category><![CDATA[frontend]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[От WPF к Авалонии]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542532/</guid>
-      <link>https://habr.com/ru/post/542532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542532</link>
-      <description><![CDATA[<p>WPF — любимый сообществом фреймворк для десктопной разработки, однако в то время как дотнет и вся его экосистема уже давно кроссплатформенные, WPF работает только под Windows. Сообщество решило эту проблему и теперь у нас есть Авалония — фреймворк, во многом очень похожий на WPF, но работающий на разных платформах.&nbsp;</p><p>Под катом мы разберем отличия Авалонии от WPF. Что нужно знать людям, переходящим с WPF на Авалонию? В чем преимущества нового фреймворка, а в чем его недостатки по сравнению с WPF?</p> <a href="https://habr.com/ru/post/542532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542532#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 09:07:43 GMT</pubDate>
-      <dc:creator>Larymar</dc:creator>
-      <category><![CDATA[Блог компании Контур]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[.NET]]></category><category><![CDATA[Разработка под MacOS]]></category><category><![CDATA[Разработка под Windows]]></category>
-      <category><![CDATA[avalonia]]></category><category><![CDATA[wpf]]></category><category><![CDATA[desktop]]></category><category><![CDATA[cross-platform]]></category><category><![CDATA[avaloniaui]]></category><category><![CDATA[.net]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Корреляция между временными рядами: что может быть проще?]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542638/</guid>
-      <link>https://habr.com/ru/post/542638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542638</link>
-      <description><![CDATA[<p>Все чаще объектами статистического анализа становятся не массивы (таблицы) значений, а временные ряды. Такие ряды формируются при наблюдениях за природными процессами и явлениями, изучении социологических или макроэкономических показателей, при промышленном производстве и сбыте продукции. Главное, что отличает временной ряд от других типов данных – это то, что <em>номер</em> (время) наблюдения <em>имеет значение</em>. То есть, важен не только результат измерения, но и тот момент времени, когда оно выполнено. К сожалению, при применении статистических методов на этот нюанс часто не обращают внимания. Однако, именно эта "мелочь" приводит к очень серьезным и нетривиальным следствиям с точки зрения обработки таких сигналов. Самые обычные формулы, описанные во всех учебниках, внезапно отказываются работать. А попытки их применения "в лоб" иногда дают, мягко говоря, весьма неожиданные результаты. Например, статистическая связь между числом пиратов и глобальным потеплением оказывается не просто "значимой", а "<a href="https://natalyarukol.ru/2011/06/22/vliyanie-kolichestva-piratov-na-globalnoe-poteplenie/" rel="noopener noreferrer nofollow">практически достоверной</a>". Что удивительно, столкнувшись с такой ситуацией, даже достаточно грамотные исследователи не всегда понимают, где же тут "<a href="https://habr.com/ru/post/236503/" rel="noopener noreferrer nofollow">порылась собака</a>" . Данные вроде бы правильные, математика (как и <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%B5%D1%8F_%D0%A1%D1%83%D0%BB%D0%BB%D0%B0" rel="noopener noreferrer nofollow">жена Цезаря</a>) – точно вне подозрений. А результат – ни в какие ворота... А Вы твердо уверены, что всегда правильно оцениваете значимость таких корреляций? Если не очень – прошу под кат.</p> <a href="https://habr.com/ru/post/542638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542638#habracut">Если не очень &ndash; прошу под кат.</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 09:00:45 GMT</pubDate>
-      <dc:creator>adeshere</dc:creator>
-      <category><![CDATA[Data Mining]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Математика]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Физика]]></category>
-      <category><![CDATA[корреляция]]></category><category><![CDATA[статистика]]></category><category><![CDATA[зависимость]]></category><category><![CDATA[временные ряды]]></category><category><![CDATA[мониторинг]]></category><category><![CDATA[анализ данных]]></category><category><![CDATA[наблюдения]]></category>
-    </item>
-
-
-
-
-
-
-
-  
-
-
-
-    <item>
-      <title><![CDATA[[Перевод] Загадочная прочность стеклянного скелета морской губки]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542544/</guid>
-      <link>https://habr.com/ru/post/542544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542544</link>
-      <description><![CDATA[<h3>Живущая в глубинах Тихого океана стеклянная губка обладает поразительной способностью противостоять сжатию и сгибанию, не говоря уже о других её необычных свойствах</h3><br>
-<img src="https://habrastorage.org/getpro/habr/post_images/226/eaf/936/226eaf9362c13eedd4df9adc5a45ed59.jpg"><br>
-<i>Морская губка «Венерина цветочная корзина»</i><br>
-<br>
-В 1841 английский биолог Ричард Оуэн с изумлением изучал замысловатый скелет недавно открытой морской губки, обитающей вблизи Филиппин. Он писал, что её скелет «напоминает изысканный рог изобилия», сотканный из «жёстких, блестящих эластичных нитей, чего-то вроде тончайших волосков кручёного стекла». Скелет и правда был стеклянным – это животное, <a href="https://ru.wikipedia.org/wiki/Euplectella_aspergillum" rel="nofollow noopener noreferrer">Euplectella aspergillum</a>, прозванное «венериной цветочной корзинкой», изготавливает его при помощи кислоты, извлекаемой из морской воды.<br> <a href="https://habr.com/ru/post/542544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542544#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 08:36:01 GMT</pubDate>
-      <dc:creator>SLY_G</dc:creator>
-      <category><![CDATA[Научно-популярное]]></category><category><![CDATA[Биотехнологии]]></category>
-      <category>Euplectella aspergillum</category><category>Венерина цветочная корзина</category><category>губка</category><category>океан</category><category>скелет</category>
-    </item>
-
-
-
-      <item>
-      <title><![CDATA[5 подходов к стилизации React-компонентов на примере одного приложения]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542630/</guid>
-      <link>https://habr.com/ru/post/542630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542630</link>
-      <description><![CDATA[<img src="https://habrastorage.org/webt/98/k9/is/98k9issmcul9hqqfqbjuflx57uo.png"><br>
-<br>
-Доброго времени суток, друзья!<br>
-<br>
-Сегодня я хочу поговорить с вами о стилизации в React.<br>
-<br>
-Почему данный вопрос является актуальным? Почему в React существуют разные подходы к работе со стилями?<br>
-<br>
-Когда дело касается разметки (HTML), то React предоставляет в наше распоряжение JSX (JavaScript и XML). JSX позволяет писать разметку в JS-файлах — данную технику можно назвать «HTML-в-JS».<br>
-<br>
-Однако, когда речь идет о стилях, то React не предоставляет каких-либо специальных инструментов (JSC?). Поэтому каждый разработчик волен выбирать такие инструменты по своему вкусу.<br> <a href="https://habr.com/ru/post/542630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542630#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 08:29:01 GMT</pubDate>
-      <dc:creator>aio350</dc:creator>
-      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[ReactJS]]></category>
-      <category><![CDATA[javascript]]></category><category><![CDATA[программирование]]></category><category><![CDATA[разработка]]></category><category><![CDATA[react]]></category><category><![CDATA[reactjs]]></category><category><![CDATA[react.js]]></category><category><![CDATA[css]]></category><category><![CDATA[style]]></category><category><![CDATA[styles]]></category><category><![CDATA[стили]]></category><category><![CDATA[стилизация]]></category><category><![CDATA[styled-components]]></category><category><![CDATA[styled components]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Повторяем когортный анализ. Комплексный подход — Python, SQL, Power BI]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542626/</guid>
-      <link>https://habr.com/ru/post/542626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542626</link>
-      <description><![CDATA[<p>Добрый день уважаемые читатели! Данная статья является продолжением публикации "Повторяем когортный анализ, выполненный в Power BI, силами Python" (<a href="https://habr.com/ru/post/501492/" rel="noopener noreferrer nofollow">ссылка</a>). Настоятельно рекомендую познакомиться с ней хотя бы бегло, иначе последующее повествование будет вам малопонятным. С момента ее выхода на Хабр прошло достаточно времени. Я основательно пересмотрел методологию решения подобных задач. Первым желанием было просто переписать старый материал, но после недолгих размышлений я пришел к выводу, что более разумным шагом будет оформить наработки в новую рукопись.</p><p>Какова основная причина моего "недовольства" Python и Power BI? Язык Python/R c тематическими библиотеками и Power BI (Tableau, Qlik) могут на 70-80% закрыть потребности бизнеса в расчете сложных метрик и построении визуализаций. Но только если речь идет об обработке относительно небольших датасетов с уже агрегированными данными. Если мы говорим о предварительном манипулировании данными в промышленном масштабе, то здесь игра переходит на сторону сервера с БД и используется SQL. Данный момент я не осветил в предыдущей публикации, поэтому решил ликвидировать это упущение здесь.</p> <a href="https://habr.com/ru/post/542626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542626#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 08:24:45 GMT</pubDate>
-      <dc:creator>GrishenkovP</dc:creator>
-      <category><![CDATA[Python]]></category><category><![CDATA[PostgreSQL]]></category><category><![CDATA[SQL]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[Data Engineering]]></category>
-      <category><![CDATA[python]]></category><category><![CDATA[sql]]></category><category><![CDATA[postgresql]]></category><category><![CDATA[powerbi]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Подбор гиперпараметров ML-модели с помощью HYPEROPT]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542624/</guid>
-      <link>https://habr.com/ru/post/542624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542624</link>
-      <description><![CDATA[<p>В машинном обучении гиперпараметрами называют параметры модели, значения которых устанавливаются перед запуском процесса её обучения. Ими могут быть, как параметры самого алгоритма, например, глубина дерева в random forest, число соседей в knn, веса нейронов в нейронный сетях, так и способы обработки признаков, пропусков и т.д. Они используются для управления процессом обучения, поэтому подбор оптимальных гиперпараметров – очень важный этап в построении ML-моделей, позволяющий повысить точность, а также бороться с переобучением. На сегодняшний день существуют несколько популярных подходов к решению задачи подбора, например:</p><p>1.Поиск по решётке. В этом способе значения гиперпараметров задаются вручную, затем выполняется их полный перебор. Популярной реализацией этого метода является&nbsp;<a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html" rel="noopener noreferrer nofollow">Grid Search</a>&nbsp;из sklearn. Несмотря на свою простоту этот метод имеет и серьёзные недостатки:</p><p>Очень медленный т.к. надо перебрать все комбинации всех параметров. Притом перебор будет продолжаться даже при заведомо неудачных комбинациях.</p><p>Часто в целях экономии времени приходится укрупнять шаг перебора, что может привести к тому, что оптимальное значение параметра не будет найдено. Например, если задан диапазон значений от 100 до 1000 с шагом 100 (примером такого параметра может быть количество деревьев в случайном лесе, или градиентном бустинге), а оптимум находится около 550, то GridSearch его не найдёт.</p><p>2.Случайный поиск. Здесь параметры берутся случайным образом из выборки с указанным распределением. В sklearn он этот метод реализован как&nbsp;<a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html" rel="noopener noreferrer nofollow">Randomized Search</a>. В большинстве случаев он быстрее GridSearch, к тому же значения параметров не ограничены сеткой. Однако, даже это не всегда позволяет найти оптимум и не защищает от перебора заведомо неудачных комбинаций.</p><p>3.<a href="https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f" rel="noopener noreferrer nofollow">Байесовская оптимизация</a>. Здесь значения гиперпараметров в текущей итерации выбираются с учётом результатов на предыдущем шаге. Основная идея алгоритма заключается в следующем – на каждой итерации подбора находится компромисс между исследованием регионов с самыми удачными из найденных комбинаций гиперпараметров и исследованием регионов с большой неопределённостью (где могут находиться ещё более удачные комбинации). Это позволяет во многих случаях найти лучшие значения параметров модели за меньшее количество времени.</p> <a href="https://habr.com/ru/post/542624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542624#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 08:12:42 GMT</pubDate>
-      <dc:creator>NewTechAudit</dc:creator>
-      <category><![CDATA[Python]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Машинное обучение]]></category>
-      <category><![CDATA[HYPEROPT]]></category><category><![CDATA[ml]]></category><category><![CDATA[ml-модель]]></category><category><![CDATA[Grid Search]]></category><category><![CDATA[sklearn]]></category>
-    </item>
-
-
-
-
-
-
-
-  
-
-
-
-    <item>
-      <title><![CDATA[[Перевод] Защита от уязвимости Dependency Confusion в PHP с помощью Composer]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542598/</guid>
-      <link>https://habr.com/ru/post/542598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542598</link>
-      <description><![CDATA[<img src="https://habrastorage.org/webt/oj/xj/y-/ojxjy-8k35a2qhu7toatgtoncjg.png"><br>
-<br>
-Недавно Алекс Бирсан опубликовал статью <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610" rel="nofollow noopener noreferrer">«Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies»</a>, в которой рассказал, как использовал диспетчеры пакетов уровня языков наподобие npm (Javascript), pip (Python) и gems (Ruby), чтобы заставить компании установить и запустить в своей инфраструктуре зловредный код.<br>
-<br>
-Проблема сводится к тому, что компании ссылаются на внутренние пакеты по имени, например <code>my-internal-package</code>, а злоумышленник публикует в центральном реестре/репозитории пакетов языка (для PHP это <a href="https://packagist.org" rel="nofollow noopener noreferrer">packagist.org</a>) пакет с таким же названием <code>my-internal-package</code>, имеющий более высокую версию. После этого компании устанавливали и выполняли эти зловредные пакеты вместо своих внутренних пакетов, потому что их диспетчер пакетов выбирал версию с более высоким номером из стандартного репозитория пакетов вместо внутреннего репозитория.<br> <a href="https://habr.com/ru/post/542598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542598#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 08:10:01 GMT</pubDate>
-      <dc:creator>vdsina_m</dc:creator>
-      <category><![CDATA[Блог компании VDSina.ru]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[PHP]]></category><category><![CDATA[Программирование]]></category>
-      <category>Dependency Confusion</category><category>PHP</category><category>Composer</category>
-    </item>
-
-
-
-      <item>
-      <title><![CDATA[Git для новичков (часть 2)]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542616/</guid>
-      <link>https://habr.com/ru/post/542616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542616</link>
-      <description><![CDATA[<p>В <a href="https://habr.com/ru/post/541258/" rel="noopener noreferrer nofollow">прошлой статье</a>, я рассказал, что такое Git, как его установить и выложить свой код на GitHub. Сегодня мы поговорим про работу в команде над одним проектом. И как это устроено в Git.</p><p><em>В данной статье, вся работа с Git будет через командную строку.</em></p> <a href="https://habr.com/ru/post/542616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542616#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 08:02:35 GMT</pubDate>
-      <dc:creator>freshds</dc:creator>
-      <category><![CDATA[Git]]></category><category><![CDATA[GitHub]]></category>
-      <category><![CDATA[git]]></category><category><![CDATA[github]]></category><category><![CDATA[новичкам]]></category><category><![CDATA[новичкам ит]]></category><category><![CDATA[новичку]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Представляем образ ВМ оптимизированный для высокопроизводительных вычислений (HPC)]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542580/</guid>
-      <link>https://habr.com/ru/post/542580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542580</link>
-      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/4a7/b28/b2f/4a7b28b2f373d98aa9420e39aebab977.jpg" alt="image"><br>
-<br>
-Мы рады сообщить о выходе общедоступной предварительной версии образа виртуальной машины (ВМ) на базе CentOS 7, оптимизированного для высокопроизводительных вычислений (HPC). Прежде всего, он рассчитан на сильносвязанные рабочие нагрузки Message Passing Interface (MPI). В этой статье подробно рассказано о специальных образе ВМ для высокопроизводительных вычислений и его преимуществах. Чтобы сразу перейти к созданию экземпляров на основе этого образа, прочитайте&nbsp;<a href="http://cloud.google.com/compute/docs/instances/create-hpc-vm" rel="nofollow noopener noreferrer">документацию и краткое руководство.</a><br> <a href="https://habr.com/ru/post/542580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542580#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 08:01:55 GMT</pubDate>
-      <dc:creator>Developers_Relations</dc:creator>
-      <category><![CDATA[Блог компании Google Developers]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Облачные вычисления]]></category><category><![CDATA[Облачные сервисы]]></category>
-      <category><![CDATA[Google]]></category><category><![CDATA[GCP]]></category><category><![CDATA[Google Cloud]]></category><category><![CDATA[HPC]]></category><category><![CDATA[Облачные вычисления]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Очень краткое введение в SysML или «а куда кобылу запрягать?»]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542606/</guid>
-      <link>https://habr.com/ru/post/542606/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542606</link>
-      <description><![CDATA[<p>В поисках нотации для описания архитектурных решений наткнулся на относительно новое детище OMG - язык визуального моделирования SysML. Кто-то может сказать, что это тот же UML, только в профиль, но чем больше я с ним знакомлюсь, тем больше мне нравится эта нотация.</p> <a href="https://habr.com/ru/post/542606/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542606#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 07:54:26 GMT</pubDate>
-      <dc:creator>ganouver</dc:creator>
-      <category><![CDATA[Анализ и проектирование систем]]></category>
-      <category><![CDATA[sysml]]></category><category><![CDATA[uml]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Социальные сети оказались безопаснее порталов государственных услуг]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542604/</guid>
-      <link>https://habr.com/ru/post/542604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542604</link>
-      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/webt/te/y9/cu/tey9cuu2obzkotw2hx0kgfqwd_y.jpeg"></div><br>
-Мы протестировали порталы государственных услуг по новым методикам, оценивающим надежность HTTPS-соединения с ними и уровень защиты от XSS, а также сравнили их с сайтами соцсетей, банка, транспортных и сервисных компаний. <a href="https://ifap.ru/pr/2021/210216a.htm" rel="nofollow noopener noreferrer">Результат</a> в чем-то предсказуемый (с безопасностью электронных госуслуг все плохо), а в чем-то нет (у большинства сайтов из «контрольной группы» дела не лучше), но давайте обо всем по порядку.<br> <a href="https://habr.com/ru/post/542604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542604#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 07:53:20 GMT</pubDate>
-      <dc:creator>ifap</dc:creator>
-      <category><![CDATA[Информационная безопасность]]></category>
-      <category><![CDATA[https]]></category><category><![CDATA[tls]]></category><category><![CDATA[cve]]></category><category><![CDATA[xss]]></category><category><![CDATA[госуслуги]]></category><category><![CDATA[сайты]]></category><category><![CDATA[безопасность]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Парад идей на рынке образовательных технологий]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/541914/</guid>
-      <link>https://habr.com/ru/post/541914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541914</link>
-      <description><![CDATA[Иногда хочется бросить все, чем ты занимаешься, и просто заработать много денег… при этом не нарушая закон.  Если у вас есть идеи, как это сделать — поделитесь. Лично я ставлю на стартап в сфере EdTech. В этом посте я объясню почему и расскажу о нескольких интересных идеях на рынке образования, которые можно попробовать превратить в прибыльные компании. Я активно занимался вопросами образования более 17 лет, пройдя путь от инструктора до директора учебного центра <a href="https://academy.ru/" rel="nofollow noopener noreferrer">«Сетевая Академия ЛАНИТ»</a>. Тем не менее, я не претендую на полноту обзора, поскольку в EdTech чуть ли не каждый день появляется что-то новое.<br>
-<br>
-<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/d88/cc7/cba/d88cc7cba347ead91c11ea75cfb98790.png"></div><a href="https://builtin.com/edtech/edtech-companies" rel="nofollow noopener noreferrer"><i>Источник</i></a><br> <a href="https://habr.com/ru/post/541914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=541914#habracut">Читать дальше &rarr;</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 07:01:41 GMT</pubDate>
-      <dc:creator>DmitryI</dc:creator>
-      <category><![CDATA[Блог компании ГК ЛАНИТ]]></category><category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Образование за рубежом]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[Бизнес-модели]]></category>
-      <category><![CDATA[сетевая академия ланит]]></category><category><![CDATA[ланит]]></category><category><![CDATA[образование]]></category><category><![CDATA[edtech]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Что почитать (НаучПоп / Научная Фантастика)]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542578/</guid>
-      <link>https://habr.com/ru/post/542578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542578</link>
-      <description><![CDATA[<p>Некоторые время назад сильно увлёкся потреблением <a href="https://habr.com/ru/post/541024/" rel="noopener noreferrer nofollow">информации с научно-популярным</a> уклоном. Но как не заблудиться в миллионах книг? Ресурс то ограничен. А значит придётся выбирать. <br><br>Удалось собрать библиотеку по 4 разделам: </p><p><br><strong><em>Раздел 1. Законы науки и мышление</em></strong><br>(Математика, Рациональность, Научный метод, Когнитивные искажения, Нейрофизиология, Ошибки мышления, Доказательная медицина)<br><br><strong><em>Раздел 2. Законы природы</em></strong><br>(Физика, Математика, Теория относительности, Квантовая механика, Астрофизика, Астрономия, Изобретения и открытия)<br><br><strong><em>Раздел 3. Законы жизни</em></strong><br>(Абиогенез, Теория эволюции, Молекулярная биология, Биоинформатика, Биология клетки, Антропогенез)<br><br><strong><em>Раздел 4. Художественный научпоп / Научная фантастика</em></strong></p> <a href="https://habr.com/ru/post/542578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542578#habracut">Обменяться рекомендациями</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 07:01:01 GMT</pubDate>
-      <dc:creator>Frontir</dc:creator>
-      <category><![CDATA[Читальный зал]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Физика]]></category><category><![CDATA[Научная фантастика]]></category><category><![CDATA[Мозг]]></category>
-      <category><![CDATA[научно-популярное]]></category><category><![CDATA[наука]]></category><category><![CDATA[научпоп]]></category><category><![CDATA[научный метод]]></category><category><![CDATA[подборка]]></category><category><![CDATA[рейтинг]]></category><category><![CDATA[книги]]></category><category><![CDATA[физика]]></category><category><![CDATA[мозг]]></category><category><![CDATA[мышление]]></category>
-    </item>
-
-
-
-
-
-
-
-      <item>
-      <title><![CDATA[Вы бы доверили свою задачу ИИ? 7 вопросов, которые помогут определиться]]></title>
-      <guid isPermaLink="true">https://habr.com/ru/post/542260/</guid>
-      <link>https://habr.com/ru/post/542260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542260</link>
-      <description><![CDATA[<p>На одном из докоронавирусных мероприятий&nbsp;<a href="https://developer.microsoft.com/en-us/reactor/?WT.mc.id=aiml-15614-amynic">Microsoft Reactor в Лондоне&nbsp;</a>я посетила действительно интересный семинар Future Recoded, посвященный&nbsp;<strong>этике в искусственном интеллекте</strong>.</p><p>Я знаю, что вы подумали…</p><p>"<em>Очередной семинар по этике в ИИ, на котором рассказывают, что все вредоносно, а программисты и специалисты по анализу данных совершают уйму ошибок. И сейчас нам расскажут, как этих ошибок избежать".</em></p><p>Но этот семинар стал исключением…&nbsp;<strong>И запомнился мне необычайно свежим подходом.</strong></p><p>Для начала спикер задал несколько на первый взгляд простых вопросов. Попробуйте ответить на них сами <em>(потом я поделюсь своими ответами).</em></p><p><strong>Вы бы доверили искусственному интеллекту…</strong></p><p>Порекомендовать вам продукт?</p><p>Защитить ваши данные в Интернете?</p><p>Помогать вам за рулем?</p><p>Управлять вашей машиной?</p><p>Следить за вашим здоровьем?</p><p>Выдавать вам лекарства?</p><p>Выбрать няню?</p> <a href="https://habr.com/ru/post/542260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=542260#habracut">Читать далее</a>]]></description>
-      
-      <pubDate>Tue, 16 Feb 2021 07:00:02 GMT</pubDate>
-      <dc:creator>sahsAGU</dc:creator>
-      <category><![CDATA[Блог компании Microsoft]]></category><category><![CDATA[Python]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Искусственный интеллект]]></category>
-      <category><![CDATA[этика]]></category><category><![CDATA[искусственный интеллект]]></category><category><![CDATA[microsoft]]></category>
     </item>
 
 

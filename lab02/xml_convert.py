@@ -1,6 +1,6 @@
 import pandas_read_xml as pdx
 
-path = "/Users/install/Data-Analysis/"                                  # your path
+path = "/Users/install/Data-Analysis"                                  # your path
 
 df = pdx.read_xml(f'{path}/lab01/final.xml')
 

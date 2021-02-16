@@ -12,7 +12,7 @@
 	<atom:link href="https://www.helpnetsecurity.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.helpnetsecurity.com</link>
 	<description>Daily information security news with a focus on enterprise security.</description>
-	<lastBuildDate>Tue, 16 Feb 2021 07:34:58 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Feb 2021 13:44:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hackers exploited Centreon monitoring software to compromise IT providers</title>
+		<link>https://www.helpnetsecurity.com/2021/02/16/hackers-centreon/</link>
+		
+		<dc:creator><![CDATA[Zeljka Zorz]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 13:08:55 +0000</pubDate>
+				<category><![CDATA[Don't miss]]></category>
+		<category><![CDATA[Featured news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[ANSSI]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[Centreon]]></category>
+		<category><![CDATA[ESET]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[IT providers]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[system monitoring]]></category>
+		<category><![CDATA[web shell]]></category>
+		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=170144</guid>
+
+					<description><![CDATA[<p>Unknown hackers &#8211; possibly the Sandworm APT &#8211; have been compromising enterprise servers running the Centreon monitoring software for over three years, the French National Cybersecurity Agency (ANSSI) has shared on Monday. The intrusion campaign resulted in the breach of several French entities, the agency said. The attackers mostly went after IT providers, and particularly web hosting providers. Attack details The hackers exploited public-facing Centreon installations to gain access to the underlying system (servers running &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/hackers-centreon/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/hackers-centreon/">Hackers exploited Centreon monitoring software to compromise IT providers</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Top 10 most used MITRE ATT&#038;CK tactics and techniques</title>
 		<link>https://www.helpnetsecurity.com/2021/02/16/most-used-mitre-attck-tactics/</link>
 		
@@ -237,24 +264,6 @@
 
 					<description><![CDATA[<p>Actiphy announces the release of the next generation of ActiveVisor, a centralized management solution for ActiveImage Protector backup clients, with many new features including enhanced integration with Microsoft’s Active Directory Services. The Covid-19 pandemic has changed how we work, and that’s changing how we must protect our computing resources. With so many people working from home and from remote locations it is essential that any reliable backup and recovery solution provide the ability to protect &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/actiphy-activevisor/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
 <p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/actiphy-activevisor/">Actiphy launches next-gen ActiveVisor, a management solution for ActiveImage Protector backup clients</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tyto Athene and Tellabson launch ACUITY LAN to bring network readiness in a two person carry form-factor</title>
-		<link>https://www.helpnetsecurity.com/2021/02/16/tyto-athene-tellabson/</link>
-		
-		<dc:creator><![CDATA[Industry News]]></dc:creator>
-		<pubDate>Tue, 16 Feb 2021 01:30:28 +0000</pubDate>
-				<category><![CDATA[Industry news]]></category>
-		<category><![CDATA[Tellabson]]></category>
-		<category><![CDATA[Tyto Athene]]></category>
-		<guid isPermaLink="false">https://www.helpnetsecurity.com/?p=169902</guid>
-
-					<description><![CDATA[<p>Tyto Athene announce partnership with Tellabson on the launch of the ACUITY LAN Solution. Tyto Athene’s ACUITY Micro Data Center was developed to deliver mission-critical edge processing, analytics and unified communications in a turn-key solution that only weighs 30 pounds. With the addition of Tellabs Optical LAN (OLAN), the ACUITY LAN Solution is able to scale its tactical transportable network in minutes. The ACUITY LAN is an edge solution that leverages Tellabs OLAN to ensure &#8230; <a href="https://www.helpnetsecurity.com/2021/02/16/tyto-athene-tellabson/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
-<p>The post <a rel="nofollow" href="https://www.helpnetsecurity.com/2021/02/16/tyto-athene-tellabson/">Tyto Athene and Tellabson launch ACUITY LAN to bring network readiness in a two person carry form-factor</a> appeared first on <a rel="nofollow" href="https://www.helpnetsecurity.com">Help Net Security</a>.</p>
 ]]></description>
 		
 		

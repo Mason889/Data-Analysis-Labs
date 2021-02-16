@@ -5,8 +5,8 @@
 <link>https://www.itweek.ru</link>
 <description>Издание itWeek (до 2018 года — PC Week) на портале и на страницах бумажного номера информирует читателей об актуальных информационных и коммуникационных технологиях, продуктах и решениях и опыте развития цифровой экономики и цифровой трансформации предприятий и организаций всех масштабов и отраслей. Издание рассказывает о важнейших событиях отечественного и мирового рынка ИКТ и анализирует тенденции развития ИКТ-индустрии.</description>
 <language>ru</language>
-<pubDate>Tue, 16 Feb 2021 12:43:40 +0300</pubDate>
-<lastBuildDate>Tue, 16 Feb 2021 12:43:40 +0300</lastBuildDate>
+<pubDate>Tue, 16 Feb 2021 17:14:57 +0300</pubDate>
+<lastBuildDate>Tue, 16 Feb 2021 17:14:57 +0300</lastBuildDate>
 <docs>https://www.itweek.ru/rss</docs>
 <generator>itWeek</generator>
 <ttl>30</ttl>
@@ -16,6 +16,48 @@
 	<link>https://www.itweek.ru</link>
 </image>
 <atom:link href="https://www.itweek.ru/rss/" rel="self" type="application/rss+xml" />
+<item>
+	<title>Polywell Computers анонсировала выпуск набора аппаратных средств</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216816</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216816</guid>
+	<description>Американская компания Polywell Computers, специализирующаяся на выпуске промышленных мини ПК, сообщила о выпуске набора аппаратных средств, с помощью которого проектировщик систем машинного зрения и искусственного интеллекта может воплощать проекты ...</description>
+	<pubDate>Tue, 16 Feb 2021 15:01:11 +0300</pubDate>
+</item>
+<item>
+	<title>LeverX Group: ошибки планирования производства — к чему приводят и как их избежать?</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216813</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216813</guid>
+	<description>18 февраля 2021 года LeverX Group проведет бесплатный вебинар по планированию производственных процессов (PP/DS) на базе современной ERP-системы SAP S/4HANA. Участники вебинара смогут разобрать типичные сценарии планирования производства на предприятии ...</description>
+	<pubDate>Tue, 16 Feb 2021 14:05:28 +0300</pubDate>
+</item>
+<item>
+	<title>Вышла расширенная версия системы управления BMC для серверных платформ RAS</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216812</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216812</guid>
+	<description>R&amp;D-команда «Рикор» объявила о выпуске расширенной версии системы управления BMC для серверных платформ RAS (Rikor Access System). В базовом функционале RAS уже содержится большинство самых необходимых обычному пользователю функций, включая полноценное ...</description>
+	<pubDate>Tue, 16 Feb 2021 13:17:40 +0300</pubDate>
+</item>
+<item>
+	<title>Разработка Artezio вернёт бизнесу нерешительных клиентов</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216811</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216811</guid>
+	<description>Компания Artezio (входит в группу ЛАНИТ) приняла участие в разработке технологии — Partial Entry Forms, которая позволит бизнесу привлекать больше клиентов к своим услугам или продуктам. Новое приложение позволяет отслеживать действия нерешительных ...</description>
+	<pubDate>Tue, 16 Feb 2021 13:14:40 +0300</pubDate>
+</item>
+<item>
+	<title>Treolan стала официальным дистрибьютором разработчика онлайн-платформы designs.ai</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216810</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216810</guid>
+	<description>Российский ИТ-дистрибьютор Treolan (входит в группу ЛАНИТ) и группа компаний Inmagine Group, разработчик онлайн-платформы designs.ai, подписали соглашение о сотрудничестве. С января 2021 года Treolan начал поставки электронных годовых лицензий designs.ai ...</description>
+	<pubDate>Tue, 16 Feb 2021 13:08:49 +0300</pubDate>
+</item>
+<item>
+	<title>IDC: российский рынок ПК в четвертом квартале 2020 года снизился в штучном выражении на 3,3%</title>
+	<link>https://www.itweek.ru/themes/detail.php?ID=216809</link>
+	<guid>https://www.itweek.ru/themes/detail.php?ID=216809</guid>
+	<description>Компания IDC подвела итоги исследования российского рынка персональных компьютеров за четвертый квартал 2020 годa. По данным IDC PC Quarterly Tracker, в Россию за этот период было поставлено около 1,66 млн настольных и портативных компьютеров, что ...</description>
+	<pubDate>Tue, 16 Feb 2021 12:50:23 +0300</pubDate>
+</item>
 <item>
 	<title>“Росводоканал” готов делиться опытом цифровизации</title>
 	<link>https://www.itweek.ru/themes/detail.php?ID=216805</link>
@@ -27,7 +69,7 @@
 	<title>Comindware: монетизация изменений и трансформация бизнеса в 2020-2021 гг.</title>
 	<link>https://www.itweek.ru/themes/detail.php?ID=216803</link>
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216803</guid>
-	<description>Компания Comindware, резидент Фонда «Сколково», сообщила о доступности для скачивания русской локализации ключевых пунктов отчёта PEX Network — глобального сообщества BPM-профессионалов и руководителей — о том как пандемия COVID-19 повлияла на место ...</description>
+	<description>Компания Comindware, резидент Фонда «Сколково», сообщила о&amp;nbsp;доступности для скачивания русской локализации ключевых пунктов отчёта PEX Network&amp;nbsp;— глобального сообщества BPM-профессионалов и&amp;nbsp;руководителей&amp;nbsp;— о&amp;nbsp;том как пандемия ...</description>
 	<pubDate>Tue, 16 Feb 2021 11:06:30 +0300</pubDate>
 </item>
 <item>
@@ -183,48 +225,6 @@
 	<guid>https://www.itweek.ru/themes/detail.php?ID=216771</guid>
 	<description>Во&amp;nbsp;время пандемии многие предприятия избрали более короткий путь цифровой трансформации, но&amp;nbsp;теперь пришло время взглянуть на&amp;nbsp;это под другим углом. Опрошенные порталом Enterprisers Project эксперты обсуждают основные составляющие цифровой ...</description>
 	<pubDate>Fri, 12 Feb 2021 10:39:38 +0300</pubDate>
-</item>
-<item>
-	<title>Сказки о безопасности: Атака на воду</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216770</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216770</guid>
-	<description>—&amp;nbsp;Доброе утро, шеф! —&amp;nbsp;Доброе утро, Боб! —&amp;nbsp;Что у&amp;nbsp;нас нового? —&amp;nbsp;Боюсь, что новости неутешительные. Сейчас ты&amp;nbsp;летишь на&amp;nbsp;другую часть острова. Там проблема на&amp;nbsp;водонапорной станции. —&amp;nbsp;Господи, а&amp;nbsp;я-то тут ...</description>
-	<pubDate>Fri, 12 Feb 2021 09:49:23 +0300</pubDate>
-</item>
-<item>
-	<title>VMware vSAN как единая платформа корпоративного класса для виртуализации хранилища</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216760</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216760</guid>
-	<description>Гибридные облака представляют собой наиболее гибкую, компромиссную по&amp;nbsp;затратам и&amp;nbsp;эффективности среду для хранения бизнес-критичных данных, особенно в&amp;nbsp;нынешних непростых и&amp;nbsp;слабо предсказуемых экономических условиях. Однако переход ...</description>
-	<pubDate>Fri, 12 Feb 2021 00:00:00 +0300</pubDate>
-</item>
-<item>
-	<title>«КАУС-IT»: причины кадрового голода в IT</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216769</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216769</guid>
-	<description>Спрос на IT-специалистов на протяжении последних нескольких лет неуклонно растёт. При этом квалифицированные опытные специалисты остаются в неизменном дефиците. Самыми востребованными являются программисты, тестировщики, архитекторы, аналитики ...</description>
-	<pubDate>Thu, 11 Feb 2021 22:37:14 +0300</pubDate>
-</item>
-<item>
-	<title>CSoft Development представила новую версию СКM «ПолигонСофт»</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216768</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216768</guid>
-	<description>Вышла новая версия системы инженерного анализа литейных процессов СКМ ЛП «ПолигонСофт» 2020.0. Новая архитектура системы продолжает вытеснять старый код, а потерявшие актуальность модули заменяются или удаляются. Система прошла все основные стадии ...</description>
-	<pubDate>Thu, 11 Feb 2021 19:37:29 +0300</pubDate>
-</item>
-<item>
-	<title>Почему DevOps имеет решающее значение для цифровой трансформации</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216766</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216766</guid>
-	<description>Пандемия многократно ускорила технологическую трансформацию, и чтобы не отставать от прогресса, организации должны сосредоточиться на автоматизации и эффективности. DevOps-архитектор Capgemini North America Венки Ченнапрагада рассказывает на портале ...</description>
-	<pubDate>Thu, 11 Feb 2021 17:47:16 +0300</pubDate>
-</item>
-<item>
-	<title>X-Com развивает сотрудничество с госкорпорацией «Роскосмос»</title>
-	<link>https://www.itweek.ru/themes/detail.php?ID=216765</link>
-	<guid>https://www.itweek.ru/themes/detail.php?ID=216765</guid>
-	<description>Компания X-Com завершила проект масштабирования парка клиентского оборудования Научно-технического центра «Охрана» (НТЦ «Охрана») — структурного подразделения госкорпорации «Роскосмос». Десятки новых рабочих мест сотрудников предприятия оснащены ...</description>
-	<pubDate>Thu, 11 Feb 2021 17:40:18 +0300</pubDate>
 </item>
 </channel>
 </rss>
