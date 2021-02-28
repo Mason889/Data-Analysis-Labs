@@ -14,4 +14,4 @@ Requirements:
 * Docker
 * pip packages: requests, datetime, json
 
-Docker run command for Elasticsearch: `docker run -d --name elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.10.1`
+Docker run command for Elasticsearch: `docker run -d --name elasticsearch -p 9200:9200 -p 9300:9300 -e discovery.type=single-node docker.elastic.co/elasticsearch/elasticsearch:7.10.1`
