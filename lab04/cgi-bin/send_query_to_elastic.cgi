@@ -1,11 +1,12 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3.8
 print("Content-Type: text/html")    # HTML is following
 print()                             # blank line, end of headers
 print("<TITLE>CGI script output</TITLE>")
 print("<H1>This is my first CGI script</H1>")
-import cgitb
+import cgi, cgitb
 
-cgitb.enable(display=0)
+cgitb.enable()
 
 form = cgi.FieldStorage()
-data = form.getvalue('search_query')
+query = form.getvalue('search_query')
+source =  form.getvalue('seach_src')
