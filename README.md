@@ -14,7 +14,11 @@ Requirements:
 * Docker
 * pip packages: requests, datetime, json
 
-Docker run command for Elasticsearch: `docker run -d --name elasticsearch --hostname elastic -p 9200:9200 -p 9300:9300 -e discovery.type=single-node docker.elastic.co/elasticsearch/elasticsearch:7.10.1` (if you want to use default docker network)
+Create Docker network:
+`docker network create -d bridge elastic`
+
+Docker run command for Elasticsearch: 
+`docker run -d --network elastic --name elasticsearch --hostname elastic -p 9200:9200 -p 9300:9300 -e discovery.type=single-node docker.elastic.co/elasticsearch/elasticsearch:7.10.1`
 
 ## Lab04
-Docker run command `docker run -p 8883:80 -d --name httpd_cgi httpd_cgi_python`
+Docker run command `docker run --network elastic -p 8883:80 -d --name httpd_cgi --hostname httpd_cgi httpd_cgi_python`
