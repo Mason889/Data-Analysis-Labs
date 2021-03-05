@@ -29,6 +29,7 @@ RUN apt update -qq && apt install -y --no-install-recommends \
 	python${PYTHON_VERSION}-dev \
 	python3-distutils && \
     python${PYTHON_VERSION} get-pip.py && \
+	pip install requests && \
     rm -rf /var/cache/apk/*
 
 # Http settings
