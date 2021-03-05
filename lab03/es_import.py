@@ -1,3 +1,4 @@
+from urllib.parse import urlparse
 import requests
 import json
 import datetime
@@ -11,6 +12,7 @@ with open(f'{path}/lab02/final.json') as rss_json:
         r = requests.post(url = f'{ES_URL}/daan/rss', json = {
             "title": f'{element["title"]}',
             "link": f'{element["link"]}',
+            "source": f'{urlparse(element["link"]).hostname}',
             "description": f'{element["description"]}',
             "pubDate": f'{element["pubDate"]}' if 'pubDate' in element else f'{datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S")}'
         })
