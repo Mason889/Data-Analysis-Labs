@@ -21,4 +21,5 @@ Docker run command for Elasticsearch:
 `docker run -d --network elastic --name elasticsearch --hostname elastic -p 9200:9200 -p 9300:9300 -e discovery.type=single-node docker.elastic.co/elasticsearch/elasticsearch:7.10.1`
 
 ## Lab04
+Build Docker image httpd_cgi_python with needed files `docker build -t httpd_cgi_python -f Dockerfile .`
 Docker run command `docker run --network elastic -p 8883:80 -d --name httpd_cgi --hostname httpd_cgi httpd_cgi_python`
