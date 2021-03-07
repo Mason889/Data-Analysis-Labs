@@ -1,6 +1,7 @@
 #!/usr/bin/python3.8
 print("Content-Type: text/html")    # HTML is following
 print()                             # blank line, end of headers
+print('<head><meta charset="UTF-8"></head>')
 print("<TITLE>CGI script output</TITLE>")
 print("<h2>Output of your query</h2><br>")
 import cgi, cgitb
