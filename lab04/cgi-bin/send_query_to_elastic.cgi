@@ -16,7 +16,7 @@ form = cgi.FieldStorage()
 query = form.getvalue('search_query')
 source =  form.getvalue('seach_src')
 
-r = requests.get(url = f'{ES_URL}/_all/_search?pretty=true&size=100', json = {
+r = requests.get(url = f'{ES_URL}/daan/rss/_search?pretty=true&size=100', json = {
     "query": {
         "bool": {
             "must": [
