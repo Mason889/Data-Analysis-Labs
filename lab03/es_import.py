@@ -6,7 +6,7 @@ import datetime
 path = "/Users/install/Data-Analysis"
 ES_URL = "http://localhost:9200"
 
-with open(f'{path}/lab02/final.json') as rss_json:
+with open(f'{path}/lab02/final.json', 'r', encoding='utf-8') as rss_json:
     data = json.load(rss_json)
     for element in data['rss']['channel']['item']:
         r = requests.post(url = f'{ES_URL}/daan/rss', json = {
