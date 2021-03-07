@@ -1,10 +1,11 @@
-import pandas_read_xml as pdx
+import xmltodict
 import json
 
 path = "/Users/install/Data-Analysis"                                  # your path
 
-df = pdx.read_xml(f'{path}/lab01/final.xml', ['rss'])
-
-with open(f'{path}/lab02/final.json', 'w', encoding='utf-8') as g:
-    # json.dump(df.to_json(), g, ensure_ascii=False)
-    g.write(df.to_json())
+with open(f'{path}/lab01/final.xml', 'r', encoding='utf-8') as xml_file:
+    data_dict=xmltodict.parse(xml_file.read())
+    xml_file.close()
+    with open(f'{path}/lab02/final.json', 'w', encoding='utf-8') as g:
+        json.dump(data_dict, g, ensure_ascii=False)
+        g.close()

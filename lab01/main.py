@@ -22,4 +22,4 @@ for (_, _, filenames) in os.walk(f'{path}/lab01/rss'):
                 finalinks.append(link)
                 finalroot[0].append(x)
 
-final.write(f'{path}/lab01/final.xml')
+final.write(f'{path}/lab01/final.xml', encoding='utf-8', xml_declaration=True)

@@ -8,7 +8,7 @@ ES_URL = "http://localhost:9200"
 
 with open(f'{path}/lab02/final.json') as rss_json:
     data = json.load(rss_json)
-    for element in data['channel']['item']:
+    for element in data['rss']['channel']['item']:
         r = requests.post(url = f'{ES_URL}/daan/rss', json = {
             "title": f'{element["title"]}',
             "link": f'{element["link"]}',
