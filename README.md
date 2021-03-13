@@ -28,3 +28,5 @@ Docker run command `docker run --network elastic -p 8883:80 -d --name httpd_cgi 
 Before running of python command, you need to run elasticseach & kibana in docker
 Docker run for kibana: `docker run -d --network elastic --name kibana --hostname kibana -p 5601:5601 -e ELASTICSEARCH_URL=http://elastic:9200 -e ELASTICSEARCH_HOSTS=http://elastic:9200 docker.elastic.co/kibana/kibana:7.10.1`
 Run python command `python main.py` for data migration from file hb.json
+
+## Lab06
