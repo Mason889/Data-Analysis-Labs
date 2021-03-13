@@ -1,5 +1,5 @@
 import requests
-import json
+import json, csv
 
 ES_URL = 'http://localhost:9200'
 
