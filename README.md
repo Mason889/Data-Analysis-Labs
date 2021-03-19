@@ -30,3 +30,4 @@ Docker run for kibana: `docker run -d --network elastic --name kibana --hostname
 Run python command `python main.py` for data migration from file hb.json
 
 ## Lab06
+Run `python main.py` to run creation of __aggregation_data.csv__ file.
