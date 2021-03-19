@@ -31,3 +31,7 @@ Run python command `python main.py` for data migration from file hb.json
 
 ## Lab06
 Run `python main.py` to run creation of __aggregation_data.csv__ file.
+
+## Lab07
+Docker run command for jupyter/scipy-notebook and after that just copypaste code from files in lab07 directory
+`docker run -d --name jupyter -p 8888:8888 jupyter/scipy-notebook`
