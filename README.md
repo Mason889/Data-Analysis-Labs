@@ -35,3 +35,7 @@ Run `python main.py` to run creation of __aggregation_data.csv__ file.
 ## Lab07
 Docker run command for jupyter/scipy-notebook and after that just copypaste code from files in lab07 directory
 `docker run -d --name jupyter -p 8888:8888 jupyter/scipy-notebook`
+
+## Lab08
+On the beggining you need to run `main.py` file and after that `second.py`
+`python main.py && python second.py`
